@@ -1,0 +1,1501 @@
+motorista_id;nome;sobrenome;empresa;regiao;rating;tempo_ativo_meses;categoria_carro;idade;modelo_carro;nota_motorista;genero
+1;Lucas;Pereira;MoveX;Zona Norte;398;7;Black;43;VW Taos 2023;4.55;Masculino
+2;Julia;Vieira;MoveX;Zona Norte;121;32;Black;34;VW Taos 2023;4.86;Feminino
+3;Carla;Soares;RideUp;Zona Norte;351;53;Black;58;Jeep Commander 2023;4.08;Masculino
+4;Camila;Souza;RideUp;Zona Norte;293;53;Black;43;Honda Civic 2022;4.09;Feminino
+5;Bernardo;Carvalho;GoDrive;Centro;210;29;Econômico;27;VW Polo Track 2023;4.97;Masculino
+6;Heloísa;Alves;GoDrive;Zona Norte;76;59;Econômico;48;Renault Kwid 2024;4.68;Feminino
+7;Ana;Fernandes;RideUp;Centro;291;54;Black;24;Jeep Commander 2023;4.49;Feminino
+8;Camila;Souza;GoDrive;Zona Leste;308;17;Econômico;31;Hyundai HB20 2023;4.18;Masculino
+9;Lucas;Fernandes;GoDrive;Zona Sul;248;9;Econômico;39;Chevrolet Onix 2022;4.81;Feminino
+10;Heloísa;Alves;MoveX;Zona Sul;195;50;Black;41;Toyota Corolla 2024;4.59;Feminino
+11;Arthur;Gomes;MoveX;Zona Oeste;145;39;Econômico;57;Chevrolet Onix 2022;4.95;Feminino
+12;Gael;Carvalho;RideUp;Zona Leste;353;55;Black;22;Jeep Compass 2023;4.15;Masculino
+13;Gael;Carvalho;RideUp;Zona Sul;490;13;Comfort;57;Chevrolet Tracker 2022;4.58;Masculino
+14;Ana;Pereira;GoDrive;Zona Sul;32;53;Comfort;52;Nissan Kicks 2022;4.71;Masculino
+15;Arthur;Ribeiro;MoveX;Zona Sul;340;43;Econômico;46;Fiat Argo 2021;4.78;Feminino
+16;Matheus;Silva;GoDrive;Centro;241;60;Econômico;57;VW Polo Track 2023;4.54;Feminino
+17;Ana;Fernandes;RideUp;Zona Oeste;113;22;Econômico;47;Citroën C3 2023;4.55;Masculino
+18;Matheus;Carvalho;RideUp;Centro;357;44;Econômico;50;Hyundai HB20 2023;4.46;Masculino
+19;Gabriel;Carvalho;MoveX;Zona Oeste;21;42;Comfort;41;Hyundai HB20S 2022;4.27;Masculino
+20;Miguel;Souza;GoDrive;Zona Sul;91;15;Comfort;40;Chevrolet Onix Plus 2023;4.28;Feminino
+21;Heitor;Ferreira;GoDrive;Zona Leste;498;41;Comfort;28;Jeep Renegade 2021;4.37;Masculino
+22;Felipe;Martins;MoveX;Centro;418;17;Econômico;52;Citroën C3 2023;4.87;Masculino
+23;Isadora;Rodrigues;MoveX;Zona Oeste;385;27;Comfort;31;VW Virtus 2022;4.63;Feminino
+24;Helena;Barbosa;GoDrive;Zona Sul;51;7;Black;29;Toyota Corolla Cross 2024;4.42;Feminino
+25;Julia;Souza;RideUp;Zona Norte;102;4;Comfort;45;Nissan Kicks 2022;4.32;Masculino
+26;Gustavo;Lima;GoDrive;Zona Leste;274;59;Econômico;23;Renault Kwid 2024;4.77;Feminino
+27;Matheus;Santos;GoDrive;Zona Leste;407;41;Comfort;25;Hyundai HB20S 2022;4.40;Masculino
+28;Lara;Vieira;GoDrive;Centro;480;13;Black;36;Toyota Corolla Cross 2024;4.42;Masculino
+29;Valentina;Costa;RideUp;Centro;285;7;Comfort;23;Chevrolet Onix Plus 2023;4.38;Masculino
+30;Bruno;Silva;RideUp;Centro;462;32;Comfort;52;Nissan Versa 2023;4.67;Feminino
+31;Alice;Santos;MoveX;Zona Leste;310;21;Comfort;49;VW Virtus 2022;4.52;Feminino
+32;Maria;Costa;RideUp;Zona Oeste;197;40;Black;27;Toyota Corolla Cross 2024;4.15;Feminino
+33;Helena;Barbosa;RideUp;Zona Oeste;411;31;Comfort;58;VW Virtus 2022;4.96;Masculino
+34;Matheus;Soares;RideUp;Zona Sul;43;60;Econômico;25;Fiat Mobi 2022;4.60;Masculino
+35;Valentina;Souza;GoDrive;Zona Leste;367;49;Econômico;37;Renault Kwid 2024;4.94;Feminino
+36;Gael;Fernandes;RideUp;Zona Oeste;217;42;Black;50;VW Taos 2023;4.54;Feminino
+37;Bruno;Ribeiro;GoDrive;Zona Sul;194;14;Econômico;53;Fiat Mobi 2022;4.53;Masculino
+38;Lucas;Fernandes;RideUp;Centro;157;21;Comfort;49;Chevrolet Onix Plus 2023;4.88;Masculino
+39;Arthur;Gomes;RideUp;Zona Leste;443;45;Econômico;25;Toyota Etios 2020;4.16;Feminino
+40;Ana;Lima;RideUp;Centro;487;31;Econômico;41;Toyota Etios 2020;4.65;Masculino
+41;Helena;Souza;GoDrive;Centro;312;56;Black;43;Jeep Compass 2023;4.51;Feminino
+42;Rafael;Almeida;GoDrive;Centro;115;45;Comfort;53;Chevrolet Tracker 2022;4.01;Feminino
+43;Lucas;Vieira;GoDrive;Zona Oeste;479;42;Black;53;VW Taos 2023;4.00;Masculino
+44;Maria;Souza;GoDrive;Zona Leste;412;10;Comfort;33;Nissan Versa 2023;4.56;Feminino
+45;Sofia;Fernandes;RideUp;Centro;131;16;Econômico;55;Hyundai HB20 2023;4.59;Masculino
+46;Carla;Carvalho;RideUp;Zona Leste;412;60;Black;24;Toyota Corolla Cross 2024;4.12;Feminino
+47;Gabriel;Vieira;MoveX;Zona Norte;73;28;Comfort;44;Honda City 2021;4.94;Masculino
+48;Lara;Fernandes;GoDrive;Zona Leste;173;27;Black;28;Toyota Corolla 2024;4.48;Masculino
+49;Carla;Carvalho;GoDrive;Zona Norte;393;12;Comfort;52;Jeep Renegade 2021;4.89;Masculino
+50;Carla;Vieira;MoveX;Zona Oeste;208;26;Econômico;60;Chevrolet Onix 2022;4.23;Masculino
+51;Pedro;Fernandes;MoveX;Zona Leste;272;26;Black;54;VW Taos 2023;4.95;Feminino
+52;Felipe;Carvalho;RideUp;Zona Oeste;447;17;Black;23;Jeep Commander 2023;4.83;Feminino
+53;Isadora;Silva;MoveX;Zona Leste;45;12;Econômico;48;Hyundai HB20 2023;4.77;Masculino
+54;Bruno;Soares;RideUp;Centro;377;34;Comfort;21;Chevrolet Tracker 2022;4.01;Feminino
+55;Lucas;Lima;GoDrive;Centro;477;12;Comfort;46;Jeep Renegade 2021;4.09;Masculino
+56;Sofia;Lopes;RideUp;Zona Norte;277;12;Black;26;Jeep Compass 2023;4.54;Feminino
+57;Gael;Lima;RideUp;Zona Oeste;416;3;Comfort;55;Honda City 2021;4.38;Masculino
+58;Heitor;Oliveira;RideUp;Zona Sul;131;58;Comfort;30;Chevrolet Onix Plus 2023;4.94;Feminino
+59;Ana;Ferreira;GoDrive;Zona Norte;56;17;Comfort;24;Nissan Versa 2023;4.43;Masculino
+60;Gabriel;Santos;MoveX;Zona Norte;217;23;Comfort;21;VW Virtus 2022;4.07;Masculino
+61;Gustavo;Oliveira;MoveX;Centro;284;56;Econômico;36;Chevrolet Onix 2022;4.65;Masculino
+62;Camila;Vieira;GoDrive;Zona Leste;149;37;Econômico;58;Chevrolet Onix 2022;4.38;Feminino
+63;Carla;Fernandes;GoDrive;Zona Sul;121;12;Econômico;42;Renault Kwid 2024;4.11;Feminino
+64;Heloísa;Ribeiro;RideUp;Zona Oeste;348;54;Econômico;45;Fiat Mobi 2022;4.97;Masculino
+65;Pedro;Rodrigues;MoveX;Zona Oeste;165;29;Comfort;29;Chevrolet Tracker 2022;4.34;Feminino
+66;Sofia;Souza;GoDrive;Zona Leste;89;6;Econômico;60;VW Polo Track 2023;4.76;Feminino
+67;Julia;Santos;MoveX;Zona Sul;316;3;Comfort;23;Fiat Cronos 2023;4.98;Masculino
+68;Alice;Silva;GoDrive;Zona Leste;98;46;Econômico;23;VW Polo Track 2023;4.12;Masculino
+69;Bernardo;Santos;MoveX;Zona Norte;221;2;Black;43;Toyota Corolla Cross 2024;4.80;Masculino
+70;Bruno;Silva;MoveX;Centro;29;55;Black;36;Toyota Corolla Cross 2024;4.04;Feminino
+71;Matheus;Martins;GoDrive;Zona Oeste;460;29;Black;51;VW Taos 2023;4.19;Masculino
+72;Arthur;Pereira;GoDrive;Zona Sul;260;60;Comfort;36;Fiat Cronos 2023;4.61;Feminino
+73;Julia;Rodrigues;MoveX;Zona Leste;209;6;Econômico;49;Toyota Etios 2020;4.52;Feminino
+74;Lucas;Fernandes;GoDrive;Centro;255;29;Black;40;Toyota Corolla Cross 2024;4.28;Masculino
+75;Gabriel;Santos;GoDrive;Zona Leste;20;7;Econômico;36;Toyota Etios 2020;4.73;Masculino
+76;Julia;Silva;MoveX;Zona Norte;320;8;Black;50;VW Taos 2023;4.44;Feminino
+77;Bernardo;Rodrigues;MoveX;Zona Oeste;158;22;Econômico;36;Citroën C3 2023;4.05;Masculino
+78;Matheus;Lopes;MoveX;Zona Sul;256;60;Comfort;58;Jeep Renegade 2021;4.43;Masculino
+79;Bernardo;Lima;MoveX;Zona Norte;483;24;Black;33;Jeep Compass 2023;4.77;Masculino
+80;Bruno;Carvalho;GoDrive;Centro;222;38;Econômico;44;Toyota Etios 2020;4.32;Masculino
+81;Helena;Ferreira;GoDrive;Centro;178;47;Econômico;42;Hyundai HB20 2023;4.55;Feminino
+82;Bruno;Costa;RideUp;Zona Leste;314;46;Black;25;Jeep Commander 2023;4.34;Feminino
+83;Gustavo;Martins;MoveX;Zona Leste;246;48;Black;54;Jeep Commander 2023;4.89;Masculino
+84;Gustavo;Costa;GoDrive;Zona Norte;457;18;Econômico;41;VW Polo Track 2023;4.66;Masculino
+85;Valentina;Lopes;MoveX;Zona Leste;337;37;Comfort;43;Fiat Cronos 2023;4.60;Masculino
+86;Miguel;Martins;GoDrive;Zona Oeste;46;1;Comfort;56;Hyundai HB20S 2022;4.03;Feminino
+87;Gabriel;Carvalho;MoveX;Zona Leste;337;16;Econômico;44;Fiat Mobi 2022;4.43;Feminino
+88;Alice;Rodrigues;RideUp;Zona Sul;471;16;Comfort;56;Chevrolet Onix Plus 2023;4.84;Feminino
+89;Arthur;Ferreira;RideUp;Zona Oeste;433;37;Econômico;41;Toyota Etios 2020;4.37;Feminino
+90;Gael;Lima;MoveX;Zona Norte;392;5;Econômico;37;Chevrolet Onix 2022;4.88;Masculino
+91;Arthur;Oliveira;MoveX;Zona Norte;257;25;Comfort;39;Chevrolet Onix Plus 2023;4.56;Masculino
+92;Felipe;Fernandes;RideUp;Zona Norte;308;3;Comfort;49;Chevrolet Onix Plus 2023;4.42;Masculino
+93;Heloísa;Alves;RideUp;Zona Oeste;235;23;Black;56;Honda Civic 2022;4.64;Feminino
+94;Carla;Santos;RideUp;Zona Oeste;154;17;Econômico;25;Fiat Mobi 2022;4.43;Feminino
+95;Pedro;Ribeiro;GoDrive;Zona Sul;99;21;Econômico;31;Renault Kwid 2024;4.24;Feminino
+96;Helena;Pereira;RideUp;Zona Norte;317;45;Comfort;29;Honda City 2021;4.50;Feminino
+97;Isadora;Carvalho;GoDrive;Zona Leste;250;30;Black;21;Jeep Compass 2023;4.55;Feminino
+98;Lucas;Ferreira;GoDrive;Centro;404;1;Black;31;Toyota Corolla 2024;4.56;Feminino
+99;Gustavo;Costa;MoveX;Zona Norte;477;21;Comfort;48;Fiat Cronos 2023;4.97;Feminino
+100;Valentina;Costa;GoDrive;Centro;54;53;Econômico;21;Fiat Argo 2021;4.17;Masculino
+101;Lara;Ferreira;GoDrive;Centro;223;8;Econômico;31;Renault Kwid 2024;4.85;Masculino
+102;Lucas;Silva;GoDrive;Zona Sul;64;33;Black;37;Toyota Corolla Cross 2024;4.02;Masculino
+103;Valentina;Gomes;RideUp;Zona Sul;445;34;Econômico;52;Citroën C3 2023;4.64;Feminino
+104;Isadora;Barbosa;RideUp;Zona Oeste;378;14;Black;32;Jeep Commander 2023;4.96;Masculino
+105;Ana;Ferreira;RideUp;Zona Leste;100;19;Econômico;47;Hyundai HB20 2023;4.40;Feminino
+106;Rafael;Silva;MoveX;Zona Sul;59;5;Black;60;Toyota Corolla 2024;4.62;Feminino
+107;Arthur;Ribeiro;RideUp;Centro;169;55;Comfort;40;Nissan Versa 2023;4.12;Masculino
+108;Maria;Lopes;MoveX;Zona Oeste;111;4;Econômico;24;Chevrolet Onix 2022;4.88;Masculino
+109;Camila;Vieira;MoveX;Centro;304;24;Econômico;28;Fiat Mobi 2022;4.15;Feminino
+110;Isadora;Silva;MoveX;Zona Norte;147;46;Black;22;Jeep Commander 2023;4.80;Feminino
+111;Felipe;Silva;MoveX;Centro;455;28;Black;23;Toyota Corolla Cross 2024;4.69;Feminino
+112;Pedro;Costa;RideUp;Zona Oeste;499;36;Econômico;58;Citroën C3 2023;4.85;Feminino
+113;Alice;Martins;GoDrive;Zona Leste;212;56;Comfort;36;Chevrolet Tracker 2022;4.95;Masculino
+114;Laura;Oliveira;RideUp;Zona Norte;111;60;Comfort;35;Jeep Renegade 2021;4.76;Masculino
+115;Rafael;Oliveira;MoveX;Centro;402;3;Econômico;37;Citroën C3 2023;4.19;Feminino
+116;Lara;Pereira;GoDrive;Zona Leste;130;49;Comfort;28;VW Virtus 2022;4.53;Masculino
+117;Julia;Santos;GoDrive;Centro;469;21;Comfort;45;Honda City 2021;4.88;Masculino
+118;Carla;Pereira;MoveX;Centro;355;43;Econômico;38;Chevrolet Onix 2022;4.00;Masculino
+119;Heitor;Silva;RideUp;Zona Sul;237;27;Econômico;58;Hyundai HB20 2023;4.66;Masculino
+120;Bruno;Alves;RideUp;Centro;233;8;Comfort;59;Jeep Renegade 2021;4.89;Masculino
+121;Gabriel;Pereira;MoveX;Zona Sul;430;22;Black;34;Jeep Compass 2023;4.77;Masculino
+122;Helena;Pereira;GoDrive;Zona Norte;151;58;Black;39;Jeep Compass 2023;4.08;Masculino
+123;Alice;Gomes;RideUp;Zona Leste;69;5;Comfort;51;Jeep Renegade 2021;4.02;Masculino
+124;Gustavo;Santos;MoveX;Zona Oeste;242;2;Comfort;21;Honda City 2021;4.27;Feminino
+125;Rafael;Carvalho;GoDrive;Zona Leste;98;34;Comfort;33;Jeep Renegade 2021;4.92;Masculino
+126;Julia;Almeida;MoveX;Zona Norte;402;57;Black;60;VW Taos 2023;4.99;Masculino
+127;Laura;Lopes;RideUp;Zona Norte;344;16;Black;42;Honda Civic 2022;4.01;Feminino
+128;Rafael;Fernandes;GoDrive;Zona Leste;315;10;Econômico;21;Citroën C3 2023;4.90;Feminino
+129;Lucas;Silva;GoDrive;Zona Norte;202;60;Econômico;42;Toyota Etios 2020;4.58;Masculino
+130;Valentina;Vieira;RideUp;Centro;279;31;Comfort;37;Jeep Renegade 2021;4.24;Feminino
+131;Heitor;Ferreira;GoDrive;Zona Sul;25;2;Black;46;Jeep Commander 2023;4.33;Masculino
+132;Rafael;Ribeiro;MoveX;Zona Norte;117;48;Black;53;Jeep Compass 2023;4.98;Masculino
+133;Pedro;Rodrigues;GoDrive;Zona Oeste;303;53;Econômico;55;Citroën C3 2023;4.26;Feminino
+134;Isadora;Oliveira;GoDrive;Zona Sul;287;4;Econômico;40;VW Polo Track 2023;4.71;Masculino
+135;Matheus;Lima;GoDrive;Zona Norte;163;24;Black;48;Honda Civic 2022;4.55;Masculino
+136;Valentina;Alves;RideUp;Zona Leste;216;13;Comfort;36;Jeep Renegade 2021;4.93;Masculino
+137;Gustavo;Carvalho;GoDrive;Zona Oeste;212;33;Econômico;40;Hyundai HB20 2023;4.21;Feminino
+138;Rafael;Costa;MoveX;Zona Norte;455;50;Black;23;Toyota Corolla Cross 2024;4.25;Masculino
+139;Isadora;Lima;MoveX;Zona Oeste;473;1;Econômico;51;Toyota Etios 2020;4.88;Feminino
+140;Ana;Lima;GoDrive;Zona Leste;55;19;Black;48;Toyota Corolla Cross 2024;4.69;Feminino
+141;Sofia;Almeida;MoveX;Zona Norte;251;55;Black;32;Toyota Corolla 2024;4.02;Masculino
+142;Lara;Barbosa;GoDrive;Zona Sul;284;22;Comfort;31;Jeep Renegade 2021;4.79;Feminino
+143;Lara;Costa;GoDrive;Zona Leste;51;57;Comfort;54;Nissan Versa 2023;4.22;Masculino
+144;Gael;Barbosa;GoDrive;Zona Norte;335;59;Econômico;55;Hyundai HB20 2023;4.44;Masculino
+145;Gustavo;Fernandes;GoDrive;Zona Norte;418;51;Econômico;31;Hyundai HB20 2023;4.53;Masculino
+146;Laura;Barbosa;RideUp;Zona Oeste;152;58;Black;27;VW Taos 2023;4.42;Feminino
+147;Carla;Lopes;MoveX;Zona Norte;20;37;Econômico;58;Fiat Mobi 2022;4.29;Feminino
+148;Lara;Soares;MoveX;Zona Oeste;36;59;Comfort;27;Chevrolet Onix Plus 2023;4.28;Feminino
+149;Lara;Santos;MoveX;Centro;59;51;Econômico;26;VW Polo Track 2023;4.88;Masculino
+150;Maria;Costa;GoDrive;Zona Leste;204;30;Comfort;50;Nissan Versa 2023;4.84;Feminino
+151;Lara;Soares;GoDrive;Zona Norte;208;15;Black;56;Toyota Corolla 2024;4.43;Masculino
+152;Maria;Silva;RideUp;Zona Sul;332;52;Comfort;55;Jeep Renegade 2021;4.28;Feminino
+153;Julia;Barbosa;GoDrive;Centro;226;60;Econômico;55;Citroën C3 2023;4.53;Feminino
+154;Arthur;Vieira;RideUp;Zona Sul;46;38;Comfort;49;Fiat Cronos 2023;4.06;Masculino
+155;Arthur;Vieira;GoDrive;Centro;307;22;Black;53;VW Taos 2023;4.70;Feminino
+156;Rafael;Costa;GoDrive;Zona Sul;184;21;Black;56;Toyota Corolla 2024;4.51;Feminino
+157;Maria;Rodrigues;RideUp;Centro;37;7;Econômico;29;Renault Kwid 2024;4.76;Masculino
+158;Rafael;Souza;MoveX;Zona Oeste;415;16;Comfort;25;Chevrolet Onix Plus 2023;4.94;Masculino
+159;Lara;Gomes;RideUp;Centro;319;40;Comfort;39;Nissan Kicks 2022;4.16;Masculino
+160;Gustavo;Carvalho;MoveX;Centro;376;22;Comfort;36;Nissan Versa 2023;4.32;Feminino
+161;Miguel;Barbosa;RideUp;Zona Oeste;162;50;Comfort;48;Nissan Kicks 2022;4.98;Feminino
+162;Lucas;Rodrigues;RideUp;Zona Norte;202;10;Econômico;32;Hyundai HB20 2023;4.10;Masculino
+163;Maria;Pereira;RideUp;Zona Sul;164;25;Comfort;35;Chevrolet Tracker 2022;4.25;Feminino
+164;Matheus;Barbosa;GoDrive;Zona Oeste;228;46;Comfort;32;Jeep Renegade 2021;4.10;Masculino
+165;Felipe;Almeida;GoDrive;Centro;489;32;Econômico;52;Toyota Etios 2020;4.29;Feminino
+166;Heitor;Costa;RideUp;Zona Leste;216;60;Black;24;Honda Civic 2022;4.83;Masculino
+167;Bruno;Oliveira;GoDrive;Zona Sul;209;3;Econômico;35;Chevrolet Onix 2022;4.47;Masculino
+168;Laura;Souza;GoDrive;Zona Sul;265;51;Comfort;34;Nissan Versa 2023;4.29;Feminino
+169;Maria;Pereira;MoveX;Centro;298;46;Econômico;50;Fiat Mobi 2022;4.97;Feminino
+170;Alice;Santos;RideUp;Zona Norte;470;57;Comfort;40;Chevrolet Onix Plus 2023;4.56;Feminino
+171;Rafael;Silva;GoDrive;Zona Leste;129;43;Comfort;30;Nissan Kicks 2022;4.48;Feminino
+172;Arthur;Ribeiro;GoDrive;Zona Leste;459;15;Econômico;33;Chevrolet Onix 2022;4.15;Feminino
+173;Julia;Souza;RideUp;Zona Norte;398;53;Econômico;43;VW Polo Track 2023;4.45;Feminino
+174;Bernardo;Rodrigues;RideUp;Zona Leste;371;58;Comfort;22;Jeep Renegade 2021;4.65;Feminino
+175;Felipe;Fernandes;MoveX;Zona Oeste;391;22;Comfort;35;Fiat Cronos 2023;4.41;Masculino
+176;Helena;Fernandes;RideUp;Centro;249;10;Black;32;Toyota Corolla Cross 2024;4.80;Masculino
+177;Gustavo;Barbosa;MoveX;Zona Norte;230;42;Black;59;Jeep Commander 2023;4.47;Masculino
+178;Heitor;Fernandes;MoveX;Zona Norte;121;32;Black;60;Jeep Compass 2023;4.76;Masculino
+179;Bruno;Ribeiro;RideUp;Zona Oeste;147;18;Comfort;59;VW Virtus 2022;4.00;Masculino
+180;Felipe;Lima;GoDrive;Zona Oeste;215;37;Econômico;31;Renault Kwid 2024;4.28;Feminino
+181;Gabriel;Vieira;MoveX;Centro;197;38;Comfort;52;VW Virtus 2022;4.11;Feminino
+182;Lara;Oliveira;MoveX;Zona Sul;72;36;Econômico;22;Citroën C3 2023;4.23;Masculino
+183;Pedro;Fernandes;MoveX;Zona Leste;248;30;Comfort;43;Jeep Renegade 2021;4.37;Feminino
+184;Maria;Ribeiro;MoveX;Zona Sul;337;13;Econômico;21;Fiat Argo 2021;4.04;Masculino
+185;Heloísa;Vieira;RideUp;Zona Oeste;83;6;Econômico;56;VW Polo Track 2023;4.96;Feminino
+186;Alice;Fernandes;GoDrive;Zona Norte;324;28;Econômico;37;Toyota Etios 2020;4.17;Masculino
+187;Bruno;Souza;RideUp;Zona Norte;327;40;Comfort;60;Honda City 2021;4.31;Masculino
+188;Laura;Lima;RideUp;Zona Sul;249;24;Comfort;33;Jeep Renegade 2021;4.12;Feminino
+189;Julia;Alves;GoDrive;Zona Oeste;168;1;Comfort;21;Nissan Versa 2023;4.07;Feminino
+190;Julia;Ribeiro;RideUp;Zona Norte;111;51;Comfort;22;Nissan Versa 2023;4.04;Feminino
+191;Camila;Lopes;MoveX;Zona Sul;240;36;Econômico;44;Hyundai HB20 2023;4.08;Masculino
+192;Bruno;Ferreira;MoveX;Zona Oeste;443;33;Comfort;57;Chevrolet Onix Plus 2023;4.66;Masculino
+193;Julia;Martins;MoveX;Zona Oeste;423;4;Comfort;43;VW Virtus 2022;4.61;Feminino
+194;Arthur;Costa;RideUp;Zona Sul;280;40;Econômico;52;VW Polo Track 2023;4.12;Masculino
+195;Sofia;Carvalho;RideUp;Zona Oeste;237;59;Comfort;54;Fiat Cronos 2023;4.56;Feminino
+196;Lara;Vieira;MoveX;Zona Sul;259;18;Comfort;26;Nissan Versa 2023;4.25;Masculino
+197;Gabriel;Vieira;GoDrive;Centro;171;43;Comfort;51;Chevrolet Onix Plus 2023;4.58;Feminino
+198;Maria;Costa;GoDrive;Zona Norte;32;53;Comfort;22;Nissan Kicks 2022;4.75;Masculino
+199;Maria;Rodrigues;RideUp;Zona Leste;423;33;Comfort;54;VW Virtus 2022;4.72;Feminino
+200;Arthur;Barbosa;MoveX;Zona Sul;482;11;Black;38;Jeep Compass 2023;4.40;Masculino
+201;Sofia;Almeida;RideUp;Zona Oeste;125;51;Comfort;60;Honda City 2021;4.11;Feminino
+202;Laura;Silva;MoveX;Zona Leste;197;49;Black;49;Toyota Corolla Cross 2024;4.47;Feminino
+203;Matheus;Gomes;RideUp;Zona Sul;21;43;Black;49;Toyota Corolla Cross 2024;4.82;Feminino
+204;Bruno;Lopes;RideUp;Zona Leste;200;20;Econômico;25;Toyota Etios 2020;4.32;Masculino
+205;Valentina;Alves;GoDrive;Zona Norte;342;35;Comfort;38;Chevrolet Onix Plus 2023;4.63;Feminino
+206;Gabriel;Rodrigues;RideUp;Zona Sul;145;15;Black;58;Honda Civic 2022;4.91;Masculino
+207;Arthur;Carvalho;MoveX;Zona Leste;400;9;Black;26;Honda Civic 2022;4.30;Feminino
+208;Isadora;Vieira;MoveX;Centro;453;25;Comfort;29;Chevrolet Onix Plus 2023;4.00;Masculino
+209;Gustavo;Alves;GoDrive;Zona Leste;362;29;Comfort;59;Chevrolet Onix Plus 2023;4.17;Feminino
+210;Matheus;Rodrigues;MoveX;Centro;94;25;Black;45;Jeep Compass 2023;4.93;Masculino
+211;Carla;Ferreira;GoDrive;Zona Leste;26;42;Black;51;Jeep Commander 2023;4.67;Feminino
+212;Laura;Rodrigues;RideUp;Zona Leste;358;22;Econômico;52;Renault Kwid 2024;4.15;Masculino
+213;Gabriel;Vieira;RideUp;Zona Leste;254;53;Comfort;52;VW Virtus 2022;4.12;Masculino
+214;Heloísa;Vieira;RideUp;Zona Sul;22;34;Black;49;Jeep Compass 2023;4.60;Feminino
+215;Isadora;Costa;RideUp;Zona Oeste;469;43;Black;21;Toyota Corolla Cross 2024;4.35;Feminino
+216;Carla;Ferreira;MoveX;Zona Oeste;104;47;Econômico;55;Citroën C3 2023;4.35;Feminino
+217;Julia;Santos;RideUp;Zona Leste;397;56;Comfort;23;Fiat Cronos 2023;4.91;Feminino
+218;Miguel;Silva;RideUp;Zona Norte;382;5;Econômico;22;VW Polo Track 2023;4.69;Feminino
+219;Rafael;Soares;GoDrive;Zona Oeste;295;25;Comfort;23;Fiat Cronos 2023;4.92;Masculino
+220;Sofia;Fernandes;RideUp;Zona Oeste;192;59;Comfort;49;Nissan Kicks 2022;4.26;Masculino
+221;Ana;Lima;GoDrive;Zona Leste;435;55;Comfort;32;Jeep Renegade 2021;4.47;Feminino
+222;Rafael;Silva;RideUp;Zona Oeste;318;9;Econômico;50;Fiat Argo 2021;4.91;Feminino
+223;Gael;Soares;RideUp;Centro;318;38;Econômico;30;Citroën C3 2023;4.75;Feminino
+224;Helena;Souza;GoDrive;Zona Sul;455;34;Black;50;Toyota Corolla Cross 2024;4.00;Masculino
+225;Helena;Vieira;GoDrive;Zona Oeste;310;23;Econômico;32;Fiat Argo 2021;4.49;Feminino
+226;Heitor;Souza;MoveX;Zona Sul;423;20;Comfort;54;Honda City 2021;4.56;Masculino
+227;Gustavo;Fernandes;MoveX;Zona Oeste;359;41;Comfort;25;Fiat Cronos 2023;4.91;Masculino
+228;Heloísa;Silva;RideUp;Centro;326;33;Comfort;50;Nissan Versa 2023;4.84;Feminino
+229;Pedro;Carvalho;GoDrive;Zona Sul;347;40;Comfort;38;Jeep Renegade 2021;4.08;Feminino
+230;Lara;Rodrigues;GoDrive;Zona Oeste;216;58;Comfort;42;Nissan Kicks 2022;4.19;Masculino
+231;Heloísa;Rodrigues;RideUp;Zona Leste;66;53;Black;54;Jeep Commander 2023;4.46;Feminino
+232;Arthur;Pereira;RideUp;Zona Sul;242;53;Black;58;Jeep Compass 2023;4.71;Feminino
+233;Ana;Silva;MoveX;Zona Norte;110;27;Econômico;34;Renault Kwid 2024;4.95;Feminino
+234;Bernardo;Alves;GoDrive;Zona Leste;134;59;Econômico;39;VW Polo Track 2023;4.94;Masculino
+235;Matheus;Ferreira;MoveX;Zona Oeste;477;27;Comfort;36;VW Virtus 2022;4.47;Feminino
+236;Alice;Lima;MoveX;Zona Leste;85;40;Black;24;Jeep Commander 2023;4.49;Feminino
+237;Lucas;Soares;RideUp;Zona Oeste;301;12;Black;25;Honda Civic 2022;4.48;Feminino
+238;Miguel;Vieira;GoDrive;Zona Sul;103;27;Econômico;22;Hyundai HB20 2023;4.57;Feminino
+239;Helena;Vieira;GoDrive;Zona Norte;210;46;Comfort;54;Chevrolet Tracker 2022;4.33;Masculino
+240;Carla;Silva;GoDrive;Zona Leste;262;39;Comfort;31;Honda City 2021;4.95;Masculino
+241;Carla;Rodrigues;MoveX;Zona Oeste;188;31;Econômico;46;Fiat Argo 2021;4.69;Feminino
+242;Carla;Barbosa;MoveX;Zona Sul;171;32;Comfort;24;Honda City 2021;4.24;Masculino
+243;Ana;Costa;GoDrive;Zona Sul;186;26;Econômico;60;Citroën C3 2023;4.64;Feminino
+244;Isadora;Santos;MoveX;Centro;73;48;Econômico;46;Toyota Etios 2020;4.80;Feminino
+245;Julia;Ferreira;MoveX;Zona Norte;72;25;Black;34;VW Taos 2023;4.55;Feminino
+246;Laura;Ribeiro;MoveX;Zona Sul;235;1;Comfort;25;Hyundai HB20S 2022;4.09;Feminino
+247;Arthur;Almeida;RideUp;Zona Norte;487;7;Black;24;Toyota Corolla 2024;4.40;Masculino
+248;Maria;Lima;MoveX;Zona Norte;296;1;Black;42;Toyota Corolla Cross 2024;4.21;Masculino
+249;Felipe;Almeida;MoveX;Centro;491;56;Comfort;38;Chevrolet Tracker 2022;4.45;Masculino
+250;Rafael;Ferreira;RideUp;Zona Sul;343;49;Comfort;59;Nissan Kicks 2022;4.37;Masculino
+251;Helena;Pereira;MoveX;Zona Norte;191;37;Comfort;41;VW Virtus 2022;4.07;Feminino
+252;Heitor;Fernandes;MoveX;Zona Norte;300;23;Econômico;35;Toyota Etios 2020;4.94;Masculino
+253;Isadora;Martins;RideUp;Zona Leste;284;57;Comfort;35;Hyundai HB20S 2022;4.71;Feminino
+254;Bernardo;Ribeiro;MoveX;Zona Oeste;197;27;Black;37;Honda Civic 2022;4.84;Masculino
+255;Pedro;Carvalho;GoDrive;Zona Leste;209;31;Comfort;41;Nissan Kicks 2022;4.72;Masculino
+256;Matheus;Alves;MoveX;Zona Sul;40;19;Comfort;42;Chevrolet Onix Plus 2023;4.21;Masculino
+257;Gabriel;Pereira;RideUp;Zona Leste;371;34;Econômico;32;Citroën C3 2023;4.47;Feminino
+258;Heloísa;Barbosa;RideUp;Zona Leste;22;9;Comfort;38;Fiat Cronos 2023;4.63;Feminino
+259;Bernardo;Santos;RideUp;Zona Leste;251;42;Comfort;46;Honda City 2021;4.42;Masculino
+260;Matheus;Ferreira;GoDrive;Zona Sul;24;16;Black;32;Toyota Corolla Cross 2024;4.91;Masculino
+261;Ana;Carvalho;MoveX;Zona Sul;313;9;Econômico;46;Renault Kwid 2024;4.70;Masculino
+262;Gael;Martins;MoveX;Zona Sul;382;26;Econômico;37;Fiat Mobi 2022;4.37;Feminino
+263;Isadora;Almeida;RideUp;Zona Sul;485;20;Comfort;55;Fiat Cronos 2023;4.43;Feminino
+264;Miguel;Carvalho;RideUp;Zona Norte;227;4;Comfort;53;VW Virtus 2022;4.13;Masculino
+265;Alice;Lopes;MoveX;Zona Oeste;100;23;Comfort;32;Fiat Cronos 2023;4.89;Masculino
+266;Isadora;Lopes;MoveX;Centro;426;46;Comfort;46;Nissan Versa 2023;4.07;Feminino
+267;Alice;Santos;MoveX;Centro;414;42;Econômico;30;Renault Kwid 2024;4.37;Feminino
+268;Julia;Lima;RideUp;Zona Sul;398;23;Comfort;26;Nissan Versa 2023;4.36;Masculino
+269;Rafael;Lima;MoveX;Zona Leste;201;5;Econômico;36;Toyota Etios 2020;4.63;Feminino
+270;Camila;Pereira;GoDrive;Centro;168;27;Comfort;28;Nissan Kicks 2022;4.33;Feminino
+271;Gabriel;Alves;MoveX;Zona Norte;127;14;Comfort;49;Nissan Versa 2023;4.97;Masculino
+272;Miguel;Fernandes;RideUp;Centro;129;32;Comfort;26;Honda City 2021;4.44;Masculino
+273;Pedro;Soares;RideUp;Zona Oeste;103;31;Comfort;60;Jeep Renegade 2021;4.56;Feminino
+274;Lucas;Pereira;GoDrive;Zona Oeste;54;36;Comfort;36;Chevrolet Tracker 2022;4.36;Feminino
+275;Heitor;Rodrigues;RideUp;Zona Oeste;183;5;Comfort;34;Nissan Kicks 2022;4.72;Feminino
+276;Julia;Rodrigues;RideUp;Centro;296;26;Comfort;46;VW Virtus 2022;4.93;Masculino
+277;Gael;Costa;RideUp;Zona Leste;85;35;Comfort;39;VW Virtus 2022;4.08;Feminino
+278;Rafael;Fernandes;MoveX;Zona Norte;102;39;Black;48;Honda Civic 2022;4.04;Feminino
+279;Valentina;Lopes;RideUp;Zona Norte;322;58;Comfort;51;Jeep Renegade 2021;4.32;Masculino
+280;Valentina;Vieira;RideUp;Centro;97;58;Econômico;59;Toyota Etios 2020;4.76;Feminino
+281;Lara;Ferreira;MoveX;Centro;418;34;Black;45;VW Taos 2023;4.47;Feminino
+282;Miguel;Ribeiro;RideUp;Zona Sul;249;55;Comfort;26;VW Virtus 2022;4.78;Masculino
+283;Lara;Lopes;MoveX;Zona Sul;37;42;Econômico;35;Toyota Etios 2020;4.69;Masculino
+284;Bernardo;Silva;GoDrive;Zona Sul;40;47;Comfort;42;Chevrolet Onix Plus 2023;4.99;Masculino
+285;Valentina;Barbosa;GoDrive;Zona Oeste;161;52;Comfort;32;Fiat Cronos 2023;4.69;Masculino
+286;Helena;Soares;MoveX;Centro;117;48;Black;57;Honda Civic 2022;4.92;Feminino
+287;Laura;Barbosa;RideUp;Zona Oeste;164;6;Econômico;46;VW Polo Track 2023;4.67;Feminino
+288;Felipe;Martins;RideUp;Zona Leste;171;6;Econômico;33;Toyota Etios 2020;4.35;Feminino
+289;Gustavo;Oliveira;GoDrive;Centro;214;6;Comfort;60;Nissan Kicks 2022;4.82;Feminino
+290;Alice;Ferreira;RideUp;Zona Leste;136;50;Econômico;51;Toyota Etios 2020;4.66;Feminino
+291;Pedro;Santos;RideUp;Zona Leste;432;23;Comfort;28;Nissan Versa 2023;4.85;Feminino
+292;Helena;Pereira;MoveX;Zona Sul;485;17;Comfort;53;VW Virtus 2022;4.30;Masculino
+293;Ana;Alves;MoveX;Centro;238;46;Econômico;39;Chevrolet Onix 2022;4.43;Feminino
+294;Arthur;Rodrigues;RideUp;Centro;57;56;Econômico;45;VW Polo Track 2023;4.52;Feminino
+295;Camila;Almeida;GoDrive;Zona Norte;281;10;Econômico;53;Fiat Mobi 2022;4.60;Masculino
+296;Rafael;Barbosa;GoDrive;Zona Norte;110;29;Econômico;48;Renault Kwid 2024;4.17;Masculino
+297;Gustavo;Martins;GoDrive;Zona Sul;251;4;Black;58;Toyota Corolla Cross 2024;4.33;Masculino
+298;Isadora;Pereira;MoveX;Zona Oeste;226;13;Econômico;31;Fiat Mobi 2022;4.34;Masculino
+299;Alice;Lima;GoDrive;Zona Leste;150;20;Black;58;Toyota Corolla Cross 2024;4.66;Masculino
+300;Heloísa;Lima;MoveX;Zona Sul;54;3;Black;52;VW Taos 2023;4.37;Masculino
+301;Carla;Soares;RideUp;Centro;495;30;Econômico;52;Chevrolet Onix 2022;4.65;Feminino
+302;Valentina;Souza;GoDrive;Zona Leste;375;10;Econômico;56;Fiat Mobi 2022;4.56;Masculino
+303;Rafael;Ferreira;GoDrive;Centro;349;56;Comfort;31;Fiat Cronos 2023;4.52;Masculino
+304;Lucas;Lima;GoDrive;Zona Oeste;236;49;Black;38;Jeep Commander 2023;4.46;Masculino
+305;Pedro;Souza;MoveX;Centro;274;39;Comfort;47;Honda City 2021;4.42;Feminino
+306;Heitor;Barbosa;MoveX;Zona Sul;145;24;Econômico;50;Hyundai HB20 2023;4.88;Feminino
+307;Felipe;Lopes;MoveX;Zona Sul;385;37;Black;38;Jeep Commander 2023;4.73;Masculino
+308;Alice;Martins;GoDrive;Zona Sul;111;52;Black;44;VW Taos 2023;4.47;Masculino
+309;Valentina;Ribeiro;RideUp;Zona Sul;302;28;Comfort;37;Jeep Renegade 2021;4.57;Feminino
+310;Isadora;Almeida;GoDrive;Centro;406;52;Econômico;28;Fiat Argo 2021;4.90;Masculino
+311;Isadora;Santos;MoveX;Zona Sul;69;51;Comfort;31;Jeep Renegade 2021;4.21;Masculino
+312;Gustavo;Carvalho;GoDrive;Zona Leste;458;53;Black;36;Jeep Compass 2023;4.98;Feminino
+313;Heitor;Ferreira;RideUp;Zona Leste;317;46;Comfort;38;Honda City 2021;4.69;Masculino
+314;Camila;Silva;MoveX;Zona Sul;113;49;Black;40;Honda Civic 2022;4.09;Masculino
+315;Lucas;Pereira;RideUp;Zona Sul;461;56;Econômico;35;Toyota Etios 2020;4.34;Feminino
+316;Camila;Almeida;MoveX;Zona Leste;401;22;Econômico;35;Hyundai HB20 2023;4.32;Masculino
+317;Bernardo;Vieira;RideUp;Zona Norte;80;21;Comfort;57;VW Virtus 2022;4.16;Feminino
+318;Isadora;Barbosa;GoDrive;Zona Sul;36;7;Black;36;Toyota Corolla 2024;4.42;Masculino
+319;Valentina;Pereira;GoDrive;Zona Sul;407;30;Black;32;Toyota Corolla 2024;4.11;Masculino
+320;Camila;Vieira;GoDrive;Zona Sul;380;57;Econômico;60;Fiat Argo 2021;4.64;Masculino
+321;Helena;Martins;MoveX;Zona Oeste;406;49;Econômico;23;Fiat Mobi 2022;4.67;Feminino
+322;Rafael;Gomes;RideUp;Zona Sul;198;18;Econômico;41;VW Polo Track 2023;4.47;Feminino
+323;Lucas;Gomes;GoDrive;Zona Leste;261;6;Black;39;Toyota Corolla 2024;4.35;Masculino
+324;Matheus;Ribeiro;MoveX;Zona Oeste;74;23;Black;42;Honda Civic 2022;4.75;Feminino
+325;Pedro;Lima;RideUp;Zona Sul;75;44;Comfort;53;Honda City 2021;4.12;Feminino
+326;Pedro;Souza;RideUp;Zona Norte;194;34;Black;29;Toyota Corolla Cross 2024;4.39;Feminino
+327;Isadora;Martins;RideUp;Zona Sul;439;31;Econômico;58;Hyundai HB20 2023;4.34;Feminino
+328;Rafael;Lopes;GoDrive;Zona Oeste;74;60;Comfort;34;Hyundai HB20S 2022;4.85;Feminino
+329;Bruno;Gomes;GoDrive;Centro;300;49;Econômico;32;Citroën C3 2023;4.17;Feminino
+330;Rafael;Barbosa;RideUp;Zona Sul;153;13;Black;34;VW Taos 2023;4.05;Masculino
+331;Heitor;Vieira;MoveX;Zona Oeste;213;15;Black;41;Honda Civic 2022;4.19;Feminino
+332;Ana;Rodrigues;RideUp;Zona Sul;250;52;Black;22;Jeep Commander 2023;4.20;Masculino
+333;Bruno;Pereira;GoDrive;Centro;186;14;Comfort;35;Chevrolet Onix Plus 2023;4.63;Masculino
+334;Bruno;Oliveira;MoveX;Zona Norte;484;36;Black;45;Jeep Commander 2023;4.61;Feminino
+335;Lucas;Souza;GoDrive;Zona Sul;201;10;Econômico;48;Hyundai HB20 2023;4.48;Masculino
+336;Matheus;Fernandes;RideUp;Zona Norte;465;13;Black;59;Jeep Commander 2023;4.69;Masculino
+337;Pedro;Silva;GoDrive;Centro;420;37;Black;37;Honda Civic 2022;4.32;Feminino
+338;Valentina;Almeida;MoveX;Centro;202;45;Comfort;52;Jeep Renegade 2021;4.29;Masculino
+339;Camila;Soares;RideUp;Centro;138;8;Black;25;Toyota Corolla 2024;4.57;Feminino
+340;Bruno;Martins;RideUp;Zona Sul;169;16;Econômico;24;Chevrolet Onix 2022;4.21;Feminino
+341;Pedro;Martins;RideUp;Zona Oeste;78;18;Econômico;46;Renault Kwid 2024;4.91;Masculino
+342;Pedro;Gomes;RideUp;Centro;255;19;Black;27;Toyota Corolla 2024;4.03;Masculino
+343;Bruno;Costa;RideUp;Zona Norte;62;28;Comfort;40;Hyundai HB20S 2022;4.91;Feminino
+344;Bernardo;Soares;GoDrive;Zona Oeste;373;5;Comfort;57;Chevrolet Onix Plus 2023;4.89;Masculino
+345;Valentina;Lima;RideUp;Zona Oeste;197;57;Econômico;55;Hyundai HB20 2023;4.14;Feminino
+346;Matheus;Alves;MoveX;Centro;154;11;Econômico;48;Hyundai HB20 2023;4.37;Feminino
+347;Gabriel;Santos;RideUp;Zona Norte;37;18;Comfort;47;Nissan Kicks 2022;4.94;Feminino
+348;Matheus;Soares;RideUp;Zona Sul;410;58;Comfort;22;Fiat Cronos 2023;4.33;Masculino
+349;Helena;Souza;MoveX;Zona Leste;305;11;Econômico;39;Toyota Etios 2020;4.01;Masculino
+350;Bernardo;Almeida;MoveX;Centro;51;7;Econômico;39;Toyota Etios 2020;4.42;Masculino
+351;Camila;Vieira;RideUp;Zona Sul;94;49;Econômico;31;Fiat Mobi 2022;4.38;Feminino
+352;Pedro;Rodrigues;MoveX;Zona Norte;277;11;Comfort;41;Nissan Kicks 2022;4.09;Masculino
+353;Felipe;Alves;MoveX;Centro;144;47;Comfort;23;Jeep Renegade 2021;4.26;Feminino
+354;Pedro;Alves;GoDrive;Zona Sul;161;50;Econômico;32;Toyota Etios 2020;4.28;Masculino
+355;Helena;Almeida;RideUp;Centro;352;47;Econômico;39;Citroën C3 2023;4.26;Masculino
+356;Gustavo;Ribeiro;GoDrive;Zona Sul;44;28;Comfort;54;VW Virtus 2022;4.34;Masculino
+357;Heitor;Fernandes;MoveX;Zona Leste;414;21;Comfort;43;VW Virtus 2022;4.48;Masculino
+358;Matheus;Lopes;GoDrive;Zona Sul;421;54;Black;34;Honda Civic 2022;4.59;Masculino
+359;Bruno;Pereira;GoDrive;Zona Sul;146;25;Comfort;43;VW Virtus 2022;4.84;Masculino
+360;Ana;Lopes;RideUp;Centro;158;48;Econômico;30;VW Polo Track 2023;4.22;Feminino
+361;Matheus;Carvalho;GoDrive;Zona Norte;152;4;Econômico;29;Toyota Etios 2020;4.25;Feminino
+362;Gustavo;Silva;MoveX;Zona Oeste;295;4;Comfort;47;Nissan Versa 2023;4.50;Feminino
+363;Felipe;Soares;MoveX;Zona Sul;387;7;Black;54;Jeep Compass 2023;4.45;Masculino
+364;Gael;Vieira;MoveX;Zona Norte;357;4;Black;37;Jeep Commander 2023;4.22;Feminino
+365;Ana;Ribeiro;RideUp;Zona Norte;467;50;Econômico;26;Toyota Etios 2020;4.35;Masculino
+366;Camila;Soares;GoDrive;Centro;63;17;Comfort;48;Nissan Versa 2023;4.54;Masculino
+367;Carla;Martins;GoDrive;Zona Norte;189;44;Comfort;30;Chevrolet Tracker 2022;4.43;Feminino
+368;Heloísa;Gomes;MoveX;Zona Leste;57;5;Comfort;37;Jeep Renegade 2021;4.05;Masculino
+369;Isadora;Lopes;RideUp;Zona Norte;372;24;Econômico;31;Fiat Mobi 2022;4.26;Feminino
+370;Isadora;Soares;MoveX;Centro;97;9;Econômico;36;VW Polo Track 2023;4.40;Feminino
+371;Camila;Rodrigues;GoDrive;Zona Oeste;219;34;Black;36;VW Taos 2023;4.22;Feminino
+372;Ana;Gomes;RideUp;Zona Sul;181;19;Econômico;32;Fiat Mobi 2022;4.94;Feminino
+373;Ana;Gomes;RideUp;Centro;116;9;Comfort;26;Nissan Versa 2023;4.88;Masculino
+374;Laura;Lima;MoveX;Zona Leste;472;48;Econômico;40;Hyundai HB20 2023;4.17;Masculino
+375;Bruno;Rodrigues;GoDrive;Zona Leste;233;20;Econômico;56;Citroën C3 2023;4.78;Masculino
+376;Gabriel;Gomes;RideUp;Zona Norte;183;38;Black;60;Honda Civic 2022;4.57;Masculino
+377;Isadora;Costa;GoDrive;Zona Norte;155;12;Comfort;54;Jeep Renegade 2021;4.01;Masculino
+378;Sofia;Almeida;MoveX;Zona Norte;42;33;Comfort;47;Nissan Versa 2023;4.69;Masculino
+379;Arthur;Fernandes;MoveX;Zona Oeste;271;52;Comfort;60;Nissan Kicks 2022;4.14;Feminino
+380;Arthur;Carvalho;RideUp;Zona Oeste;58;57;Comfort;59;Nissan Versa 2023;4.21;Masculino
+381;Carla;Carvalho;GoDrive;Centro;34;1;Econômico;41;Toyota Etios 2020;4.55;Masculino
+382;Isadora;Alves;MoveX;Zona Leste;25;12;Econômico;42;Renault Kwid 2024;4.69;Feminino
+383;Bruno;Martins;GoDrive;Centro;66;31;Black;36;Toyota Corolla 2024;4.70;Masculino
+384;Alice;Souza;RideUp;Zona Sul;39;20;Comfort;59;Nissan Versa 2023;4.79;Feminino
+385;Lucas;Barbosa;GoDrive;Zona Leste;225;55;Black;33;Toyota Corolla 2024;4.48;Feminino
+386;Rafael;Santos;GoDrive;Zona Norte;274;24;Black;56;Jeep Commander 2023;4.78;Masculino
+387;Gael;Ribeiro;RideUp;Centro;490;32;Econômico;34;VW Polo Track 2023;4.18;Masculino
+388;Rafael;Santos;GoDrive;Centro;374;26;Comfort;23;Hyundai HB20S 2022;4.40;Masculino
+389;Miguel;Almeida;RideUp;Centro;236;37;Black;53;VW Taos 2023;4.09;Feminino
+390;Matheus;Almeida;RideUp;Zona Norte;100;17;Black;60;Toyota Corolla 2024;4.81;Feminino
+391;Gustavo;Gomes;GoDrive;Zona Norte;351;34;Econômico;37;Chevrolet Onix 2022;4.56;Feminino
+392;Ana;Costa;GoDrive;Zona Oeste;122;21;Econômico;32;Chevrolet Onix 2022;4.51;Masculino
+393;Lucas;Vieira;MoveX;Zona Sul;176;60;Econômico;52;Renault Kwid 2024;4.84;Masculino
+394;Julia;Pereira;MoveX;Zona Sul;185;31;Black;32;Jeep Compass 2023;4.48;Masculino
+395;Carla;Silva;RideUp;Zona Sul;285;52;Econômico;23;Chevrolet Onix 2022;4.09;Feminino
+396;Matheus;Pereira;GoDrive;Zona Oeste;81;1;Black;29;Honda Civic 2022;4.89;Masculino
+397;Gustavo;Souza;MoveX;Centro;287;18;Comfort;42;Nissan Kicks 2022;4.78;Feminino
+398;Sofia;Ribeiro;MoveX;Zona Leste;239;55;Econômico;21;Fiat Mobi 2022;4.77;Feminino
+399;Laura;Carvalho;RideUp;Zona Oeste;337;4;Comfort;35;Fiat Cronos 2023;4.64;Feminino
+400;Gustavo;Pereira;GoDrive;Zona Sul;92;33;Comfort;27;Hyundai HB20S 2022;4.14;Feminino
+401;Arthur;Lopes;RideUp;Zona Leste;307;40;Econômico;26;Toyota Etios 2020;4.29;Feminino
+402;Bernardo;Martins;MoveX;Zona Norte;27;31;Comfort;46;Hyundai HB20S 2022;4.78;Masculino
+403;Sofia;Oliveira;GoDrive;Centro;127;2;Black;43;Toyota Corolla Cross 2024;4.58;Feminino
+404;Julia;Lopes;MoveX;Zona Oeste;125;38;Black;43;VW Taos 2023;4.66;Masculino
+405;Laura;Lopes;RideUp;Zona Leste;250;55;Econômico;32;Chevrolet Onix 2022;4.21;Feminino
+406;Lucas;Pereira;RideUp;Centro;318;25;Econômico;38;Renault Kwid 2024;4.98;Feminino
+407;Julia;Fernandes;MoveX;Centro;28;13;Comfort;59;Hyundai HB20S 2022;4.67;Masculino
+408;Pedro;Barbosa;RideUp;Zona Oeste;393;50;Econômico;46;Citroën C3 2023;4.73;Feminino
+409;Camila;Pereira;RideUp;Zona Leste;58;40;Econômico;21;Fiat Argo 2021;4.61;Masculino
+410;Bruno;Alves;GoDrive;Zona Oeste;461;46;Comfort;40;Fiat Cronos 2023;4.06;Masculino
+411;Pedro;Barbosa;MoveX;Centro;348;24;Comfort;44;Nissan Versa 2023;4.08;Masculino
+412;Lucas;Fernandes;GoDrive;Zona Oeste;259;60;Econômico;30;Fiat Argo 2021;4.52;Feminino
+413;Felipe;Barbosa;GoDrive;Zona Norte;369;18;Black;51;Jeep Commander 2023;4.62;Masculino
+414;Alice;Rodrigues;GoDrive;Zona Oeste;207;27;Comfort;53;Hyundai HB20S 2022;4.18;Feminino
+415;Gael;Barbosa;RideUp;Zona Leste;400;4;Econômico;57;Toyota Etios 2020;4.88;Feminino
+416;Camila;Gomes;GoDrive;Zona Norte;472;60;Comfort;53;Chevrolet Onix Plus 2023;4.12;Feminino
+417;Helena;Silva;MoveX;Centro;86;6;Black;56;Jeep Commander 2023;4.57;Feminino
+418;Sofia;Soares;RideUp;Zona Sul;200;28;Econômico;35;Fiat Argo 2021;4.50;Masculino
+419;Gustavo;Carvalho;MoveX;Zona Norte;359;32;Econômico;46;VW Polo Track 2023;4.64;Feminino
+420;Maria;Ferreira;GoDrive;Zona Norte;73;43;Comfort;23;Hyundai HB20S 2022;4.54;Masculino
+421;Camila;Barbosa;RideUp;Zona Norte;380;17;Comfort;44;Nissan Kicks 2022;4.31;Masculino
+422;Helena;Costa;GoDrive;Centro;457;6;Comfort;27;Jeep Renegade 2021;4.61;Feminino
+423;Felipe;Pereira;RideUp;Zona Leste;58;49;Black;55;Toyota Corolla Cross 2024;4.49;Masculino
+424;Julia;Ferreira;RideUp;Zona Norte;395;43;Comfort;46;Hyundai HB20S 2022;4.69;Feminino
+425;Maria;Martins;MoveX;Zona Sul;371;23;Comfort;28;Hyundai HB20S 2022;4.77;Masculino
+426;Lara;Lima;RideUp;Centro;424;24;Comfort;36;Jeep Renegade 2021;4.17;Feminino
+427;Valentina;Almeida;RideUp;Zona Norte;356;34;Comfort;22;Hyundai HB20S 2022;4.78;Masculino
+428;Laura;Oliveira;GoDrive;Zona Sul;24;11;Black;53;Toyota Corolla 2024;4.97;Masculino
+429;Sofia;Silva;RideUp;Centro;236;31;Econômico;44;Citroën C3 2023;4.52;Feminino
+430;Gael;Ferreira;MoveX;Zona Oeste;40;42;Comfort;49;Fiat Cronos 2023;4.84;Feminino
+431;Lucas;Barbosa;GoDrive;Zona Leste;136;49;Comfort;54;Chevrolet Tracker 2022;4.04;Feminino
+432;Laura;Gomes;GoDrive;Centro;421;8;Comfort;55;Chevrolet Tracker 2022;4.22;Feminino
+433;Camila;Costa;GoDrive;Centro;379;34;Econômico;38;Fiat Mobi 2022;4.22;Feminino
+434;Arthur;Souza;MoveX;Zona Norte;487;24;Comfort;54;Hyundai HB20S 2022;4.34;Masculino
+435;Heloísa;Santos;MoveX;Zona Sul;357;15;Black;55;Toyota Corolla 2024;4.61;Feminino
+436;Isadora;Soares;MoveX;Centro;126;56;Econômico;55;Fiat Argo 2021;4.92;Masculino
+437;Gael;Silva;MoveX;Zona Sul;199;56;Econômico;21;Fiat Mobi 2022;4.29;Feminino
+438;Maria;Ribeiro;GoDrive;Zona Oeste;163;40;Econômico;45;VW Polo Track 2023;4.54;Feminino
+439;Gael;Oliveira;RideUp;Zona Oeste;194;23;Black;40;Honda Civic 2022;4.89;Feminino
+440;Ana;Martins;GoDrive;Zona Sul;291;20;Comfort;32;Honda City 2021;4.87;Feminino
+441;Gabriel;Soares;MoveX;Zona Sul;292;32;Comfort;56;Honda City 2021;4.51;Masculino
+442;Alice;Ferreira;RideUp;Zona Sul;495;32;Comfort;46;Fiat Cronos 2023;4.59;Masculino
+443;Bernardo;Silva;MoveX;Zona Norte;47;18;Comfort;56;VW Virtus 2022;4.86;Feminino
+444;Rafael;Pereira;MoveX;Zona Norte;101;5;Comfort;32;Fiat Cronos 2023;4.22;Masculino
+445;Julia;Ribeiro;MoveX;Centro;205;51;Econômico;47;Citroën C3 2023;4.00;Feminino
+446;Carla;Pereira;GoDrive;Zona Oeste;394;42;Comfort;34;Nissan Kicks 2022;4.45;Masculino
+447;Camila;Pereira;RideUp;Zona Oeste;189;32;Econômico;25;Fiat Argo 2021;4.08;Masculino
+448;Miguel;Lima;GoDrive;Zona Norte;258;47;Comfort;44;Honda City 2021;4.08;Masculino
+449;Helena;Lima;RideUp;Centro;317;59;Comfort;42;Nissan Versa 2023;4.50;Masculino
+450;Helena;Almeida;MoveX;Zona Leste;162;19;Comfort;58;VW Virtus 2022;4.84;Feminino
+451;Sofia;Gomes;GoDrive;Zona Leste;415;38;Black;47;Toyota Corolla 2024;4.82;Masculino
+452;Gael;Rodrigues;GoDrive;Zona Leste;358;32;Econômico;52;Citroën C3 2023;4.33;Masculino
+453;Camila;Soares;GoDrive;Zona Oeste;374;46;Comfort;54;Jeep Renegade 2021;4.93;Feminino
+454;Gustavo;Ferreira;GoDrive;Zona Leste;100;52;Econômico;58;Citroën C3 2023;4.42;Masculino
+455;Laura;Fernandes;MoveX;Zona Oeste;99;49;Black;53;Toyota Corolla 2024;4.79;Masculino
+456;Laura;Ribeiro;RideUp;Zona Norte;474;21;Econômico;44;Chevrolet Onix 2022;4.45;Feminino
+457;Felipe;Carvalho;MoveX;Zona Sul;428;25;Comfort;29;Fiat Cronos 2023;4.19;Masculino
+458;Gustavo;Oliveira;GoDrive;Centro;452;12;Comfort;36;VW Virtus 2022;4.86;Masculino
+459;Matheus;Martins;RideUp;Centro;358;58;Econômico;41;Toyota Etios 2020;4.44;Feminino
+460;Felipe;Fernandes;MoveX;Centro;344;58;Black;21;Toyota Corolla 2024;4.06;Feminino
+461;Pedro;Vieira;RideUp;Zona Norte;243;8;Comfort;30;Honda City 2021;4.63;Feminino
+462;Heitor;Barbosa;GoDrive;Zona Leste;485;38;Econômico;57;Renault Kwid 2024;4.80;Masculino
+463;Carla;Pereira;RideUp;Centro;352;57;Comfort;28;Hyundai HB20S 2022;4.52;Masculino
+464;Gustavo;Martins;RideUp;Zona Oeste;229;8;Black;30;Toyota Corolla 2024;4.07;Masculino
+465;Gustavo;Ferreira;RideUp;Centro;101;13;Econômico;45;Fiat Mobi 2022;4.99;Feminino
+466;Carla;Almeida;RideUp;Zona Norte;251;28;Black;22;Toyota Corolla 2024;4.34;Masculino
+467;Sofia;Oliveira;GoDrive;Zona Sul;456;17;Econômico;25;Renault Kwid 2024;4.65;Feminino
+468;Bernardo;Oliveira;MoveX;Zona Oeste;428;52;Black;45;Toyota Corolla Cross 2024;4.55;Feminino
+469;Carla;Soares;GoDrive;Zona Leste;276;6;Econômico;23;Toyota Etios 2020;4.50;Masculino
+470;Heitor;Almeida;MoveX;Zona Norte;280;50;Black;36;Toyota Corolla Cross 2024;4.30;Masculino
+471;Pedro;Santos;RideUp;Centro;418;30;Black;57;Jeep Compass 2023;4.61;Masculino
+472;Heitor;Lopes;GoDrive;Zona Norte;451;49;Comfort;36;Nissan Kicks 2022;4.54;Masculino
+473;Matheus;Alves;GoDrive;Zona Leste;360;58;Econômico;23;Hyundai HB20 2023;4.83;Feminino
+474;Arthur;Martins;MoveX;Zona Norte;428;13;Comfort;33;Chevrolet Onix Plus 2023;4.10;Masculino
+475;Lucas;Vieira;MoveX;Centro;250;22;Black;25;Honda Civic 2022;4.44;Feminino
+476;Gustavo;Almeida;GoDrive;Zona Norte;384;19;Comfort;47;VW Virtus 2022;4.57;Masculino
+477;Camila;Ribeiro;MoveX;Zona Norte;307;12;Econômico;23;Fiat Argo 2021;4.26;Masculino
+478;Felipe;Rodrigues;GoDrive;Zona Norte;234;55;Comfort;37;Chevrolet Onix Plus 2023;4.33;Feminino
+479;Miguel;Santos;RideUp;Centro;422;24;Econômico;21;Fiat Mobi 2022;4.28;Feminino
+480;Heitor;Ribeiro;RideUp;Centro;410;11;Comfort;25;Fiat Cronos 2023;4.79;Masculino
+481;Bruno;Almeida;GoDrive;Zona Sul;202;39;Comfort;58;Nissan Versa 2023;4.52;Masculino
+482;Gabriel;Pereira;GoDrive;Centro;210;24;Econômico;22;Hyundai HB20 2023;4.91;Feminino
+483;Gustavo;Oliveira;GoDrive;Centro;33;29;Black;29;Toyota Corolla Cross 2024;4.73;Feminino
+484;Matheus;Souza;MoveX;Zona Norte;250;53;Comfort;45;Fiat Cronos 2023;4.02;Feminino
+485;Gabriel;Souza;GoDrive;Zona Sul;422;60;Black;60;Toyota Corolla Cross 2024;4.62;Masculino
+486;Helena;Barbosa;RideUp;Zona Oeste;345;26;Econômico;45;Fiat Mobi 2022;4.57;Feminino
+487;Camila;Carvalho;RideUp;Zona Leste;384;40;Econômico;23;Toyota Etios 2020;4.47;Masculino
+488;Camila;Soares;GoDrive;Centro;490;38;Black;32;Jeep Compass 2023;4.11;Masculino
+489;Maria;Almeida;RideUp;Zona Oeste;373;1;Econômico;37;Hyundai HB20 2023;4.13;Masculino
+490;Felipe;Alves;GoDrive;Zona Oeste;490;5;Black;42;Jeep Commander 2023;4.27;Feminino
+491;Bernardo;Carvalho;RideUp;Zona Norte;208;5;Econômico;56;Citroën C3 2023;4.98;Masculino
+492;Isadora;Santos;RideUp;Zona Norte;164;2;Comfort;38;VW Virtus 2022;4.89;Feminino
+493;Gabriel;Almeida;MoveX;Zona Norte;107;9;Econômico;44;Citroën C3 2023;4.25;Feminino
+494;Pedro;Soares;RideUp;Zona Norte;382;32;Comfort;24;Nissan Versa 2023;4.75;Masculino
+495;Camila;Lima;MoveX;Centro;219;52;Econômico;35;Hyundai HB20 2023;4.40;Feminino
+496;Heitor;Pereira;GoDrive;Zona Leste;423;11;Black;46;Jeep Commander 2023;4.65;Masculino
+497;Gustavo;Pereira;MoveX;Centro;149;2;Econômico;43;VW Polo Track 2023;4.85;Masculino
+498;Lara;Costa;RideUp;Zona Sul;280;30;Comfort;39;Chevrolet Tracker 2022;4.88;Feminino
+499;Alice;Carvalho;RideUp;Zona Oeste;404;41;Econômico;33;Citroën C3 2023;4.15;Feminino
+500;Rafael;Vieira;RideUp;Zona Norte;75;53;Econômico;26;VW Polo Track 2023;4.02;Masculino
+501;Miguel;Silva;MoveX;Zona Norte;59;50;Black;52;VW Taos 2023;4.62;Masculino
+502;Alice;Ribeiro;GoDrive;Zona Norte;158;42;Econômico;22;Fiat Argo 2021;4.84;Masculino
+503;Valentina;Silva;RideUp;Zona Oeste;210;57;Econômico;24;Fiat Argo 2021;4.47;Feminino
+504;Arthur;Alves;RideUp;Centro;57;20;Econômico;56;VW Polo Track 2023;4.02;Feminino
+505;Pedro;Soares;RideUp;Zona Leste;64;25;Econômico;35;Toyota Etios 2020;4.17;Feminino
+506;Bernardo;Rodrigues;RideUp;Zona Oeste;133;20;Econômico;53;Toyota Etios 2020;4.65;Feminino
+507;Helena;Santos;MoveX;Zona Oeste;313;23;Econômico;28;Fiat Mobi 2022;4.42;Masculino
+508;Arthur;Vieira;GoDrive;Zona Oeste;464;5;Comfort;41;VW Virtus 2022;4.53;Feminino
+509;Laura;Lima;RideUp;Centro;369;29;Econômico;35;Hyundai HB20 2023;4.44;Masculino
+510;Felipe;Pereira;GoDrive;Zona Norte;414;17;Econômico;58;Hyundai HB20 2023;4.65;Masculino
+511;Sofia;Lopes;MoveX;Zona Oeste;249;16;Econômico;22;Renault Kwid 2024;4.41;Feminino
+512;Isadora;Carvalho;RideUp;Zona Norte;88;10;Comfort;47;Chevrolet Tracker 2022;4.33;Feminino
+513;Bernardo;Lima;MoveX;Zona Norte;32;56;Econômico;22;Toyota Etios 2020;4.83;Feminino
+514;Gustavo;Carvalho;GoDrive;Zona Norte;167;24;Black;54;VW Taos 2023;4.83;Masculino
+515;Laura;Lopes;RideUp;Zona Norte;126;6;Comfort;45;Hyundai HB20S 2022;4.57;Masculino
+516;Ana;Silva;GoDrive;Zona Leste;37;16;Econômico;21;Renault Kwid 2024;4.82;Masculino
+517;Carla;Santos;RideUp;Zona Sul;26;32;Econômico;45;Fiat Argo 2021;4.55;Masculino
+518;Rafael;Lima;RideUp;Zona Sul;482;49;Econômico;27;Citroën C3 2023;4.90;Masculino
+519;Julia;Gomes;RideUp;Centro;464;34;Black;58;Toyota Corolla Cross 2024;4.50;Masculino
+520;Julia;Soares;MoveX;Zona Sul;244;20;Econômico;34;Hyundai HB20 2023;4.97;Masculino
+521;Gael;Rodrigues;RideUp;Zona Leste;262;48;Black;57;Jeep Commander 2023;4.32;Masculino
+522;Maria;Ferreira;RideUp;Centro;156;27;Comfort;38;VW Virtus 2022;4.75;Feminino
+523;Sofia;Gomes;RideUp;Zona Leste;399;17;Econômico;27;Chevrolet Onix 2022;4.26;Masculino
+524;Julia;Fernandes;MoveX;Centro;112;36;Comfort;24;Honda City 2021;4.53;Masculino
+525;Carla;Rodrigues;MoveX;Zona Oeste;150;39;Comfort;26;Chevrolet Onix Plus 2023;4.59;Masculino
+526;Camila;Lopes;MoveX;Zona Oeste;113;4;Econômico;23;VW Polo Track 2023;4.36;Feminino
+527;Laura;Ferreira;RideUp;Zona Sul;110;60;Econômico;36;Fiat Argo 2021;4.31;Feminino
+528;Camila;Pereira;MoveX;Zona Sul;305;15;Black;23;Jeep Compass 2023;4.78;Masculino
+529;Rafael;Costa;MoveX;Centro;481;2;Black;32;Jeep Compass 2023;4.99;Masculino
+530;Julia;Costa;GoDrive;Zona Sul;57;56;Comfort;27;VW Virtus 2022;4.18;Masculino
+531;Bruno;Barbosa;GoDrive;Centro;169;41;Econômico;31;Fiat Mobi 2022;4.01;Masculino
+532;Heloísa;Lima;RideUp;Zona Oeste;456;5;Comfort;42;Nissan Versa 2023;4.47;Masculino
+533;Felipe;Pereira;GoDrive;Zona Sul;484;50;Comfort;57;Honda City 2021;4.38;Masculino
+534;Arthur;Alves;RideUp;Centro;181;31;Econômico;52;Citroën C3 2023;4.78;Feminino
+535;Lucas;Lima;RideUp;Zona Oeste;162;40;Econômico;41;Toyota Etios 2020;4.77;Feminino
+536;Bruno;Soares;MoveX;Zona Sul;303;54;Econômico;50;Hyundai HB20 2023;4.77;Masculino
+537;Lucas;Martins;RideUp;Centro;325;48;Econômico;50;Citroën C3 2023;4.65;Feminino
+538;Bruno;Oliveira;MoveX;Zona Sul;83;4;Comfort;46;Hyundai HB20S 2022;4.24;Feminino
+539;Helena;Martins;MoveX;Zona Sul;357;53;Comfort;49;Honda City 2021;4.21;Masculino
+540;Bernardo;Lopes;MoveX;Zona Norte;101;29;Black;26;Jeep Commander 2023;4.26;Feminino
+541;Felipe;Barbosa;GoDrive;Zona Oeste;391;46;Black;48;Toyota Corolla 2024;4.07;Feminino
+542;Valentina;Ferreira;RideUp;Zona Norte;417;19;Black;46;Honda Civic 2022;4.37;Feminino
+543;Sofia;Fernandes;GoDrive;Zona Leste;57;6;Econômico;38;Hyundai HB20 2023;4.01;Masculino
+544;Miguel;Fernandes;RideUp;Centro;388;51;Comfort;43;Nissan Versa 2023;4.63;Masculino
+545;Pedro;Rodrigues;MoveX;Centro;392;58;Econômico;58;Hyundai HB20 2023;4.21;Masculino
+546;Julia;Rodrigues;MoveX;Zona Norte;490;54;Comfort;34;Honda City 2021;4.91;Feminino
+547;Camila;Alves;RideUp;Zona Oeste;185;31;Comfort;52;VW Virtus 2022;4.64;Feminino
+548;Alice;Alves;MoveX;Centro;100;56;Comfort;60;Nissan Kicks 2022;4.54;Feminino
+549;Rafael;Silva;RideUp;Zona Leste;151;26;Black;24;Jeep Commander 2023;4.97;Feminino
+550;Alice;Pereira;GoDrive;Zona Leste;388;40;Black;57;Toyota Corolla Cross 2024;4.52;Feminino
+551;Maria;Silva;RideUp;Zona Leste;53;5;Comfort;47;Chevrolet Onix Plus 2023;4.41;Feminino
+552;Lucas;Lima;GoDrive;Zona Oeste;462;5;Econômico;31;Toyota Etios 2020;4.60;Masculino
+553;Gustavo;Vieira;GoDrive;Zona Norte;115;37;Econômico;35;Hyundai HB20 2023;4.35;Feminino
+554;Matheus;Costa;GoDrive;Zona Norte;416;47;Comfort;31;Hyundai HB20S 2022;4.29;Masculino
+555;Pedro;Ferreira;MoveX;Zona Norte;190;16;Comfort;26;Nissan Versa 2023;4.76;Feminino
+556;Helena;Silva;GoDrive;Zona Sul;124;11;Comfort;51;Honda City 2021;4.54;Masculino
+557;Sofia;Souza;GoDrive;Centro;64;57;Black;39;Toyota Corolla Cross 2024;4.16;Feminino
+558;Heloísa;Martins;MoveX;Zona Sul;456;41;Black;47;Toyota Corolla Cross 2024;4.17;Feminino
+559;Julia;Souza;MoveX;Zona Norte;405;57;Comfort;33;Chevrolet Tracker 2022;4.00;Feminino
+560;Pedro;Gomes;GoDrive;Zona Oeste;78;45;Econômico;24;Citroën C3 2023;4.54;Masculino
+561;Miguel;Alves;RideUp;Zona Norte;273;12;Econômico;21;Toyota Etios 2020;4.88;Feminino
+562;Pedro;Almeida;MoveX;Zona Leste;467;59;Black;59;Toyota Corolla Cross 2024;4.42;Feminino
+563;Arthur;Costa;RideUp;Zona Sul;152;60;Comfort;27;Jeep Renegade 2021;4.09;Feminino
+564;Ana;Ribeiro;MoveX;Zona Sul;463;18;Econômico;30;Toyota Etios 2020;4.77;Feminino
+565;Julia;Lopes;GoDrive;Centro;110;5;Comfort;30;Fiat Cronos 2023;4.35;Masculino
+566;Heitor;Ferreira;MoveX;Zona Leste;306;28;Econômico;34;Fiat Mobi 2022;4.04;Masculino
+567;Sofia;Costa;RideUp;Zona Norte;282;54;Black;25;Toyota Corolla Cross 2024;4.32;Feminino
+568;Bruno;Santos;GoDrive;Zona Oeste;303;33;Comfort;43;Fiat Cronos 2023;4.47;Feminino
+569;Ana;Barbosa;RideUp;Zona Norte;236;33;Econômico;36;Fiat Mobi 2022;4.85;Feminino
+570;Valentina;Santos;MoveX;Zona Sul;160;54;Comfort;44;Hyundai HB20S 2022;4.09;Feminino
+571;Bernardo;Silva;GoDrive;Zona Norte;279;2;Comfort;35;Nissan Versa 2023;4.29;Masculino
+572;Carla;Costa;RideUp;Zona Norte;125;26;Econômico;48;Citroën C3 2023;4.93;Feminino
+573;Valentina;Silva;RideUp;Zona Leste;28;53;Black;57;Jeep Compass 2023;4.57;Feminino
+574;Ana;Soares;RideUp;Zona Norte;436;25;Econômico;49;Hyundai HB20 2023;4.81;Masculino
+575;Isadora;Fernandes;MoveX;Zona Leste;450;21;Econômico;27;Citroën C3 2023;4.45;Feminino
+576;Helena;Carvalho;MoveX;Centro;231;53;Comfort;35;Chevrolet Tracker 2022;4.58;Feminino
+577;Bernardo;Santos;MoveX;Centro;281;28;Econômico;51;VW Polo Track 2023;4.27;Feminino
+578;Bruno;Vieira;GoDrive;Centro;121;44;Comfort;42;Fiat Cronos 2023;4.85;Feminino
+579;Gael;Soares;GoDrive;Zona Leste;56;23;Comfort;46;VW Virtus 2022;4.03;Masculino
+580;Carla;Gomes;RideUp;Zona Leste;322;12;Comfort;55;VW Virtus 2022;4.38;Masculino
+581;Miguel;Alves;RideUp;Zona Sul;240;47;Black;59;Toyota Corolla Cross 2024;4.00;Masculino
+582;Heloísa;Souza;RideUp;Zona Sul;466;41;Black;42;VW Taos 2023;4.46;Feminino
+583;Gustavo;Martins;MoveX;Centro;273;33;Black;47;Jeep Compass 2023;4.03;Feminino
+584;Heloísa;Martins;GoDrive;Zona Leste;393;46;Comfort;44;Honda City 2021;4.37;Feminino
+585;Felipe;Alves;MoveX;Zona Norte;201;33;Comfort;54;Nissan Versa 2023;4.19;Masculino
+586;Arthur;Costa;RideUp;Zona Sul;117;28;Econômico;42;Fiat Mobi 2022;4.10;Masculino
+587;Pedro;Vieira;RideUp;Centro;107;9;Black;46;Jeep Compass 2023;4.88;Masculino
+588;Lucas;Soares;RideUp;Zona Leste;401;57;Econômico;37;Citroën C3 2023;4.94;Masculino
+589;Gael;Lopes;MoveX;Zona Oeste;489;26;Comfort;41;Nissan Versa 2023;4.14;Feminino
+590;Lara;Martins;GoDrive;Zona Sul;475;44;Comfort;29;Nissan Kicks 2022;4.20;Feminino
+591;Miguel;Oliveira;RideUp;Zona Leste;466;54;Econômico;33;Fiat Mobi 2022;4.34;Masculino
+592;Julia;Carvalho;RideUp;Centro;83;56;Econômico;55;Renault Kwid 2024;4.02;Masculino
+593;Sofia;Martins;GoDrive;Zona Norte;209;27;Econômico;23;Renault Kwid 2024;4.10;Masculino
+594;Pedro;Lima;RideUp;Centro;475;3;Comfort;51;Chevrolet Tracker 2022;4.01;Feminino
+595;Lucas;Lima;GoDrive;Zona Oeste;284;21;Econômico;55;Citroën C3 2023;4.85;Masculino
+596;Pedro;Rodrigues;MoveX;Zona Leste;349;49;Econômico;59;Hyundai HB20 2023;4.65;Feminino
+597;Alice;Pereira;MoveX;Zona Norte;411;59;Econômico;50;Fiat Argo 2021;4.03;Masculino
+598;Lucas;Lopes;RideUp;Zona Norte;418;60;Comfort;35;Nissan Versa 2023;4.06;Masculino
+599;Valentina;Gomes;RideUp;Zona Leste;286;4;Econômico;26;Fiat Argo 2021;4.07;Feminino
+600;Alice;Ribeiro;MoveX;Zona Sul;365;59;Comfort;31;Fiat Cronos 2023;4.52;Feminino
+601;Heitor;Silva;MoveX;Centro;218;21;Black;60;Honda Civic 2022;4.65;Masculino
+602;Pedro;Carvalho;GoDrive;Zona Oeste;22;19;Black;45;Honda Civic 2022;4.09;Feminino
+603;Maria;Ribeiro;GoDrive;Centro;215;27;Black;39;Jeep Commander 2023;4.50;Feminino
+604;Laura;Lopes;RideUp;Centro;255;35;Comfort;43;Nissan Kicks 2022;4.84;Feminino
+605;Rafael;Silva;GoDrive;Zona Sul;46;17;Black;33;Honda Civic 2022;4.90;Feminino
+606;Helena;Gomes;MoveX;Zona Norte;196;45;Comfort;41;Honda City 2021;4.40;Masculino
+607;Miguel;Lopes;MoveX;Zona Sul;41;58;Econômico;26;Renault Kwid 2024;4.20;Masculino
+608;Ana;Lopes;MoveX;Centro;280;36;Econômico;24;Fiat Mobi 2022;4.33;Feminino
+609;Heitor;Alves;RideUp;Zona Leste;432;31;Black;45;Toyota Corolla 2024;4.40;Masculino
+610;Rafael;Almeida;MoveX;Zona Norte;120;58;Econômico;25;Renault Kwid 2024;4.94;Masculino
+611;Julia;Ferreira;MoveX;Centro;480;58;Econômico;53;VW Polo Track 2023;4.38;Masculino
+612;Maria;Ferreira;RideUp;Zona Oeste;231;53;Comfort;23;Honda City 2021;4.76;Feminino
+613;Heitor;Alves;GoDrive;Zona Sul;273;56;Comfort;21;Jeep Renegade 2021;4.87;Feminino
+614;Valentina;Costa;GoDrive;Zona Leste;399;17;Econômico;34;Toyota Etios 2020;4.86;Feminino
+615;Miguel;Vieira;RideUp;Zona Sul;486;60;Comfort;29;Honda City 2021;4.44;Masculino
+616;Rafael;Alves;MoveX;Centro;173;52;Black;49;Toyota Corolla Cross 2024;4.63;Feminino
+617;Felipe;Alves;GoDrive;Zona Norte;418;54;Black;29;Honda Civic 2022;4.74;Masculino
+618;Isadora;Vieira;RideUp;Zona Oeste;41;37;Econômico;36;Renault Kwid 2024;4.67;Feminino
+619;Felipe;Oliveira;GoDrive;Zona Sul;483;19;Black;32;Honda Civic 2022;4.25;Feminino
+620;Gustavo;Almeida;GoDrive;Zona Oeste;273;26;Comfort;27;Chevrolet Tracker 2022;4.00;Feminino
+621;Camila;Fernandes;RideUp;Zona Leste;49;43;Comfort;44;Chevrolet Onix Plus 2023;4.11;Feminino
+622;Miguel;Santos;MoveX;Zona Leste;172;43;Comfort;55;Fiat Cronos 2023;4.76;Masculino
+623;Lucas;Rodrigues;RideUp;Zona Sul;457;14;Comfort;34;Chevrolet Tracker 2022;4.50;Masculino
+624;Ana;Ribeiro;GoDrive;Zona Oeste;392;20;Comfort;37;Honda City 2021;4.24;Masculino
+625;Isadora;Carvalho;GoDrive;Zona Sul;228;16;Black;53;Honda Civic 2022;4.07;Feminino
+626;Alice;Lopes;RideUp;Zona Norte;205;16;Comfort;40;Jeep Renegade 2021;4.85;Feminino
+627;Pedro;Carvalho;RideUp;Centro;153;14;Black;58;Toyota Corolla Cross 2024;4.08;Feminino
+628;Bernardo;Rodrigues;GoDrive;Centro;476;57;Econômico;55;Renault Kwid 2024;4.97;Feminino
+629;Maria;Gomes;GoDrive;Zona Sul;497;23;Comfort;48;Fiat Cronos 2023;4.48;Masculino
+630;Maria;Ferreira;GoDrive;Zona Leste;63;2;Black;38;Honda Civic 2022;4.91;Feminino
+631;Alice;Vieira;RideUp;Zona Leste;454;17;Econômico;28;VW Polo Track 2023;4.40;Feminino
+632;Gabriel;Martins;GoDrive;Zona Norte;432;37;Black;30;Jeep Commander 2023;4.76;Feminino
+633;Pedro;Costa;GoDrive;Zona Oeste;245;38;Econômico;39;VW Polo Track 2023;4.95;Feminino
+634;Alice;Carvalho;MoveX;Centro;279;39;Econômico;24;Citroën C3 2023;4.39;Masculino
+635;Rafael;Santos;RideUp;Zona Norte;109;45;Comfort;38;Jeep Renegade 2021;4.05;Masculino
+636;Lara;Souza;MoveX;Zona Leste;91;14;Econômico;55;Chevrolet Onix 2022;4.82;Feminino
+637;Arthur;Carvalho;MoveX;Zona Oeste;139;16;Econômico;22;Citroën C3 2023;4.73;Masculino
+638;Felipe;Souza;MoveX;Zona Leste;78;55;Econômico;54;VW Polo Track 2023;4.27;Feminino
+639;Ana;Carvalho;GoDrive;Zona Leste;428;6;Econômico;59;Fiat Argo 2021;4.51;Masculino
+640;Bruno;Alves;GoDrive;Centro;75;10;Black;57;Toyota Corolla Cross 2024;4.65;Feminino
+641;Lucas;Soares;GoDrive;Zona Norte;460;50;Black;56;Honda Civic 2022;4.91;Masculino
+642;Heloísa;Rodrigues;MoveX;Centro;275;39;Comfort;47;Honda City 2021;4.70;Masculino
+643;Rafael;Lima;MoveX;Zona Oeste;143;30;Econômico;56;VW Polo Track 2023;4.42;Feminino
+644;Alice;Ferreira;RideUp;Zona Leste;496;36;Comfort;59;Nissan Kicks 2022;4.52;Masculino
+645;Lara;Almeida;MoveX;Zona Norte;334;54;Econômico;25;Fiat Argo 2021;4.57;Feminino
+646;Camila;Almeida;MoveX;Zona Sul;338;38;Black;22;Jeep Compass 2023;4.08;Feminino
+647;Heitor;Lima;GoDrive;Centro;282;58;Black;33;VW Taos 2023;4.33;Masculino
+648;Felipe;Carvalho;GoDrive;Centro;318;45;Comfort;34;Fiat Cronos 2023;4.74;Feminino
+649;Gustavo;Oliveira;RideUp;Zona Norte;89;57;Comfort;23;Honda City 2021;4.68;Feminino
+650;Lucas;Rodrigues;MoveX;Zona Sul;199;7;Black;31;Jeep Commander 2023;4.13;Masculino
+651;Isadora;Souza;GoDrive;Zona Oeste;106;17;Black;47;Toyota Corolla 2024;4.90;Masculino
+652;Ana;Lima;MoveX;Centro;128;20;Black;36;Toyota Corolla Cross 2024;4.47;Feminino
+653;Valentina;Soares;GoDrive;Zona Sul;325;21;Comfort;41;Fiat Cronos 2023;4.71;Masculino
+654;Bruno;Souza;MoveX;Zona Norte;466;30;Comfort;55;Jeep Renegade 2021;4.18;Feminino
+655;Ana;Carvalho;MoveX;Zona Sul;470;34;Comfort;49;Fiat Cronos 2023;4.43;Feminino
+656;Laura;Santos;MoveX;Zona Leste;38;1;Econômico;45;Toyota Etios 2020;4.96;Feminino
+657;Heitor;Carvalho;MoveX;Zona Norte;208;8;Econômico;23;Fiat Argo 2021;4.96;Feminino
+658;Alice;Santos;GoDrive;Zona Oeste;472;3;Econômico;56;VW Polo Track 2023;4.37;Masculino
+659;Rafael;Ferreira;MoveX;Zona Leste;111;9;Econômico;56;Fiat Argo 2021;4.24;Masculino
+660;Ana;Almeida;GoDrive;Zona Sul;112;20;Econômico;21;Citroën C3 2023;4.00;Masculino
+661;Arthur;Souza;GoDrive;Zona Leste;228;11;Comfort;47;Honda City 2021;4.71;Masculino
+662;Arthur;Souza;MoveX;Zona Norte;246;53;Black;54;Jeep Compass 2023;4.11;Masculino
+663;Valentina;Vieira;MoveX;Zona Oeste;290;10;Black;24;Jeep Commander 2023;4.54;Feminino
+664;Maria;Rodrigues;MoveX;Centro;469;44;Econômico;25;Chevrolet Onix 2022;4.80;Masculino
+665;Bernardo;Ferreira;RideUp;Zona Sul;104;54;Comfort;41;Fiat Cronos 2023;4.53;Feminino
+666;Gustavo;Oliveira;RideUp;Zona Leste;54;45;Comfort;31;Jeep Renegade 2021;4.30;Masculino
+667;Camila;Alves;RideUp;Zona Leste;301;31;Black;52;Toyota Corolla 2024;4.24;Feminino
+668;Gael;Vieira;MoveX;Centro;222;32;Econômico;57;Fiat Argo 2021;4.68;Masculino
+669;Helena;Vieira;RideUp;Centro;265;24;Comfort;46;Jeep Renegade 2021;4.98;Feminino
+670;Arthur;Almeida;MoveX;Zona Leste;294;31;Econômico;24;Fiat Mobi 2022;4.33;Masculino
+671;Gabriel;Silva;GoDrive;Zona Sul;71;16;Comfort;60;Jeep Renegade 2021;4.72;Feminino
+672;Matheus;Barbosa;GoDrive;Centro;63;29;Comfort;29;Honda City 2021;4.03;Masculino
+673;Pedro;Martins;MoveX;Centro;44;43;Econômico;24;Citroën C3 2023;4.58;Feminino
+674;Gabriel;Rodrigues;GoDrive;Zona Oeste;400;5;Comfort;59;VW Virtus 2022;4.46;Feminino
+675;Lara;Lima;MoveX;Zona Oeste;238;16;Comfort;52;Nissan Versa 2023;4.99;Feminino
+676;Miguel;Silva;MoveX;Zona Leste;408;9;Black;50;Toyota Corolla Cross 2024;4.19;Masculino
+677;Valentina;Costa;MoveX;Zona Leste;237;42;Black;24;Jeep Compass 2023;4.35;Feminino
+678;Heloísa;Alves;GoDrive;Centro;48;31;Econômico;33;Toyota Etios 2020;4.45;Feminino
+679;Sofia;Fernandes;RideUp;Zona Oeste;342;36;Econômico;44;Toyota Etios 2020;4.55;Masculino
+680;Alice;Alves;GoDrive;Zona Leste;474;22;Econômico;26;Hyundai HB20 2023;4.23;Feminino
+681;Isadora;Ribeiro;GoDrive;Centro;161;21;Comfort;43;Nissan Versa 2023;4.95;Masculino
+682;Alice;Oliveira;GoDrive;Zona Sul;446;22;Econômico;38;Citroën C3 2023;4.67;Feminino
+683;Miguel;Martins;GoDrive;Zona Sul;157;17;Econômico;48;Citroën C3 2023;4.51;Feminino
+684;Gabriel;Gomes;RideUp;Zona Leste;194;54;Econômico;21;Fiat Mobi 2022;4.27;Masculino
+685;Pedro;Santos;GoDrive;Centro;21;20;Comfort;27;Chevrolet Tracker 2022;4.19;Feminino
+686;Heitor;Ribeiro;MoveX;Zona Oeste;401;13;Black;52;Toyota Corolla Cross 2024;4.68;Feminino
+687;Arthur;Lima;MoveX;Zona Sul;458;58;Econômico;42;Hyundai HB20 2023;4.34;Masculino
+688;Carla;Rodrigues;GoDrive;Zona Sul;294;44;Comfort;58;Jeep Renegade 2021;4.97;Masculino
+689;Bruno;Barbosa;GoDrive;Centro;326;57;Econômico;29;VW Polo Track 2023;4.88;Feminino
+690;Helena;Santos;RideUp;Zona Oeste;381;10;Comfort;41;Honda City 2021;4.09;Masculino
+691;Valentina;Martins;MoveX;Zona Norte;474;55;Econômico;30;Citroën C3 2023;4.02;Feminino
+692;Bernardo;Pereira;RideUp;Zona Norte;21;17;Econômico;46;Chevrolet Onix 2022;4.11;Masculino
+693;Pedro;Silva;MoveX;Zona Oeste;438;57;Comfort;50;Chevrolet Onix Plus 2023;4.86;Feminino
+694;Gabriel;Vieira;GoDrive;Zona Leste;433;5;Econômico;42;Fiat Mobi 2022;4.50;Masculino
+695;Isadora;Soares;RideUp;Zona Sul;65;15;Comfort;52;VW Virtus 2022;4.98;Feminino
+696;Helena;Rodrigues;RideUp;Centro;125;18;Comfort;45;Honda City 2021;4.71;Feminino
+697;Maria;Santos;MoveX;Zona Sul;107;34;Econômico;60;Fiat Mobi 2022;4.11;Masculino
+698;Gael;Costa;RideUp;Centro;151;29;Comfort;42;Honda City 2021;4.27;Masculino
+699;Lucas;Lima;RideUp;Zona Leste;154;38;Black;58;Honda Civic 2022;4.70;Masculino
+700;Carla;Soares;GoDrive;Zona Norte;353;35;Econômico;43;VW Polo Track 2023;4.11;Feminino
+701;Gabriel;Barbosa;RideUp;Zona Norte;461;51;Black;30;Toyota Corolla 2024;4.48;Feminino
+702;Heloísa;Martins;MoveX;Zona Sul;439;13;Comfort;52;Fiat Cronos 2023;4.72;Feminino
+703;Sofia;Pereira;GoDrive;Zona Norte;433;39;Econômico;51;Citroën C3 2023;4.16;Feminino
+704;Rafael;Pereira;RideUp;Zona Oeste;352;35;Econômico;37;VW Polo Track 2023;4.21;Feminino
+705;Sofia;Rodrigues;GoDrive;Zona Norte;475;19;Econômico;52;Fiat Mobi 2022;4.08;Masculino
+706;Miguel;Santos;MoveX;Zona Sul;402;51;Comfort;27;Nissan Versa 2023;4.78;Masculino
+707;Lucas;Barbosa;GoDrive;Centro;160;31;Econômico;40;Fiat Argo 2021;4.03;Feminino
+708;Gustavo;Lopes;GoDrive;Zona Oeste;144;33;Black;40;VW Taos 2023;4.13;Feminino
+709;Laura;Barbosa;MoveX;Centro;169;5;Comfort;28;Nissan Kicks 2022;4.31;Feminino
+710;Arthur;Martins;RideUp;Zona Oeste;351;10;Comfort;48;Hyundai HB20S 2022;4.63;Masculino
+711;Alice;Lima;RideUp;Centro;235;50;Comfort;45;Chevrolet Onix Plus 2023;4.71;Feminino
+712;Ana;Ferreira;GoDrive;Zona Sul;462;20;Econômico;54;Renault Kwid 2024;4.83;Feminino
+713;Heloísa;Almeida;MoveX;Zona Leste;336;49;Comfort;40;Fiat Cronos 2023;4.86;Masculino
+714;Pedro;Santos;RideUp;Centro;60;39;Comfort;48;Chevrolet Tracker 2022;4.25;Masculino
+715;Gustavo;Barbosa;GoDrive;Zona Norte;102;35;Black;22;Toyota Corolla Cross 2024;4.31;Masculino
+716;Lucas;Silva;MoveX;Zona Sul;269;5;Black;42;VW Taos 2023;4.43;Masculino
+717;Felipe;Pereira;MoveX;Centro;202;13;Comfort;21;VW Virtus 2022;4.99;Feminino
+718;Julia;Soares;RideUp;Zona Oeste;339;6;Comfort;21;Nissan Versa 2023;4.32;Feminino
+719;Felipe;Pereira;MoveX;Centro;99;8;Econômico;23;Citroën C3 2023;4.63;Feminino
+720;Rafael;Gomes;MoveX;Zona Sul;375;15;Comfort;40;Jeep Renegade 2021;4.20;Masculino
+721;Lucas;Carvalho;RideUp;Zona Norte;393;28;Econômico;58;Toyota Etios 2020;4.56;Masculino
+722;Sofia;Lima;RideUp;Zona Norte;116;11;Econômico;39;VW Polo Track 2023;4.39;Masculino
+723;Heloísa;Vieira;GoDrive;Centro;470;13;Comfort;59;Jeep Renegade 2021;4.08;Masculino
+724;Laura;Silva;RideUp;Zona Sul;366;18;Comfort;57;Fiat Cronos 2023;4.80;Feminino
+725;Carla;Alves;MoveX;Zona Norte;192;26;Comfort;49;Nissan Versa 2023;4.24;Masculino
+726;Helena;Gomes;RideUp;Zona Norte;478;28;Comfort;58;Honda City 2021;4.67;Masculino
+727;Lucas;Lima;MoveX;Zona Sul;315;55;Econômico;36;Fiat Argo 2021;4.38;Feminino
+728;Alice;Soares;GoDrive;Zona Norte;221;12;Comfort;55;Hyundai HB20S 2022;4.78;Feminino
+729;Bruno;Souza;GoDrive;Zona Sul;38;29;Econômico;25;VW Polo Track 2023;4.73;Masculino
+730;Sofia;Ferreira;MoveX;Zona Sul;200;22;Econômico;31;Fiat Argo 2021;4.84;Masculino
+731;Camila;Barbosa;GoDrive;Zona Leste;302;6;Comfort;29;Honda City 2021;4.09;Feminino
+732;Alice;Vieira;GoDrive;Zona Norte;202;26;Comfort;38;Honda City 2021;4.38;Masculino
+733;Arthur;Ribeiro;MoveX;Zona Oeste;183;33;Comfort;45;Fiat Cronos 2023;4.92;Feminino
+734;Maria;Souza;RideUp;Zona Norte;102;41;Black;38;VW Taos 2023;4.80;Masculino
+735;Carla;Oliveira;MoveX;Zona Leste;338;1;Comfort;60;Nissan Kicks 2022;4.94;Masculino
+736;Bruno;Ribeiro;GoDrive;Zona Leste;146;8;Comfort;27;Jeep Renegade 2021;4.65;Feminino
+737;Matheus;Carvalho;MoveX;Zona Norte;459;57;Comfort;33;Hyundai HB20S 2022;4.19;Feminino
+738;Helena;Silva;MoveX;Zona Oeste;218;40;Comfort;52;Fiat Cronos 2023;4.72;Feminino
+739;Lara;Silva;GoDrive;Zona Norte;160;60;Black;29;Jeep Commander 2023;4.14;Feminino
+740;Bruno;Carvalho;RideUp;Centro;287;16;Econômico;25;VW Polo Track 2023;4.10;Masculino
+741;Arthur;Souza;GoDrive;Zona Norte;270;25;Comfort;25;Nissan Kicks 2022;4.20;Feminino
+742;Pedro;Vieira;RideUp;Zona Oeste;497;8;Comfort;23;Nissan Kicks 2022;4.37;Feminino
+743;Helena;Gomes;GoDrive;Centro;411;43;Econômico;45;Chevrolet Onix 2022;4.81;Masculino
+744;Maria;Silva;MoveX;Zona Sul;435;11;Comfort;26;VW Virtus 2022;4.00;Masculino
+745;Gustavo;Fernandes;RideUp;Centro;261;3;Comfort;39;Nissan Versa 2023;4.07;Masculino
+746;Valentina;Costa;MoveX;Centro;312;32;Black;47;Honda Civic 2022;4.16;Feminino
+747;Isadora;Alves;MoveX;Zona Leste;393;51;Econômico;41;Citroën C3 2023;4.06;Feminino
+748;Gustavo;Rodrigues;GoDrive;Zona Oeste;301;9;Black;55;Toyota Corolla Cross 2024;4.21;Feminino
+749;Heloísa;Fernandes;GoDrive;Centro;288;49;Econômico;51;Chevrolet Onix 2022;4.67;Feminino
+750;Maria;Silva;MoveX;Zona Norte;387;32;Comfort;30;Chevrolet Onix Plus 2023;4.59;Feminino
+751;Maria;Ribeiro;MoveX;Zona Leste;347;12;Econômico;38;Chevrolet Onix 2022;4.95;Feminino
+752;Arthur;Santos;GoDrive;Centro;144;53;Econômico;38;Toyota Etios 2020;4.55;Feminino
+753;Maria;Rodrigues;GoDrive;Zona Oeste;490;42;Black;21;Honda Civic 2022;4.18;Feminino
+754;Laura;Ribeiro;RideUp;Zona Oeste;102;46;Comfort;26;Chevrolet Tracker 2022;4.22;Feminino
+755;Carla;Costa;MoveX;Zona Leste;189;25;Comfort;37;Hyundai HB20S 2022;4.84;Masculino
+756;Julia;Oliveira;RideUp;Zona Leste;128;2;Comfort;53;Nissan Versa 2023;4.13;Feminino
+757;Maria;Barbosa;RideUp;Zona Sul;151;13;Comfort;59;Jeep Renegade 2021;4.05;Masculino
+758;Heitor;Rodrigues;RideUp;Zona Norte;45;37;Econômico;58;Fiat Mobi 2022;4.71;Feminino
+759;Helena;Costa;RideUp;Centro;229;60;Econômico;58;Renault Kwid 2024;4.45;Masculino
+760;Valentina;Lopes;RideUp;Zona Sul;179;46;Comfort;56;Fiat Cronos 2023;4.17;Masculino
+761;Julia;Alves;GoDrive;Zona Sul;393;42;Comfort;46;VW Virtus 2022;4.77;Masculino
+762;Heitor;Fernandes;RideUp;Centro;214;27;Comfort;59;VW Virtus 2022;4.42;Feminino
+763;Felipe;Souza;MoveX;Centro;351;9;Black;28;Jeep Compass 2023;4.11;Masculino
+764;Carla;Costa;RideUp;Zona Leste;374;7;Econômico;45;Renault Kwid 2024;4.99;Masculino
+765;Laura;Oliveira;MoveX;Zona Leste;136;8;Econômico;24;Chevrolet Onix 2022;4.92;Masculino
+766;Pedro;Santos;GoDrive;Centro;92;8;Black;33;VW Taos 2023;4.00;Feminino
+767;Ana;Alves;MoveX;Zona Oeste;205;40;Black;56;Toyota Corolla Cross 2024;4.19;Feminino
+768;Laura;Costa;MoveX;Zona Sul;286;31;Comfort;46;Jeep Renegade 2021;4.26;Masculino
+769;Felipe;Fernandes;RideUp;Zona Sul;289;1;Black;29;Toyota Corolla Cross 2024;4.76;Feminino
+770;Bernardo;Carvalho;RideUp;Zona Oeste;28;27;Black;42;Honda Civic 2022;4.17;Feminino
+771;Gustavo;Rodrigues;RideUp;Zona Sul;365;18;Comfort;30;Honda City 2021;4.26;Feminino
+772;Bruno;Alves;RideUp;Zona Norte;180;19;Comfort;43;Chevrolet Onix Plus 2023;4.15;Feminino
+773;Laura;Lima;RideUp;Zona Leste;430;33;Econômico;47;Hyundai HB20 2023;4.00;Masculino
+774;Matheus;Lima;RideUp;Zona Norte;479;6;Econômico;27;Citroën C3 2023;4.50;Feminino
+775;Maria;Gomes;RideUp;Centro;221;30;Comfort;55;Honda City 2021;4.06;Feminino
+776;Bruno;Vieira;MoveX;Zona Sul;460;47;Comfort;34;Hyundai HB20S 2022;4.44;Masculino
+777;Bruno;Alves;MoveX;Zona Oeste;169;37;Comfort;48;VW Virtus 2022;4.75;Feminino
+778;Ana;Costa;GoDrive;Zona Oeste;243;26;Comfort;29;Honda City 2021;4.28;Masculino
+779;Rafael;Rodrigues;MoveX;Centro;176;54;Econômico;25;Fiat Argo 2021;4.21;Masculino
+780;Arthur;Souza;RideUp;Zona Sul;84;24;Comfort;44;Nissan Versa 2023;4.52;Feminino
+781;Bruno;Ferreira;RideUp;Zona Oeste;474;34;Comfort;31;Chevrolet Onix Plus 2023;4.27;Feminino
+782;Julia;Oliveira;RideUp;Zona Norte;149;18;Comfort;59;Chevrolet Onix Plus 2023;4.10;Masculino
+783;Camila;Almeida;MoveX;Zona Sul;379;52;Econômico;36;Fiat Mobi 2022;4.07;Masculino
+784;Miguel;Martins;GoDrive;Zona Oeste;150;10;Econômico;34;Fiat Mobi 2022;4.63;Feminino
+785;Lucas;Santos;RideUp;Zona Sul;47;11;Black;32;Jeep Commander 2023;4.08;Masculino
+786;Helena;Almeida;MoveX;Zona Oeste;427;10;Black;29;Toyota Corolla Cross 2024;4.01;Masculino
+787;Camila;Lopes;MoveX;Zona Sul;205;59;Black;23;Toyota Corolla Cross 2024;4.11;Feminino
+788;Gustavo;Almeida;RideUp;Zona Norte;218;28;Econômico;25;Toyota Etios 2020;4.35;Feminino
+789;Gustavo;Soares;GoDrive;Zona Oeste;21;36;Comfort;42;Nissan Versa 2023;4.71;Feminino
+790;Bernardo;Souza;MoveX;Zona Oeste;309;45;Black;24;Honda Civic 2022;4.72;Masculino
+791;Bruno;Oliveira;RideUp;Zona Sul;489;28;Econômico;46;Renault Kwid 2024;4.18;Feminino
+792;Heitor;Carvalho;MoveX;Zona Oeste;22;36;Econômico;22;Renault Kwid 2024;4.35;Masculino
+793;Maria;Gomes;MoveX;Zona Oeste;79;10;Black;53;Toyota Corolla 2024;4.60;Feminino
+794;Felipe;Lima;GoDrive;Centro;167;33;Comfort;37;Nissan Versa 2023;4.45;Feminino
+795;Laura;Pereira;MoveX;Zona Oeste;112;46;Comfort;58;Hyundai HB20S 2022;4.57;Feminino
+796;Matheus;Lima;MoveX;Zona Oeste;302;12;Econômico;36;Hyundai HB20 2023;4.51;Masculino
+797;Ana;Ferreira;RideUp;Centro;344;49;Econômico;21;VW Polo Track 2023;4.56;Masculino
+798;Bernardo;Gomes;RideUp;Centro;346;31;Comfort;36;Chevrolet Tracker 2022;4.80;Feminino
+799;Bernardo;Ribeiro;RideUp;Centro;256;47;Comfort;46;Chevrolet Tracker 2022;4.24;Feminino
+800;Isadora;Lima;GoDrive;Zona Oeste;269;46;Black;48;Toyota Corolla 2024;4.52;Masculino
+801;Gustavo;Vieira;MoveX;Zona Oeste;496;18;Comfort;55;Nissan Versa 2023;4.91;Feminino
+802;Alice;Lopes;GoDrive;Centro;91;5;Black;36;Toyota Corolla 2024;4.71;Feminino
+803;Carla;Vieira;RideUp;Zona Norte;442;1;Econômico;28;Citroën C3 2023;4.36;Feminino
+804;Bernardo;Martins;RideUp;Zona Oeste;185;37;Econômico;46;VW Polo Track 2023;4.44;Feminino
+805;Heloísa;Oliveira;GoDrive;Zona Norte;403;16;Econômico;40;Hyundai HB20 2023;4.50;Feminino
+806;Bernardo;Ferreira;MoveX;Zona Oeste;32;43;Comfort;53;VW Virtus 2022;4.16;Feminino
+807;Gael;Vieira;MoveX;Zona Leste;205;54;Comfort;42;Jeep Renegade 2021;4.02;Feminino
+808;Alice;Martins;RideUp;Zona Leste;406;60;Black;51;Toyota Corolla 2024;4.84;Feminino
+809;Gael;Pereira;RideUp;Zona Oeste;432;58;Black;45;Honda Civic 2022;4.39;Masculino
+810;Bruno;Ribeiro;GoDrive;Zona Sul;378;10;Black;21;Jeep Compass 2023;4.83;Masculino
+811;Lara;Oliveira;RideUp;Centro;143;43;Econômico;56;Fiat Mobi 2022;4.45;Masculino
+812;Helena;Rodrigues;MoveX;Zona Leste;206;27;Econômico;21;Hyundai HB20 2023;4.60;Feminino
+813;Maria;Carvalho;RideUp;Zona Leste;417;3;Econômico;47;Citroën C3 2023;4.28;Feminino
+814;Alice;Souza;MoveX;Zona Leste;247;56;Black;23;Toyota Corolla Cross 2024;4.94;Feminino
+815;Bruno;Gomes;RideUp;Zona Leste;440;46;Black;38;Honda Civic 2022;4.08;Feminino
+816;Gabriel;Silva;MoveX;Zona Sul;323;58;Black;41;Jeep Commander 2023;4.74;Masculino
+817;Isadora;Vieira;MoveX;Zona Leste;161;22;Black;54;Jeep Compass 2023;4.79;Masculino
+818;Gustavo;Silva;MoveX;Zona Sul;230;30;Econômico;45;Hyundai HB20 2023;4.07;Feminino
+819;Arthur;Pereira;RideUp;Zona Leste;401;46;Comfort;47;Jeep Renegade 2021;4.71;Feminino
+820;Alice;Silva;RideUp;Zona Leste;432;19;Econômico;55;Fiat Argo 2021;4.83;Feminino
+821;Bruno;Oliveira;RideUp;Zona Sul;208;21;Econômico;24;Toyota Etios 2020;4.86;Masculino
+822;Laura;Souza;RideUp;Zona Norte;193;43;Comfort;31;Nissan Versa 2023;4.74;Masculino
+823;Heitor;Silva;RideUp;Zona Leste;142;38;Comfort;45;Honda City 2021;4.36;Feminino
+824;Lara;Vieira;GoDrive;Zona Norte;179;55;Econômico;46;Renault Kwid 2024;4.93;Feminino
+825;Maria;Pereira;RideUp;Zona Oeste;293;57;Black;58;VW Taos 2023;4.57;Masculino
+826;Lara;Almeida;MoveX;Zona Sul;263;55;Comfort;37;Jeep Renegade 2021;4.86;Masculino
+827;Lucas;Soares;RideUp;Zona Norte;324;5;Comfort;25;Chevrolet Onix Plus 2023;4.08;Feminino
+828;Gabriel;Lopes;MoveX;Zona Leste;379;20;Econômico;36;Hyundai HB20 2023;4.41;Masculino
+829;Miguel;Martins;GoDrive;Centro;496;56;Econômico;39;Fiat Argo 2021;4.09;Feminino
+830;Felipe;Vieira;GoDrive;Zona Oeste;495;48;Comfort;26;Chevrolet Tracker 2022;4.52;Masculino
+831;Pedro;Almeida;MoveX;Zona Sul;355;59;Econômico;30;Citroën C3 2023;4.77;Feminino
+832;Heloísa;Vieira;GoDrive;Zona Leste;284;25;Econômico;32;Fiat Argo 2021;4.18;Feminino
+833;Julia;Alves;RideUp;Zona Sul;79;21;Comfort;31;Chevrolet Onix Plus 2023;4.61;Feminino
+834;Heitor;Barbosa;GoDrive;Zona Sul;351;13;Comfort;51;Honda City 2021;4.04;Masculino
+835;Sofia;Silva;MoveX;Zona Leste;114;34;Econômico;60;Citroën C3 2023;4.88;Feminino
+836;Alice;Carvalho;MoveX;Zona Sul;475;43;Black;32;Toyota Corolla 2024;4.24;Feminino
+837;Arthur;Martins;RideUp;Zona Leste;240;34;Black;58;Jeep Commander 2023;4.02;Feminino
+838;Camila;Lopes;RideUp;Zona Leste;49;56;Econômico;42;Toyota Etios 2020;4.79;Feminino
+839;Isadora;Gomes;MoveX;Centro;322;50;Black;25;Toyota Corolla 2024;4.95;Masculino
+840;Valentina;Lima;RideUp;Zona Leste;43;9;Comfort;44;Hyundai HB20S 2022;4.65;Feminino
+841;Miguel;Carvalho;MoveX;Zona Sul;348;60;Black;23;Toyota Corolla Cross 2024;4.29;Feminino
+842;Matheus;Martins;MoveX;Zona Norte;421;48;Black;32;Jeep Commander 2023;4.94;Masculino
+843;Sofia;Martins;MoveX;Centro;32;15;Econômico;38;Hyundai HB20 2023;4.49;Feminino
+844;Bernardo;Ribeiro;RideUp;Zona Leste;195;25;Econômico;50;Fiat Argo 2021;4.72;Feminino
+845;Gabriel;Gomes;GoDrive;Zona Norte;412;8;Black;55;Toyota Corolla Cross 2024;4.29;Feminino
+846;Pedro;Ribeiro;MoveX;Zona Oeste;94;55;Comfort;44;Chevrolet Tracker 2022;4.02;Feminino
+847;Pedro;Carvalho;GoDrive;Zona Leste;53;47;Econômico;56;Hyundai HB20 2023;4.87;Masculino
+848;Helena;Soares;MoveX;Centro;107;24;Econômico;51;Toyota Etios 2020;4.42;Feminino
+849;Felipe;Soares;MoveX;Centro;79;30;Econômico;51;Citroën C3 2023;4.04;Feminino
+850;Isadora;Souza;MoveX;Zona Norte;223;10;Econômico;50;Toyota Etios 2020;4.66;Masculino
+851;Bruno;Ferreira;RideUp;Centro;148;50;Econômico;33;Hyundai HB20 2023;4.76;Feminino
+852;Arthur;Martins;GoDrive;Zona Norte;85;46;Black;43;VW Taos 2023;4.94;Feminino
+853;Miguel;Souza;GoDrive;Zona Leste;416;59;Black;44;Toyota Corolla 2024;4.72;Masculino
+854;Heitor;Barbosa;GoDrive;Centro;370;20;Comfort;33;Chevrolet Tracker 2022;4.22;Masculino
+855;Camila;Silva;RideUp;Centro;179;8;Comfort;39;Jeep Renegade 2021;4.34;Masculino
+856;Heitor;Lopes;MoveX;Centro;288;59;Black;22;Honda Civic 2022;4.87;Masculino
+857;Camila;Alves;MoveX;Centro;89;47;Econômico;26;Renault Kwid 2024;4.15;Feminino
+858;Valentina;Santos;GoDrive;Zona Sul;495;21;Comfort;46;Fiat Cronos 2023;4.55;Feminino
+859;Heloísa;Barbosa;GoDrive;Zona Norte;359;45;Black;21;VW Taos 2023;4.83;Feminino
+860;Laura;Silva;MoveX;Zona Oeste;320;18;Comfort;26;Hyundai HB20S 2022;4.15;Feminino
+861;Rafael;Carvalho;MoveX;Centro;142;29;Black;58;VW Taos 2023;4.36;Feminino
+862;Carla;Almeida;RideUp;Zona Norte;296;42;Comfort;49;Chevrolet Onix Plus 2023;4.27;Masculino
+863;Lucas;Pereira;GoDrive;Centro;346;3;Comfort;45;Fiat Cronos 2023;4.08;Feminino
+864;Julia;Ribeiro;GoDrive;Zona Oeste;371;20;Comfort;60;Honda City 2021;4.84;Feminino
+865;Maria;Santos;GoDrive;Zona Norte;102;6;Econômico;26;Fiat Argo 2021;4.60;Masculino
+866;Pedro;Alves;MoveX;Zona Oeste;466;59;Econômico;57;Fiat Mobi 2022;4.86;Feminino
+867;Felipe;Santos;MoveX;Zona Leste;137;43;Comfort;42;Chevrolet Tracker 2022;4.65;Masculino
+868;Heitor;Gomes;RideUp;Zona Leste;185;52;Comfort;56;Chevrolet Onix Plus 2023;4.39;Feminino
+869;Heloísa;Silva;RideUp;Zona Oeste;451;58;Econômico;53;Hyundai HB20 2023;4.34;Masculino
+870;Pedro;Alves;RideUp;Zona Leste;224;52;Comfort;39;Nissan Kicks 2022;4.83;Feminino
+871;Bruno;Silva;MoveX;Zona Sul;157;20;Black;33;VW Taos 2023;4.73;Masculino
+872;Gustavo;Fernandes;GoDrive;Centro;204;39;Comfort;25;Nissan Versa 2023;4.91;Masculino
+873;Maria;Martins;GoDrive;Centro;364;16;Comfort;27;Fiat Cronos 2023;4.41;Masculino
+874;Helena;Lima;RideUp;Zona Sul;295;51;Black;27;Toyota Corolla Cross 2024;4.86;Feminino
+875;Matheus;Santos;RideUp;Zona Leste;428;7;Econômico;21;Fiat Mobi 2022;4.73;Feminino
+876;Heitor;Costa;MoveX;Zona Norte;339;2;Econômico;41;Toyota Etios 2020;4.89;Masculino
+877;Rafael;Martins;RideUp;Zona Oeste;413;38;Black;33;Toyota Corolla 2024;4.84;Masculino
+878;Alice;Almeida;RideUp;Zona Leste;273;52;Econômico;37;Citroën C3 2023;4.48;Masculino
+879;Camila;Lima;RideUp;Zona Oeste;392;45;Black;60;Honda Civic 2022;4.06;Masculino
+880;Carla;Lopes;MoveX;Centro;212;43;Black;46;VW Taos 2023;4.01;Feminino
+881;Bruno;Costa;RideUp;Zona Norte;165;50;Econômico;27;Renault Kwid 2024;4.23;Feminino
+882;Heloísa;Ferreira;MoveX;Zona Norte;488;4;Econômico;21;Toyota Etios 2020;4.98;Masculino
+883;Valentina;Pereira;MoveX;Zona Leste;322;46;Comfort;40;VW Virtus 2022;4.73;Masculino
+884;Lara;Almeida;MoveX;Zona Leste;223;9;Econômico;56;Renault Kwid 2024;4.99;Feminino
+885;Laura;Carvalho;GoDrive;Centro;359;27;Econômico;43;Toyota Etios 2020;4.94;Feminino
+886;Lucas;Oliveira;RideUp;Zona Sul;220;35;Econômico;26;Fiat Mobi 2022;4.96;Feminino
+887;Camila;Barbosa;GoDrive;Zona Norte;364;37;Econômico;22;Fiat Mobi 2022;4.53;Masculino
+888;Maria;Carvalho;MoveX;Zona Sul;109;51;Econômico;25;Chevrolet Onix 2022;4.25;Masculino
+889;Ana;Costa;RideUp;Zona Sul;452;15;Econômico;48;Hyundai HB20 2023;4.82;Masculino
+890;Felipe;Silva;MoveX;Zona Leste;262;18;Comfort;22;Chevrolet Onix Plus 2023;4.79;Feminino
+891;Gabriel;Souza;RideUp;Zona Leste;244;11;Comfort;59;Hyundai HB20S 2022;4.17;Feminino
+892;Gael;Costa;GoDrive;Zona Sul;222;28;Comfort;39;Honda City 2021;4.47;Feminino
+893;Lucas;Lima;GoDrive;Zona Sul;135;20;Comfort;49;Honda City 2021;4.48;Feminino
+894;Carla;Fernandes;GoDrive;Zona Norte;461;20;Black;44;Honda Civic 2022;4.33;Masculino
+895;Miguel;Barbosa;MoveX;Zona Norte;420;40;Comfort;44;Honda City 2021;4.42;Feminino
+896;Sofia;Fernandes;MoveX;Zona Norte;96;24;Black;27;Honda Civic 2022;4.28;Feminino
+897;Arthur;Pereira;RideUp;Zona Oeste;47;45;Econômico;22;Fiat Argo 2021;4.42;Feminino
+898;Pedro;Lima;RideUp;Zona Oeste;163;46;Comfort;59;Chevrolet Onix Plus 2023;4.87;Masculino
+899;Ana;Fernandes;RideUp;Zona Sul;488;45;Comfort;21;Hyundai HB20S 2022;4.59;Masculino
+900;Bernardo;Lopes;MoveX;Zona Sul;143;30;Comfort;27;Hyundai HB20S 2022;4.72;Masculino
+901;Gustavo;Barbosa;RideUp;Zona Sul;136;51;Black;57;Honda Civic 2022;4.97;Feminino
+902;Miguel;Alves;RideUp;Zona Leste;241;23;Econômico;27;Renault Kwid 2024;4.72;Masculino
+903;Isadora;Souza;MoveX;Zona Sul;417;59;Econômico;32;Citroën C3 2023;4.69;Feminino
+904;Laura;Ferreira;MoveX;Zona Oeste;474;1;Black;48;Toyota Corolla Cross 2024;4.93;Feminino
+905;Rafael;Fernandes;MoveX;Centro;420;32;Black;31;Jeep Compass 2023;4.41;Masculino
+906;Helena;Vieira;RideUp;Centro;78;50;Black;28;Jeep Compass 2023;4.60;Masculino
+907;Pedro;Vieira;RideUp;Zona Leste;36;30;Econômico;36;Fiat Argo 2021;4.95;Feminino
+908;Sofia;Silva;RideUp;Centro;259;15;Comfort;50;Chevrolet Tracker 2022;4.73;Masculino
+909;Bruno;Pereira;GoDrive;Zona Oeste;130;54;Black;26;VW Taos 2023;4.64;Feminino
+910;Miguel;Almeida;RideUp;Zona Sul;430;18;Black;55;Jeep Commander 2023;4.49;Feminino
+911;Sofia;Silva;RideUp;Zona Oeste;409;54;Black;34;Jeep Compass 2023;4.00;Feminino
+912;Helena;Fernandes;RideUp;Centro;163;57;Comfort;21;Nissan Kicks 2022;4.18;Feminino
+913;Gabriel;Lima;RideUp;Zona Leste;21;15;Comfort;30;VW Virtus 2022;4.44;Masculino
+914;Felipe;Barbosa;GoDrive;Centro;37;10;Econômico;42;Fiat Mobi 2022;4.26;Masculino
+915;Carla;Gomes;MoveX;Zona Oeste;487;5;Black;39;Jeep Commander 2023;4.35;Masculino
+916;Matheus;Martins;RideUp;Zona Leste;439;35;Comfort;46;Hyundai HB20S 2022;4.46;Masculino
+917;Maria;Martins;GoDrive;Zona Leste;137;56;Black;22;Jeep Commander 2023;4.58;Feminino
+918;Laura;Carvalho;MoveX;Zona Norte;374;36;Comfort;43;Honda City 2021;4.97;Masculino
+919;Julia;Almeida;MoveX;Zona Oeste;445;25;Comfort;43;Chevrolet Onix Plus 2023;4.07;Masculino
+920;Maria;Oliveira;GoDrive;Zona Norte;324;15;Econômico;26;VW Polo Track 2023;4.07;Masculino
+921;Rafael;Lopes;MoveX;Zona Norte;448;44;Black;28;Jeep Compass 2023;4.74;Masculino
+922;Sofia;Alves;MoveX;Zona Leste;29;52;Comfort;43;Honda City 2021;4.49;Masculino
+923;Sofia;Alves;GoDrive;Zona Sul;299;25;Comfort;37;Nissan Versa 2023;4.33;Masculino
+924;Rafael;Silva;GoDrive;Zona Oeste;98;23;Econômico;25;Renault Kwid 2024;4.41;Feminino
+925;Lara;Martins;MoveX;Zona Leste;491;22;Econômico;28;Renault Kwid 2024;4.31;Masculino
+926;Camila;Fernandes;MoveX;Zona Sul;459;31;Econômico;41;Citroën C3 2023;4.31;Feminino
+927;Matheus;Souza;MoveX;Centro;124;50;Comfort;57;Honda City 2021;4.84;Masculino
+928;Isadora;Ribeiro;GoDrive;Centro;37;33;Comfort;59;Chevrolet Onix Plus 2023;4.88;Masculino
+929;Maria;Ferreira;RideUp;Zona Leste;90;6;Black;43;Jeep Compass 2023;4.27;Masculino
+930;Sofia;Lima;RideUp;Zona Sul;456;58;Comfort;52;Honda City 2021;4.06;Feminino
+931;Alice;Lopes;MoveX;Zona Oeste;414;57;Econômico;44;Hyundai HB20 2023;4.08;Feminino
+932;Lara;Silva;GoDrive;Centro;43;25;Comfort;53;Nissan Kicks 2022;4.89;Masculino
+933;Sofia;Barbosa;MoveX;Zona Leste;364;7;Comfort;32;Nissan Kicks 2022;4.34;Masculino
+934;Ana;Alves;MoveX;Zona Norte;34;32;Black;39;VW Taos 2023;4.50;Feminino
+935;Carla;Gomes;MoveX;Zona Sul;243;18;Econômico;36;Chevrolet Onix 2022;4.66;Masculino
+936;Heitor;Lopes;GoDrive;Zona Leste;300;31;Econômico;45;Chevrolet Onix 2022;4.09;Masculino
+937;Miguel;Lopes;RideUp;Zona Norte;113;57;Comfort;43;Chevrolet Tracker 2022;4.13;Feminino
+938;Maria;Santos;GoDrive;Zona Leste;486;24;Comfort;38;Fiat Cronos 2023;4.33;Masculino
+939;Felipe;Almeida;RideUp;Zona Norte;374;40;Econômico;31;Fiat Mobi 2022;4.73;Masculino
+940;Lara;Santos;MoveX;Zona Leste;322;1;Comfort;51;Nissan Kicks 2022;4.48;Masculino
+941;Helena;Soares;RideUp;Zona Oeste;124;24;Comfort;51;VW Virtus 2022;4.06;Feminino
+942;Helena;Santos;GoDrive;Zona Leste;72;17;Comfort;51;Chevrolet Tracker 2022;4.03;Feminino
+943;Bernardo;Santos;MoveX;Zona Leste;299;21;Comfort;53;Chevrolet Onix Plus 2023;4.98;Feminino
+944;Alice;Souza;RideUp;Centro;94;28;Comfort;59;Jeep Renegade 2021;4.04;Feminino
+945;Julia;Santos;MoveX;Zona Oeste;292;33;Comfort;53;VW Virtus 2022;4.62;Masculino
+946;Isadora;Lima;MoveX;Zona Norte;247;10;Comfort;25;Fiat Cronos 2023;4.57;Feminino
+947;Maria;Fernandes;MoveX;Zona Norte;418;28;Econômico;37;Toyota Etios 2020;4.86;Feminino
+948;Felipe;Fernandes;RideUp;Zona Sul;280;37;Econômico;58;Fiat Mobi 2022;4.45;Feminino
+949;Ana;Ferreira;GoDrive;Zona Oeste;39;35;Black;40;VW Taos 2023;4.00;Feminino
+950;Gustavo;Rodrigues;RideUp;Zona Oeste;280;20;Econômico;38;VW Polo Track 2023;4.50;Masculino
+951;Bruno;Silva;GoDrive;Centro;66;46;Black;41;Jeep Commander 2023;4.35;Feminino
+952;Gael;Rodrigues;RideUp;Centro;266;60;Black;40;Jeep Compass 2023;4.84;Feminino
+953;Sofia;Carvalho;GoDrive;Zona Leste;73;8;Black;28;Jeep Commander 2023;4.32;Masculino
+954;Gael;Costa;RideUp;Zona Leste;111;43;Econômico;48;VW Polo Track 2023;4.66;Feminino
+955;Ana;Barbosa;RideUp;Zona Norte;87;30;Comfort;44;Chevrolet Tracker 2022;4.21;Masculino
+956;Sofia;Silva;RideUp;Zona Leste;189;60;Black;47;Toyota Corolla Cross 2024;4.87;Masculino
+957;Miguel;Almeida;MoveX;Zona Leste;437;38;Comfort;50;Chevrolet Onix Plus 2023;4.02;Feminino
+958;Carla;Barbosa;MoveX;Zona Oeste;132;31;Comfort;48;VW Virtus 2022;4.00;Feminino
+959;Gustavo;Gomes;RideUp;Centro;308;39;Comfort;32;Jeep Renegade 2021;4.95;Feminino
+960;Lara;Rodrigues;GoDrive;Zona Leste;247;36;Black;33;Jeep Commander 2023;4.02;Feminino
+961;Bernardo;Pereira;MoveX;Zona Norte;326;46;Comfort;27;Honda City 2021;4.61;Masculino
+962;Pedro;Fernandes;MoveX;Centro;484;6;Comfort;29;Chevrolet Onix Plus 2023;4.83;Feminino
+963;Gabriel;Ferreira;GoDrive;Zona Sul;390;60;Comfort;43;VW Virtus 2022;4.58;Masculino
+964;Lara;Almeida;GoDrive;Zona Norte;385;35;Comfort;23;Nissan Kicks 2022;4.20;Masculino
+965;Bruno;Rodrigues;GoDrive;Zona Norte;483;29;Econômico;44;VW Polo Track 2023;4.19;Feminino
+966;Isadora;Carvalho;MoveX;Zona Oeste;90;1;Black;44;Honda Civic 2022;4.61;Masculino
+967;Camila;Vieira;RideUp;Zona Leste;373;50;Econômico;43;Fiat Mobi 2022;4.09;Feminino
+968;Bruno;Ribeiro;GoDrive;Zona Norte;247;40;Black;44;VW Taos 2023;4.38;Feminino
+969;Gael;Martins;GoDrive;Zona Oeste;105;1;Comfort;37;Fiat Cronos 2023;4.34;Masculino
+970;Matheus;Rodrigues;MoveX;Zona Oeste;114;5;Black;31;Toyota Corolla Cross 2024;4.31;Feminino
+971;Valentina;Souza;GoDrive;Zona Norte;416;57;Black;35;Jeep Compass 2023;4.16;Feminino
+972;Gabriel;Almeida;GoDrive;Centro;291;20;Black;47;Jeep Commander 2023;4.56;Masculino
+973;Heitor;Silva;RideUp;Zona Norte;246;17;Comfort;30;VW Virtus 2022;4.12;Masculino
+974;Rafael;Alves;MoveX;Zona Leste;77;34;Econômico;51;Citroën C3 2023;4.81;Masculino
+975;Heitor;Vieira;MoveX;Centro;139;3;Comfort;38;Honda City 2021;4.97;Feminino
+976;Gabriel;Lopes;MoveX;Zona Leste;130;49;Black;35;VW Taos 2023;4.45;Feminino
+977;Gustavo;Lima;RideUp;Zona Leste;318;14;Comfort;26;Nissan Versa 2023;4.67;Feminino
+978;Gustavo;Ribeiro;MoveX;Zona Norte;104;28;Econômico;42;Citroën C3 2023;4.65;Masculino
+979;Pedro;Oliveira;RideUp;Zona Sul;208;25;Econômico;56;Chevrolet Onix 2022;4.57;Feminino
+980;Ana;Costa;MoveX;Zona Norte;148;49;Econômico;53;Chevrolet Onix 2022;4.69;Feminino
+981;Carla;Pereira;GoDrive;Centro;282;50;Comfort;47;Nissan Kicks 2022;4.10;Feminino
+982;Matheus;Martins;GoDrive;Zona Sul;185;21;Econômico;54;Toyota Etios 2020;4.89;Feminino
+983;Arthur;Gomes;RideUp;Zona Leste;303;51;Black;27;VW Taos 2023;4.66;Masculino
+984;Ana;Alves;RideUp;Zona Leste;467;47;Econômico;21;Chevrolet Onix 2022;4.51;Feminino
+985;Lara;Soares;GoDrive;Zona Leste;281;7;Black;53;VW Taos 2023;4.35;Feminino
+986;Ana;Soares;MoveX;Zona Oeste;440;57;Econômico;37;Hyundai HB20 2023;4.68;Feminino
+987;Julia;Soares;GoDrive;Zona Norte;377;33;Econômico;40;Renault Kwid 2024;4.87;Feminino
+988;Felipe;Souza;MoveX;Zona Norte;395;50;Econômico;24;Chevrolet Onix 2022;4.41;Feminino
+989;Heitor;Fernandes;MoveX;Zona Sul;480;38;Econômico;53;Chevrolet Onix 2022;4.58;Feminino
+990;Felipe;Soares;RideUp;Zona Oeste;466;24;Econômico;36;Citroën C3 2023;4.17;Masculino
+991;Laura;Martins;RideUp;Zona Leste;353;29;Econômico;53;Renault Kwid 2024;4.94;Masculino
+992;Matheus;Rodrigues;RideUp;Zona Oeste;352;39;Comfort;41;Nissan Kicks 2022;4.12;Masculino
+993;Lara;Carvalho;RideUp;Centro;179;39;Econômico;34;Fiat Argo 2021;4.73;Feminino
+994;Felipe;Silva;MoveX;Centro;153;15;Comfort;46;VW Virtus 2022;4.62;Feminino
+995;Bernardo;Oliveira;MoveX;Zona Sul;397;53;Comfort;50;Fiat Cronos 2023;4.96;Masculino
+996;Rafael;Carvalho;MoveX;Zona Leste;310;55;Econômico;40;Fiat Argo 2021;4.39;Feminino
+997;Isadora;Ribeiro;GoDrive;Zona Leste;200;50;Comfort;46;Chevrolet Tracker 2022;4.03;Masculino
+998;Helena;Vieira;GoDrive;Zona Oeste;164;47;Comfort;40;Hyundai HB20S 2022;4.71;Masculino
+999;Carla;Gomes;GoDrive;Zona Sul;24;54;Comfort;40;Nissan Kicks 2022;4.26;Feminino
+1000;Carla;Lima;MoveX;Zona Sul;102;4;Black;51;VW Taos 2023;4.81;Feminino
+1001;Gustavo;Santos;GoDrive;Zona Norte;25;2;Econômico;38;Toyota Etios 2020;4.83;Masculino
+1002;Camila;Oliveira;MoveX;Zona Sul;402;18;Comfort;46;Jeep Renegade 2021;4.15;Masculino
+1003;Gael;Souza;MoveX;Zona Oeste;492;4;Econômico;57;VW Polo Track 2023;4.36;Masculino
+1004;Valentina;Santos;GoDrive;Zona Norte;200;25;Comfort;51;Honda City 2021;4.82;Masculino
+1005;Gustavo;Fernandes;GoDrive;Zona Sul;169;25;Comfort;45;Chevrolet Onix Plus 2023;4.90;Feminino
+1006;Bruno;Oliveira;RideUp;Zona Leste;197;41;Comfort;26;VW Virtus 2022;4.85;Feminino
+1007;Gabriel;Barbosa;MoveX;Centro;174;17;Econômico;28;Fiat Mobi 2022;4.16;Feminino
+1008;Valentina;Rodrigues;GoDrive;Zona Oeste;81;33;Econômico;27;Citroën C3 2023;4.94;Masculino
+1009;Gabriel;Ferreira;GoDrive;Zona Sul;314;29;Econômico;27;Fiat Mobi 2022;4.76;Feminino
+1010;Julia;Rodrigues;MoveX;Zona Norte;105;51;Black;60;Toyota Corolla Cross 2024;4.31;Feminino
+1011;Laura;Lima;MoveX;Zona Sul;255;23;Econômico;34;Chevrolet Onix 2022;4.03;Feminino
+1012;Laura;Gomes;GoDrive;Centro;349;47;Econômico;22;Renault Kwid 2024;4.54;Feminino
+1013;Heloísa;Lima;MoveX;Zona Sul;71;26;Comfort;44;Hyundai HB20S 2022;4.84;Feminino
+1014;Alice;Oliveira;RideUp;Zona Sul;433;29;Econômico;42;Toyota Etios 2020;4.36;Feminino
+1015;Arthur;Souza;MoveX;Zona Oeste;495;41;Comfort;41;Nissan Versa 2023;4.78;Masculino
+1016;Gabriel;Costa;RideUp;Zona Oeste;343;23;Comfort;22;Honda City 2021;4.37;Feminino
+1017;Ana;Martins;RideUp;Centro;155;25;Comfort;38;Jeep Renegade 2021;4.56;Masculino
+1018;Rafael;Santos;GoDrive;Zona Leste;280;37;Comfort;60;Hyundai HB20S 2022;4.46;Masculino
+1019;Ana;Soares;GoDrive;Zona Oeste;84;51;Econômico;24;Citroën C3 2023;4.75;Masculino
+1020;Bruno;Lopes;MoveX;Zona Sul;178;45;Comfort;32;Nissan Versa 2023;4.25;Feminino
+1021;Felipe;Santos;MoveX;Centro;150;49;Comfort;50;VW Virtus 2022;4.38;Feminino
+1022;Gustavo;Oliveira;MoveX;Centro;412;23;Black;30;VW Taos 2023;4.89;Masculino
+1023;Sofia;Martins;RideUp;Centro;407;2;Black;47;Honda Civic 2022;4.97;Masculino
+1024;Camila;Lima;GoDrive;Zona Norte;227;46;Econômico;33;Hyundai HB20 2023;4.54;Feminino
+1025;Gael;Santos;GoDrive;Zona Sul;97;17;Econômico;37;Toyota Etios 2020;4.98;Masculino
+1026;Heloísa;Gomes;GoDrive;Zona Leste;464;56;Econômico;23;Renault Kwid 2024;4.09;Feminino
+1027;Ana;Gomes;MoveX;Centro;42;31;Black;55;Honda Civic 2022;4.79;Feminino
+1028;Lara;Oliveira;RideUp;Zona Norte;71;11;Comfort;34;Chevrolet Tracker 2022;4.66;Masculino
+1029;Bruno;Lopes;MoveX;Centro;334;4;Econômico;50;Fiat Argo 2021;4.56;Feminino
+1030;Felipe;Fernandes;MoveX;Zona Norte;487;6;Comfort;33;Chevrolet Onix Plus 2023;4.48;Feminino
+1031;Ana;Ferreira;GoDrive;Centro;341;12;Black;22;Jeep Commander 2023;4.65;Feminino
+1032;Laura;Oliveira;RideUp;Zona Norte;441;24;Comfort;50;Hyundai HB20S 2022;4.62;Feminino
+1033;Julia;Alves;MoveX;Zona Sul;114;1;Econômico;34;Citroën C3 2023;4.22;Feminino
+1034;Maria;Oliveira;RideUp;Zona Leste;457;23;Econômico;44;VW Polo Track 2023;4.49;Feminino
+1035;Felipe;Lopes;RideUp;Zona Leste;454;7;Black;42;Toyota Corolla Cross 2024;4.11;Feminino
+1036;Sofia;Ribeiro;MoveX;Zona Sul;428;16;Comfort;35;VW Virtus 2022;4.31;Masculino
+1037;Isadora;Martins;MoveX;Zona Norte;470;16;Econômico;52;VW Polo Track 2023;4.48;Masculino
+1038;Miguel;Soares;MoveX;Zona Leste;261;10;Comfort;40;Jeep Renegade 2021;4.08;Feminino
+1039;Sofia;Costa;MoveX;Zona Sul;169;57;Black;56;Honda Civic 2022;4.22;Feminino
+1040;Lucas;Martins;RideUp;Zona Oeste;244;25;Black;59;Jeep Commander 2023;4.13;Feminino
+1041;Helena;Ribeiro;GoDrive;Centro;374;44;Comfort;27;VW Virtus 2022;4.19;Masculino
+1042;Maria;Silva;GoDrive;Zona Norte;360;31;Econômico;30;Fiat Argo 2021;4.43;Masculino
+1043;Helena;Carvalho;RideUp;Zona Sul;366;25;Black;26;Jeep Compass 2023;4.38;Masculino
+1044;Bernardo;Martins;RideUp;Centro;156;60;Black;21;Jeep Compass 2023;4.10;Masculino
+1045;Bernardo;Oliveira;GoDrive;Zona Norte;95;45;Econômico;24;Renault Kwid 2024;4.86;Feminino
+1046;Gustavo;Lima;GoDrive;Centro;335;30;Econômico;30;Fiat Mobi 2022;4.41;Masculino
+1047;Heloísa;Rodrigues;RideUp;Centro;426;36;Black;54;Honda Civic 2022;4.02;Feminino
+1048;Helena;Martins;MoveX;Centro;320;11;Black;52;Toyota Corolla Cross 2024;4.61;Feminino
+1049;Laura;Barbosa;RideUp;Zona Norte;124;13;Black;24;Jeep Compass 2023;4.09;Masculino
+1050;Laura;Gomes;MoveX;Zona Norte;378;30;Econômico;38;Renault Kwid 2024;4.22;Masculino
+1051;Helena;Soares;MoveX;Centro;329;47;Comfort;29;Nissan Kicks 2022;4.44;Feminino
+1052;Julia;Ribeiro;RideUp;Zona Sul;20;59;Comfort;40;VW Virtus 2022;4.82;Masculino
+1053;Bernardo;Lopes;RideUp;Zona Oeste;29;47;Econômico;32;Citroën C3 2023;4.50;Feminino
+1054;Arthur;Soares;GoDrive;Centro;149;29;Comfort;42;Hyundai HB20S 2022;4.60;Feminino
+1055;Arthur;Costa;MoveX;Zona Leste;117;27;Econômico;33;Renault Kwid 2024;4.09;Feminino
+1056;Heloísa;Ribeiro;MoveX;Zona Oeste;470;36;Comfort;36;Chevrolet Tracker 2022;4.24;Feminino
+1057;Heitor;Carvalho;GoDrive;Zona Norte;52;57;Econômico;52;VW Polo Track 2023;4.58;Masculino
+1058;Matheus;Carvalho;GoDrive;Centro;71;37;Black;57;Honda Civic 2022;4.51;Masculino
+1059;Isadora;Ferreira;GoDrive;Zona Leste;449;56;Comfort;25;Chevrolet Tracker 2022;4.46;Masculino
+1060;Arthur;Oliveira;GoDrive;Zona Leste;323;60;Econômico;39;Renault Kwid 2024;4.59;Masculino
+1061;Arthur;Almeida;GoDrive;Zona Leste;35;1;Comfort;38;Honda City 2021;4.54;Feminino
+1062;Rafael;Lima;MoveX;Zona Leste;81;1;Comfort;60;Honda City 2021;4.34;Feminino
+1063;Lara;Pereira;RideUp;Centro;395;1;Comfort;59;Honda City 2021;4.93;Feminino
+1064;Bruno;Fernandes;RideUp;Zona Norte;266;3;Comfort;31;Hyundai HB20S 2022;4.22;Masculino
+1065;Isadora;Soares;RideUp;Zona Leste;62;5;Comfort;43;Honda City 2021;4.55;Feminino
+1066;Helena;Vieira;MoveX;Centro;276;40;Econômico;27;Chevrolet Onix 2022;4.25;Feminino
+1067;Lucas;Alves;MoveX;Zona Leste;45;10;Econômico;33;Hyundai HB20 2023;4.48;Masculino
+1068;Miguel;Martins;MoveX;Zona Sul;29;59;Comfort;46;Honda City 2021;4.37;Feminino
+1069;Valentina;Lima;MoveX;Zona Sul;161;57;Econômico;21;Toyota Etios 2020;4.15;Feminino
+1070;Laura;Fernandes;GoDrive;Centro;203;55;Black;59;Toyota Corolla Cross 2024;4.12;Feminino
+1071;Julia;Ribeiro;MoveX;Zona Norte;355;17;Black;41;Jeep Commander 2023;4.59;Feminino
+1072;Matheus;Gomes;MoveX;Zona Leste;351;23;Econômico;30;Citroën C3 2023;4.47;Masculino
+1073;Ana;Fernandes;RideUp;Zona Sul;317;43;Econômico;23;Fiat Argo 2021;4.66;Masculino
+1074;Sofia;Lima;RideUp;Zona Norte;287;21;Econômico;49;Citroën C3 2023;4.55;Masculino
+1075;Carla;Ferreira;GoDrive;Zona Oeste;48;33;Comfort;41;Chevrolet Tracker 2022;4.03;Masculino
+1076;Bruno;Pereira;GoDrive;Zona Norte;315;32;Econômico;53;Renault Kwid 2024;4.18;Masculino
+1077;Gabriel;Costa;MoveX;Zona Norte;230;30;Econômico;54;Hyundai HB20 2023;4.62;Masculino
+1078;Lara;Fernandes;RideUp;Zona Sul;47;47;Black;56;Jeep Compass 2023;4.90;Masculino
+1079;Matheus;Martins;MoveX;Zona Sul;235;22;Black;35;Jeep Compass 2023;4.69;Masculino
+1080;Bernardo;Barbosa;RideUp;Zona Sul;321;38;Comfort;45;Jeep Renegade 2021;4.98;Feminino
+1081;Julia;Pereira;GoDrive;Centro;302;1;Black;30;Jeep Compass 2023;4.59;Feminino
+1082;Matheus;Rodrigues;RideUp;Zona Oeste;386;7;Black;29;Jeep Compass 2023;4.23;Masculino
+1083;Ana;Gomes;MoveX;Zona Sul;299;20;Black;51;Jeep Commander 2023;4.25;Masculino
+1084;Carla;Gomes;GoDrive;Zona Sul;354;3;Econômico;32;Chevrolet Onix 2022;4.24;Feminino
+1085;Arthur;Carvalho;GoDrive;Zona Oeste;258;28;Black;25;Toyota Corolla 2024;4.37;Feminino
+1086;Camila;Lopes;RideUp;Zona Norte;29;3;Black;56;Toyota Corolla 2024;4.90;Feminino
+1087;Rafael;Almeida;RideUp;Zona Norte;399;10;Black;34;Jeep Compass 2023;4.96;Feminino
+1088;Bernardo;Barbosa;MoveX;Zona Norte;280;1;Econômico;41;Fiat Mobi 2022;4.00;Feminino
+1089;Maria;Barbosa;GoDrive;Zona Oeste;342;37;Econômico;21;Citroën C3 2023;4.63;Feminino
+1090;Gabriel;Oliveira;MoveX;Zona Norte;112;24;Econômico;29;Renault Kwid 2024;4.55;Masculino
+1091;Rafael;Costa;GoDrive;Zona Leste;237;31;Econômico;25;Citroën C3 2023;4.32;Masculino
+1092;Bernardo;Oliveira;GoDrive;Zona Oeste;353;17;Comfort;37;Nissan Versa 2023;4.25;Masculino
+1093;Gabriel;Barbosa;MoveX;Centro;327;28;Comfort;44;Nissan Kicks 2022;4.42;Feminino
+1094;Alice;Vieira;MoveX;Zona Norte;291;11;Econômico;29;Citroën C3 2023;4.86;Masculino
+1095;Arthur;Alves;GoDrive;Zona Oeste;482;57;Econômico;42;Citroën C3 2023;4.84;Feminino
+1096;Carla;Gomes;GoDrive;Centro;35;8;Econômico;25;Fiat Argo 2021;4.43;Feminino
+1097;Isadora;Rodrigues;MoveX;Zona Leste;35;29;Comfort;43;VW Virtus 2022;4.76;Feminino
+1098;Heloísa;Soares;RideUp;Zona Leste;120;59;Black;24;Jeep Compass 2023;4.13;Masculino
+1099;Rafael;Martins;RideUp;Zona Oeste;342;45;Black;31;Jeep Commander 2023;4.43;Masculino
+1100;Laura;Gomes;RideUp;Zona Norte;109;25;Black;31;Honda Civic 2022;4.68;Masculino
+1101;Heitor;Lopes;MoveX;Zona Norte;70;59;Econômico;52;Chevrolet Onix 2022;4.60;Masculino
+1102;Gabriel;Martins;RideUp;Centro;382;14;Econômico;54;Fiat Mobi 2022;4.54;Masculino
+1103;Camila;Vieira;GoDrive;Zona Sul;66;27;Econômico;28;Hyundai HB20 2023;4.23;Masculino
+1104;Maria;Martins;RideUp;Centro;197;50;Econômico;38;Fiat Mobi 2022;4.78;Feminino
+1105;Carla;Carvalho;RideUp;Centro;323;55;Comfort;26;Nissan Versa 2023;4.93;Masculino
+1106;Sofia;Ribeiro;MoveX;Centro;234;42;Econômico;21;Fiat Argo 2021;4.90;Masculino
+1107;Gael;Silva;RideUp;Zona Oeste;317;50;Econômico;25;Chevrolet Onix 2022;4.82;Masculino
+1108;Felipe;Santos;RideUp;Centro;445;42;Econômico;26;Citroën C3 2023;4.83;Masculino
+1109;Heitor;Martins;GoDrive;Zona Leste;195;34;Econômico;42;Renault Kwid 2024;4.13;Feminino
+1110;Gael;Soares;MoveX;Zona Oeste;45;30;Comfort;34;VW Virtus 2022;4.93;Masculino
+1111;Gael;Souza;MoveX;Zona Leste;492;8;Comfort;46;Chevrolet Tracker 2022;4.01;Masculino
+1112;Julia;Costa;RideUp;Zona Leste;58;47;Econômico;48;Fiat Argo 2021;4.11;Masculino
+1113;Rafael;Lima;GoDrive;Zona Sul;119;23;Comfort;60;Hyundai HB20S 2022;4.34;Feminino
+1114;Gabriel;Costa;MoveX;Zona Leste;216;1;Comfort;47;Nissan Kicks 2022;4.40;Masculino
+1115;Matheus;Soares;RideUp;Zona Norte;290;40;Econômico;54;Fiat Mobi 2022;4.71;Feminino
+1116;Carla;Fernandes;GoDrive;Zona Leste;306;9;Econômico;21;Citroën C3 2023;4.32;Feminino
+1117;Alice;Carvalho;GoDrive;Centro;449;48;Comfort;47;Nissan Versa 2023;4.40;Masculino
+1118;Gabriel;Lima;RideUp;Zona Sul;136;16;Econômico;55;Fiat Argo 2021;4.80;Masculino
+1119;Lara;Ribeiro;MoveX;Zona Sul;297;50;Black;28;VW Taos 2023;4.49;Feminino
+1120;Bernardo;Souza;GoDrive;Zona Leste;209;40;Black;38;Toyota Corolla 2024;4.00;Masculino
+1121;Matheus;Ribeiro;RideUp;Zona Norte;141;10;Econômico;38;Renault Kwid 2024;4.68;Masculino
+1122;Sofia;Ferreira;RideUp;Zona Leste;98;44;Comfort;49;Nissan Versa 2023;4.38;Feminino
+1123;Heloísa;Ribeiro;GoDrive;Zona Sul;495;7;Econômico;59;Hyundai HB20 2023;4.60;Masculino
+1124;Felipe;Martins;RideUp;Zona Leste;38;27;Econômico;60;VW Polo Track 2023;4.85;Feminino
+1125;Carla;Gomes;MoveX;Zona Sul;294;41;Comfort;47;Chevrolet Onix Plus 2023;4.17;Masculino
+1126;Pedro;Gomes;RideUp;Zona Leste;182;14;Black;45;Jeep Compass 2023;4.10;Masculino
+1127;Gael;Gomes;RideUp;Zona Sul;191;8;Econômico;60;Toyota Etios 2020;4.89;Feminino
+1128;Felipe;Alves;GoDrive;Centro;368;24;Comfort;57;Hyundai HB20S 2022;4.53;Feminino
+1129;Gael;Almeida;GoDrive;Zona Norte;83;25;Econômico;32;Fiat Mobi 2022;4.69;Feminino
+1130;Felipe;Gomes;MoveX;Zona Sul;340;29;Econômico;24;VW Polo Track 2023;4.64;Feminino
+1131;Alice;Alves;GoDrive;Zona Oeste;447;38;Comfort;60;VW Virtus 2022;4.29;Feminino
+1132;Matheus;Pereira;RideUp;Zona Sul;307;10;Black;25;Jeep Commander 2023;4.21;Masculino
+1133;Rafael;Vieira;RideUp;Centro;52;37;Black;57;Honda Civic 2022;4.53;Feminino
+1134;Lara;Silva;RideUp;Zona Leste;218;11;Comfort;32;Nissan Versa 2023;4.07;Feminino
+1135;Laura;Ribeiro;MoveX;Zona Leste;421;50;Comfort;47;Fiat Cronos 2023;4.93;Masculino
+1136;Helena;Souza;MoveX;Zona Sul;440;25;Econômico;43;Citroën C3 2023;4.38;Feminino
+1137;Gael;Fernandes;RideUp;Zona Oeste;300;57;Black;30;Toyota Corolla 2024;4.99;Masculino
+1138;Pedro;Carvalho;GoDrive;Zona Leste;369;39;Comfort;53;Chevrolet Onix Plus 2023;4.39;Masculino
+1139;Bernardo;Pereira;RideUp;Zona Oeste;435;12;Comfort;46;Nissan Kicks 2022;4.58;Feminino
+1140;Helena;Santos;GoDrive;Zona Oeste;459;1;Econômico;45;Chevrolet Onix 2022;4.78;Feminino
+1141;Helena;Souza;RideUp;Zona Leste;441;14;Comfort;32;Chevrolet Onix Plus 2023;4.68;Feminino
+1142;Isadora;Fernandes;MoveX;Zona Norte;184;2;Black;59;Toyota Corolla Cross 2024;4.12;Masculino
+1143;Laura;Gomes;GoDrive;Centro;141;16;Econômico;23;Toyota Etios 2020;4.96;Masculino
+1144;Valentina;Oliveira;RideUp;Zona Oeste;24;44;Comfort;42;Hyundai HB20S 2022;4.11;Masculino
+1145;Julia;Almeida;MoveX;Zona Oeste;81;47;Econômico;24;Citroën C3 2023;4.71;Feminino
+1146;Bernardo;Gomes;GoDrive;Zona Leste;212;4;Econômico;32;Toyota Etios 2020;4.36;Masculino
+1147;Camila;Costa;RideUp;Zona Norte;68;31;Econômico;36;Toyota Etios 2020;4.57;Masculino
+1148;Arthur;Carvalho;MoveX;Centro;321;26;Black;32;VW Taos 2023;4.26;Feminino
+1149;Gael;Gomes;RideUp;Zona Sul;372;14;Econômico;47;Renault Kwid 2024;4.14;Masculino
+1150;Pedro;Gomes;RideUp;Zona Leste;256;4;Comfort;60;Hyundai HB20S 2022;4.59;Masculino
+1151;Arthur;Almeida;MoveX;Zona Oeste;172;34;Comfort;57;Chevrolet Tracker 2022;4.17;Masculino
+1152;Gustavo;Ribeiro;RideUp;Zona Leste;135;21;Econômico;26;Chevrolet Onix 2022;4.78;Feminino
+1153;Pedro;Martins;MoveX;Zona Leste;243;26;Comfort;32;Chevrolet Onix Plus 2023;4.60;Feminino
+1154;Ana;Lima;GoDrive;Zona Oeste;260;29;Comfort;31;VW Virtus 2022;4.77;Feminino
+1155;Helena;Fernandes;MoveX;Centro;304;3;Comfort;27;Hyundai HB20S 2022;4.99;Masculino
+1156;Gustavo;Alves;MoveX;Zona Leste;380;14;Econômico;26;Toyota Etios 2020;4.62;Masculino
+1157;Alice;Soares;RideUp;Zona Leste;338;57;Comfort;55;Nissan Kicks 2022;4.59;Feminino
+1158;Alice;Costa;GoDrive;Zona Sul;217;3;Comfort;47;Chevrolet Tracker 2022;4.93;Feminino
+1159;Valentina;Almeida;RideUp;Zona Sul;56;9;Econômico;42;Renault Kwid 2024;4.49;Masculino
+1160;Heitor;Pereira;RideUp;Zona Leste;226;53;Comfort;30;Nissan Kicks 2022;4.74;Feminino
+1161;Matheus;Ribeiro;RideUp;Zona Leste;386;39;Comfort;52;Fiat Cronos 2023;4.17;Masculino
+1162;Matheus;Lima;GoDrive;Zona Leste;186;32;Black;43;Toyota Corolla 2024;4.28;Feminino
+1163;Gabriel;Almeida;GoDrive;Zona Norte;351;57;Comfort;31;Chevrolet Onix Plus 2023;4.70;Masculino
+1164;Sofia;Lima;RideUp;Zona Oeste;379;37;Comfort;30;Honda City 2021;4.28;Masculino
+1165;Lucas;Barbosa;RideUp;Zona Leste;243;25;Comfort;23;Hyundai HB20S 2022;4.42;Masculino
+1166;Bruno;Santos;GoDrive;Zona Sul;289;52;Comfort;50;Jeep Renegade 2021;4.75;Feminino
+1167;Lucas;Vieira;RideUp;Zona Leste;499;25;Black;21;VW Taos 2023;4.47;Feminino
+1168;Valentina;Rodrigues;MoveX;Centro;270;24;Black;51;Jeep Compass 2023;4.14;Masculino
+1169;Lucas;Souza;RideUp;Centro;494;58;Econômico;40;Chevrolet Onix 2022;4.24;Masculino
+1170;Laura;Alves;MoveX;Zona Norte;406;40;Black;37;Toyota Corolla Cross 2024;4.07;Feminino
+1171;Lucas;Lopes;MoveX;Zona Sul;468;18;Econômico;42;Chevrolet Onix 2022;4.28;Masculino
+1172;Alice;Oliveira;MoveX;Zona Sul;25;11;Comfort;29;Hyundai HB20S 2022;4.88;Feminino
+1173;Isadora;Ribeiro;RideUp;Zona Norte;375;47;Comfort;48;VW Virtus 2022;4.10;Masculino
+1174;Bernardo;Ferreira;RideUp;Zona Leste;420;22;Comfort;52;Nissan Versa 2023;4.83;Masculino
+1175;Laura;Oliveira;MoveX;Zona Norte;368;34;Econômico;34;Fiat Mobi 2022;4.08;Masculino
+1176;Bruno;Santos;GoDrive;Zona Oeste;370;4;Comfort;32;VW Virtus 2022;4.89;Feminino
+1177;Maria;Vieira;RideUp;Zona Norte;152;5;Comfort;42;Hyundai HB20S 2022;4.21;Feminino
+1178;Arthur;Vieira;RideUp;Zona Norte;393;17;Comfort;60;Nissan Versa 2023;4.57;Feminino
+1179;Camila;Souza;GoDrive;Zona Sul;132;31;Econômico;22;Renault Kwid 2024;4.87;Masculino
+1180;Arthur;Almeida;GoDrive;Zona Sul;275;1;Comfort;31;Chevrolet Onix Plus 2023;4.80;Feminino
+1181;Gabriel;Alves;RideUp;Zona Norte;164;18;Econômico;53;Fiat Mobi 2022;4.28;Feminino
+1182;Heloísa;Silva;GoDrive;Zona Norte;367;56;Comfort;57;Jeep Renegade 2021;4.80;Feminino
+1183;Heloísa;Pereira;GoDrive;Zona Leste;338;30;Black;46;VW Taos 2023;4.91;Feminino
+1184;Felipe;Soares;MoveX;Zona Oeste;64;35;Econômico;29;Chevrolet Onix 2022;4.15;Masculino
+1185;Rafael;Barbosa;GoDrive;Zona Oeste;203;54;Comfort;32;Nissan Versa 2023;4.86;Feminino
+1186;Alice;Costa;GoDrive;Zona Oeste;374;20;Comfort;53;Fiat Cronos 2023;4.52;Feminino
+1187;Lara;Silva;MoveX;Centro;466;4;Comfort;34;Hyundai HB20S 2022;4.59;Feminino
+1188;Heitor;Lima;MoveX;Zona Leste;204;10;Comfort;48;Fiat Cronos 2023;4.49;Feminino
+1189;Rafael;Soares;GoDrive;Zona Oeste;157;44;Comfort;24;Fiat Cronos 2023;4.41;Feminino
+1190;Bernardo;Fernandes;MoveX;Zona Oeste;376;29;Black;52;Honda Civic 2022;4.66;Feminino
+1191;Lara;Martins;GoDrive;Zona Leste;286;38;Econômico;50;Hyundai HB20 2023;4.04;Feminino
+1192;Maria;Lima;GoDrive;Centro;34;7;Black;48;Toyota Corolla 2024;4.50;Feminino
+1193;Gustavo;Pereira;RideUp;Zona Sul;429;46;Comfort;58;Honda City 2021;4.81;Masculino
+1194;Maria;Vieira;RideUp;Zona Leste;409;36;Black;22;Toyota Corolla 2024;4.98;Feminino
+1195;Rafael;Oliveira;MoveX;Zona Sul;350;51;Black;33;Toyota Corolla Cross 2024;4.16;Feminino
+1196;Arthur;Carvalho;MoveX;Zona Oeste;473;51;Black;34;Toyota Corolla Cross 2024;4.86;Feminino
+1197;Gustavo;Lopes;MoveX;Centro;132;21;Comfort;26;Fiat Cronos 2023;4.85;Feminino
+1198;Matheus;Gomes;MoveX;Zona Sul;132;30;Comfort;59;Nissan Kicks 2022;4.81;Masculino
+1199;Pedro;Fernandes;GoDrive;Zona Leste;239;30;Black;23;Honda Civic 2022;4.67;Feminino
+1200;Pedro;Souza;RideUp;Zona Norte;334;37;Black;49;Honda Civic 2022;4.10;Masculino
+1201;Lara;Almeida;MoveX;Zona Leste;238;6;Econômico;21;Fiat Mobi 2022;4.22;Masculino
+1202;Heitor;Barbosa;GoDrive;Centro;337;35;Comfort;48;VW Virtus 2022;4.05;Feminino
+1203;Lara;Pereira;RideUp;Zona Sul;348;35;Comfort;24;Fiat Cronos 2023;4.04;Feminino
+1204;Helena;Oliveira;RideUp;Zona Sul;120;33;Black;33;Jeep Compass 2023;4.61;Masculino
+1205;Felipe;Rodrigues;RideUp;Zona Oeste;468;2;Econômico;25;Citroën C3 2023;4.71;Feminino
+1206;Pedro;Soares;MoveX;Zona Sul;249;23;Econômico;40;Citroën C3 2023;4.67;Feminino
+1207;Julia;Vieira;RideUp;Zona Leste;291;41;Black;24;Toyota Corolla Cross 2024;4.99;Feminino
+1208;Pedro;Soares;RideUp;Zona Sul;377;34;Econômico;49;Chevrolet Onix 2022;4.35;Masculino
+1209;Gael;Rodrigues;MoveX;Centro;427;18;Comfort;27;Nissan Kicks 2022;4.28;Masculino
+1210;Gael;Ferreira;RideUp;Zona Norte;221;12;Econômico;40;Chevrolet Onix 2022;4.53;Feminino
+1211;Carla;Santos;RideUp;Centro;445;16;Econômico;60;Fiat Argo 2021;4.86;Masculino
+1212;Bernardo;Carvalho;GoDrive;Zona Leste;281;50;Comfort;30;Nissan Kicks 2022;4.56;Masculino
+1213;Laura;Rodrigues;MoveX;Zona Sul;121;31;Econômico;48;Fiat Argo 2021;4.52;Masculino
+1214;Helena;Barbosa;GoDrive;Zona Oeste;477;37;Black;55;Toyota Corolla 2024;4.98;Masculino
+1215;Gabriel;Martins;GoDrive;Zona Oeste;303;7;Comfort;22;Hyundai HB20S 2022;4.12;Masculino
+1216;Bruno;Costa;GoDrive;Zona Oeste;441;38;Comfort;50;Chevrolet Onix Plus 2023;4.45;Masculino
+1217;Sofia;Soares;MoveX;Zona Oeste;243;20;Comfort;53;Hyundai HB20S 2022;4.85;Feminino
+1218;Lucas;Gomes;MoveX;Zona Oeste;296;11;Comfort;24;Honda City 2021;4.61;Feminino
+1219;Valentina;Gomes;GoDrive;Zona Oeste;396;7;Comfort;52;Chevrolet Tracker 2022;4.69;Feminino
+1220;Heitor;Silva;GoDrive;Centro;123;13;Econômico;45;VW Polo Track 2023;4.68;Feminino
+1221;Gael;Alves;MoveX;Zona Norte;156;44;Black;51;Jeep Compass 2023;4.76;Masculino
+1222;Camila;Vieira;RideUp;Centro;360;35;Comfort;28;Jeep Renegade 2021;4.05;Masculino
+1223;Heitor;Almeida;MoveX;Zona Oeste;281;17;Econômico;34;Fiat Argo 2021;4.59;Masculino
+1224;Maria;Vieira;GoDrive;Zona Norte;324;5;Comfort;50;Nissan Kicks 2022;4.77;Masculino
+1225;Helena;Fernandes;RideUp;Zona Oeste;308;53;Comfort;42;Honda City 2021;4.11;Masculino
+1226;Julia;Santos;GoDrive;Zona Norte;53;31;Econômico;58;Fiat Mobi 2022;4.60;Masculino
+1227;Arthur;Pereira;RideUp;Zona Oeste;326;27;Black;28;VW Taos 2023;4.93;Feminino
+1228;Arthur;Oliveira;RideUp;Zona Sul;460;17;Econômico;35;Hyundai HB20 2023;4.77;Masculino
+1229;Julia;Costa;MoveX;Zona Sul;104;23;Black;24;Toyota Corolla Cross 2024;4.32;Feminino
+1230;Miguel;Lima;MoveX;Centro;312;10;Comfort;26;VW Virtus 2022;4.40;Feminino
+1231;Heitor;Pereira;MoveX;Zona Norte;469;11;Black;45;Honda Civic 2022;4.63;Feminino
+1232;Maria;Carvalho;GoDrive;Zona Sul;388;57;Black;47;Toyota Corolla Cross 2024;4.29;Feminino
+1233;Laura;Alves;GoDrive;Zona Oeste;174;11;Comfort;54;Chevrolet Onix Plus 2023;4.40;Feminino
+1234;Julia;Pereira;RideUp;Zona Leste;134;36;Econômico;36;Chevrolet Onix 2022;4.06;Masculino
+1235;Carla;Fernandes;RideUp;Zona Oeste;177;50;Comfort;59;Hyundai HB20S 2022;4.06;Feminino
+1236;Helena;Alves;RideUp;Zona Leste;307;46;Black;23;Jeep Commander 2023;4.14;Feminino
+1237;Gael;Souza;MoveX;Zona Norte;188;13;Econômico;53;Toyota Etios 2020;4.42;Feminino
+1238;Valentina;Alves;GoDrive;Zona Sul;350;46;Comfort;25;Honda City 2021;4.21;Feminino
+1239;Heloísa;Almeida;MoveX;Centro;239;52;Comfort;58;Fiat Cronos 2023;4.94;Masculino
+1240;Miguel;Lima;MoveX;Zona Norte;336;17;Econômico;39;Fiat Mobi 2022;4.73;Masculino
+1241;Carla;Silva;GoDrive;Zona Norte;433;25;Black;21;Honda Civic 2022;4.81;Masculino
+1242;Bernardo;Lopes;GoDrive;Zona Leste;228;3;Econômico;21;Fiat Mobi 2022;4.35;Masculino
+1243;Rafael;Fernandes;RideUp;Centro;129;44;Econômico;42;Hyundai HB20 2023;4.24;Masculino
+1244;Camila;Soares;MoveX;Centro;385;3;Black;52;Toyota Corolla Cross 2024;4.42;Masculino
+1245;Arthur;Fernandes;GoDrive;Zona Oeste;310;39;Comfort;39;Chevrolet Onix Plus 2023;4.13;Masculino
+1246;Carla;Soares;GoDrive;Zona Sul;143;9;Black;28;VW Taos 2023;4.49;Feminino
+1247;Pedro;Gomes;GoDrive;Zona Sul;71;42;Comfort;32;Fiat Cronos 2023;4.10;Feminino
+1248;Isadora;Barbosa;RideUp;Zona Norte;261;27;Comfort;24;Chevrolet Onix Plus 2023;4.67;Feminino
+1249;Heloísa;Lopes;MoveX;Centro;472;13;Comfort;30;Nissan Versa 2023;4.01;Masculino
+1250;Heloísa;Fernandes;RideUp;Zona Leste;227;56;Black;52;VW Taos 2023;4.19;Feminino
+1251;Maria;Martins;RideUp;Centro;305;56;Econômico;50;Toyota Etios 2020;4.65;Feminino
+1252;Helena;Ferreira;GoDrive;Zona Leste;385;53;Black;48;Jeep Commander 2023;4.17;Masculino
+1253;Helena;Costa;MoveX;Zona Leste;269;30;Black;30;Toyota Corolla Cross 2024;4.45;Masculino
+1254;Heloísa;Soares;RideUp;Zona Norte;329;53;Comfort;45;Chevrolet Onix Plus 2023;4.36;Feminino
+1255;Julia;Barbosa;RideUp;Zona Oeste;188;8;Econômico;31;Renault Kwid 2024;4.87;Masculino
+1256;Miguel;Rodrigues;RideUp;Zona Norte;41;59;Econômico;31;Fiat Argo 2021;4.52;Feminino
+1257;Rafael;Rodrigues;GoDrive;Zona Sul;66;38;Comfort;40;Fiat Cronos 2023;4.69;Feminino
+1258;Isadora;Costa;RideUp;Centro;279;16;Econômico;33;VW Polo Track 2023;4.66;Masculino
+1259;Lucas;Fernandes;RideUp;Zona Oeste;219;37;Econômico;48;Fiat Mobi 2022;4.15;Feminino
+1260;Matheus;Oliveira;MoveX;Centro;247;34;Comfort;45;VW Virtus 2022;4.51;Feminino
+1261;Heloísa;Souza;MoveX;Zona Oeste;300;8;Black;40;Jeep Commander 2023;4.23;Feminino
+1262;Matheus;Carvalho;RideUp;Zona Oeste;487;48;Econômico;21;Chevrolet Onix 2022;4.13;Masculino
+1263;Carla;Martins;GoDrive;Zona Oeste;438;59;Black;40;Toyota Corolla Cross 2024;4.84;Feminino
+1264;Heloísa;Carvalho;GoDrive;Centro;264;18;Comfort;34;Nissan Versa 2023;4.65;Masculino
+1265;Rafael;Santos;GoDrive;Zona Norte;218;9;Econômico;24;Renault Kwid 2024;4.77;Feminino
+1266;Laura;Costa;GoDrive;Centro;370;34;Comfort;55;Chevrolet Tracker 2022;4.56;Feminino
+1267;Carla;Ribeiro;RideUp;Zona Oeste;320;40;Econômico;57;Toyota Etios 2020;4.06;Masculino
+1268;Helena;Ribeiro;MoveX;Zona Norte;434;6;Black;53;Jeep Compass 2023;4.83;Masculino
+1269;Felipe;Vieira;GoDrive;Zona Oeste;231;1;Comfort;35;Chevrolet Onix Plus 2023;4.96;Masculino
+1270;Isadora;Pereira;GoDrive;Centro;342;36;Black;50;Jeep Commander 2023;4.68;Feminino
+1271;Sofia;Oliveira;RideUp;Zona Sul;386;22;Comfort;24;Chevrolet Tracker 2022;4.89;Masculino
+1272;Matheus;Santos;MoveX;Zona Sul;185;49;Comfort;54;Chevrolet Onix Plus 2023;4.24;Masculino
+1273;Camila;Almeida;MoveX;Centro;107;52;Black;35;Honda Civic 2022;4.24;Masculino
+1274;Helena;Lima;MoveX;Zona Norte;473;53;Comfort;33;Chevrolet Tracker 2022;4.65;Masculino
+1275;Heloísa;Soares;RideUp;Zona Norte;144;22;Comfort;49;VW Virtus 2022;4.82;Feminino
+1276;Camila;Rodrigues;RideUp;Zona Leste;366;48;Black;35;Jeep Commander 2023;4.39;Masculino
+1277;Bernardo;Almeida;RideUp;Zona Oeste;33;29;Black;46;Honda Civic 2022;4.75;Masculino
+1278;Felipe;Ferreira;RideUp;Zona Leste;173;16;Econômico;27;Hyundai HB20 2023;4.97;Masculino
+1279;Camila;Alves;MoveX;Zona Norte;450;19;Econômico;25;Fiat Mobi 2022;4.07;Feminino
+1280;Camila;Martins;RideUp;Zona Leste;191;24;Black;22;Honda Civic 2022;4.93;Feminino
+1281;Alice;Ribeiro;GoDrive;Zona Sul;21;35;Comfort;38;Chevrolet Tracker 2022;4.33;Feminino
+1282;Heitor;Silva;MoveX;Zona Norte;345;33;Econômico;28;Hyundai HB20 2023;4.00;Masculino
+1283;Bruno;Oliveira;MoveX;Zona Norte;383;29;Comfort;46;VW Virtus 2022;4.28;Feminino
+1284;Arthur;Soares;RideUp;Zona Leste;70;49;Comfort;25;Chevrolet Onix Plus 2023;4.06;Masculino
+1285;Valentina;Vieira;GoDrive;Zona Leste;176;3;Comfort;24;Nissan Versa 2023;4.26;Feminino
+1286;Gabriel;Silva;GoDrive;Zona Leste;383;36;Comfort;59;Chevrolet Tracker 2022;4.15;Feminino
+1287;Alice;Costa;MoveX;Zona Sul;61;23;Comfort;38;Jeep Renegade 2021;4.27;Masculino
+1288;Gael;Oliveira;RideUp;Zona Norte;323;36;Econômico;56;Hyundai HB20 2023;4.23;Feminino
+1289;Camila;Souza;GoDrive;Zona Norte;196;51;Black;31;Jeep Compass 2023;4.87;Feminino
+1290;Miguel;Fernandes;RideUp;Centro;163;17;Comfort;32;Chevrolet Tracker 2022;4.25;Feminino
+1291;Arthur;Soares;GoDrive;Centro;27;40;Black;39;Jeep Commander 2023;4.57;Feminino
+1292;Ana;Lopes;MoveX;Centro;449;53;Comfort;25;Hyundai HB20S 2022;4.67;Masculino
+1293;Bernardo;Silva;RideUp;Centro;411;60;Black;35;Jeep Compass 2023;4.82;Feminino
+1294;Lara;Martins;MoveX;Zona Sul;343;49;Black;25;VW Taos 2023;4.76;Masculino
+1295;Carla;Oliveira;GoDrive;Centro;274;31;Econômico;36;Citroën C3 2023;4.71;Masculino
+1296;Lara;Costa;RideUp;Zona Leste;197;6;Black;40;Jeep Compass 2023;4.85;Masculino
+1297;Bernardo;Carvalho;GoDrive;Zona Norte;99;43;Econômico;38;Chevrolet Onix 2022;4.54;Masculino
+1298;Camila;Martins;RideUp;Zona Leste;393;48;Econômico;27;Hyundai HB20 2023;4.25;Feminino
+1299;Pedro;Lima;RideUp;Zona Oeste;304;3;Comfort;42;Honda City 2021;4.29;Masculino
+1300;Matheus;Carvalho;GoDrive;Centro;310;4;Econômico;59;Citroën C3 2023;4.90;Feminino
+1301;Heloísa;Gomes;RideUp;Zona Norte;320;58;Econômico;26;Fiat Argo 2021;4.65;Masculino
+1302;Helena;Carvalho;GoDrive;Zona Norte;224;11;Econômico;45;Hyundai HB20 2023;4.31;Masculino
+1303;Gabriel;Souza;MoveX;Zona Oeste;195;1;Econômico;43;Toyota Etios 2020;4.74;Masculino
+1304;Rafael;Carvalho;MoveX;Zona Norte;216;19;Comfort;35;Chevrolet Tracker 2022;4.49;Feminino
+1305;Miguel;Vieira;RideUp;Centro;396;5;Econômico;59;Renault Kwid 2024;4.81;Masculino
+1306;Matheus;Ribeiro;MoveX;Centro;437;4;Black;31;Honda Civic 2022;4.23;Feminino
+1307;Rafael;Ribeiro;RideUp;Zona Sul;309;54;Black;38;VW Taos 2023;4.60;Masculino
+1308;Helena;Carvalho;MoveX;Zona Leste;145;2;Comfort;23;Chevrolet Tracker 2022;4.11;Feminino
+1309;Bruno;Carvalho;GoDrive;Centro;442;22;Comfort;28;Nissan Versa 2023;4.30;Masculino
+1310;Gael;Lopes;GoDrive;Zona Norte;100;37;Econômico;35;Fiat Argo 2021;4.50;Masculino
+1311;Maria;Pereira;RideUp;Centro;489;2;Econômico;51;Citroën C3 2023;4.81;Masculino
+1312;Laura;Costa;GoDrive;Centro;118;32;Econômico;44;Fiat Mobi 2022;4.08;Feminino
+1313;Isadora;Santos;GoDrive;Zona Norte;100;49;Econômico;21;Citroën C3 2023;4.62;Feminino
+1314;Lucas;Ferreira;MoveX;Centro;152;35;Comfort;30;Chevrolet Onix Plus 2023;4.12;Masculino
+1315;Miguel;Silva;MoveX;Zona Sul;456;11;Econômico;59;Chevrolet Onix 2022;4.00;Masculino
+1316;Pedro;Silva;GoDrive;Zona Norte;231;56;Econômico;36;Renault Kwid 2024;4.94;Feminino
+1317;Heitor;Soares;RideUp;Zona Leste;413;17;Comfort;57;Chevrolet Onix Plus 2023;4.95;Masculino
+1318;Pedro;Fernandes;MoveX;Zona Sul;474;35;Econômico;56;Citroën C3 2023;4.19;Masculino
+1319;Gustavo;Gomes;RideUp;Zona Leste;292;35;Black;56;Toyota Corolla 2024;4.43;Feminino
+1320;Lara;Alves;RideUp;Zona Leste;445;21;Econômico;24;Renault Kwid 2024;4.08;Feminino
+1321;Helena;Lopes;RideUp;Zona Sul;370;4;Comfort;24;Nissan Versa 2023;4.83;Feminino
+1322;Gabriel;Soares;MoveX;Centro;280;7;Econômico;35;VW Polo Track 2023;4.45;Masculino
+1323;Ana;Santos;GoDrive;Zona Sul;415;27;Comfort;21;Honda City 2021;4.11;Feminino
+1324;Gustavo;Almeida;GoDrive;Centro;364;45;Econômico;32;Hyundai HB20 2023;4.43;Feminino
+1325;Felipe;Martins;GoDrive;Zona Sul;482;10;Black;37;Toyota Corolla 2024;4.36;Masculino
+1326;Bruno;Silva;GoDrive;Zona Leste;219;50;Comfort;40;Hyundai HB20S 2022;4.38;Masculino
+1327;Alice;Silva;RideUp;Centro;435;33;Comfort;27;Chevrolet Tracker 2022;4.67;Feminino
+1328;Miguel;Ferreira;GoDrive;Zona Sul;413;50;Comfort;33;Chevrolet Tracker 2022;4.77;Feminino
+1329;Bruno;Souza;GoDrive;Zona Oeste;425;26;Econômico;41;Hyundai HB20 2023;4.63;Feminino
+1330;Sofia;Oliveira;GoDrive;Zona Norte;371;4;Econômico;39;Citroën C3 2023;4.16;Feminino
+1331;Camila;Vieira;GoDrive;Zona Sul;278;29;Black;22;Toyota Corolla Cross 2024;4.53;Feminino
+1332;Lucas;Ribeiro;MoveX;Zona Leste;468;28;Comfort;22;VW Virtus 2022;4.80;Masculino
+1333;Alice;Ribeiro;RideUp;Zona Sul;486;11;Black;55;Toyota Corolla Cross 2024;4.13;Masculino
+1334;Carla;Oliveira;MoveX;Zona Sul;453;11;Comfort;53;Nissan Kicks 2022;4.64;Feminino
+1335;Felipe;Oliveira;RideUp;Zona Sul;133;15;Econômico;22;Fiat Mobi 2022;4.68;Masculino
+1336;Bernardo;Souza;GoDrive;Zona Sul;142;14;Black;35;VW Taos 2023;4.00;Masculino
+1337;Lara;Vieira;GoDrive;Zona Oeste;291;20;Black;32;Jeep Commander 2023;4.82;Feminino
+1338;Maria;Souza;RideUp;Zona Sul;124;24;Econômico;30;Citroën C3 2023;4.72;Masculino
+1339;Alice;Lima;GoDrive;Zona Sul;54;57;Comfort;52;VW Virtus 2022;4.95;Feminino
+1340;Carla;Martins;RideUp;Zona Oeste;472;44;Econômico;52;Citroën C3 2023;4.79;Masculino
+1341;Lara;Vieira;MoveX;Zona Leste;314;48;Econômico;21;Chevrolet Onix 2022;4.88;Masculino
+1342;Camila;Santos;GoDrive;Zona Sul;387;3;Econômico;42;Fiat Argo 2021;4.20;Masculino
+1343;Camila;Oliveira;RideUp;Zona Oeste;449;23;Black;49;VW Taos 2023;4.80;Feminino
+1344;Matheus;Alves;RideUp;Zona Oeste;218;14;Comfort;37;Nissan Kicks 2022;4.72;Masculino
+1345;Bruno;Gomes;RideUp;Zona Leste;258;45;Black;37;Toyota Corolla Cross 2024;4.23;Feminino
+1346;Bruno;Carvalho;RideUp;Zona Norte;89;24;Econômico;26;VW Polo Track 2023;4.76;Feminino
+1347;Heloísa;Gomes;MoveX;Zona Sul;32;16;Comfort;50;Jeep Renegade 2021;4.83;Feminino
+1348;Sofia;Barbosa;RideUp;Zona Norte;360;51;Black;49;Jeep Commander 2023;4.04;Feminino
+1349;Gustavo;Costa;GoDrive;Zona Sul;95;21;Comfort;21;Nissan Versa 2023;4.44;Masculino
+1350;Felipe;Pereira;GoDrive;Zona Sul;274;34;Comfort;47;Nissan Versa 2023;4.09;Masculino
+1351;Julia;Ferreira;RideUp;Zona Leste;387;47;Econômico;35;Chevrolet Onix 2022;4.08;Feminino
+1352;Heitor;Rodrigues;RideUp;Zona Leste;247;47;Comfort;43;Fiat Cronos 2023;4.32;Feminino
+1353;Helena;Martins;GoDrive;Centro;276;23;Black;60;Jeep Commander 2023;4.88;Feminino
+1354;Heloísa;Lopes;MoveX;Centro;378;14;Econômico;58;Chevrolet Onix 2022;4.41;Masculino
+1355;Gustavo;Santos;MoveX;Zona Leste;405;55;Econômico;55;Fiat Argo 2021;4.60;Masculino
+1356;Laura;Lopes;GoDrive;Zona Oeste;252;1;Comfort;59;Nissan Kicks 2022;4.08;Masculino
+1357;Felipe;Almeida;MoveX;Zona Norte;417;7;Econômico;35;Renault Kwid 2024;4.55;Feminino
+1358;Bruno;Almeida;MoveX;Zona Sul;393;22;Comfort;49;Hyundai HB20S 2022;4.58;Feminino
+1359;Felipe;Lopes;MoveX;Zona Norte;317;34;Black;51;Toyota Corolla Cross 2024;4.97;Feminino
+1360;Gael;Costa;RideUp;Zona Oeste;28;31;Econômico;38;Fiat Mobi 2022;4.79;Feminino
+1361;Laura;Pereira;GoDrive;Zona Oeste;369;10;Econômico;25;Citroën C3 2023;4.01;Feminino
+1362;Gael;Almeida;RideUp;Zona Oeste;129;42;Comfort;53;Chevrolet Onix Plus 2023;4.54;Masculino
+1363;Gabriel;Costa;GoDrive;Zona Leste;210;17;Comfort;21;Hyundai HB20S 2022;4.94;Feminino
+1364;Sofia;Carvalho;GoDrive;Zona Oeste;110;32;Econômico;52;VW Polo Track 2023;4.08;Feminino
+1365;Julia;Costa;MoveX;Zona Oeste;459;59;Econômico;43;Chevrolet Onix 2022;4.39;Masculino
+1366;Heitor;Gomes;RideUp;Zona Sul;262;44;Comfort;31;Chevrolet Onix Plus 2023;4.87;Masculino
+1367;Gustavo;Fernandes;RideUp;Zona Sul;136;9;Econômico;58;Hyundai HB20 2023;4.21;Masculino
+1368;Matheus;Vieira;RideUp;Centro;431;28;Comfort;21;Chevrolet Onix Plus 2023;4.12;Feminino
+1369;Laura;Rodrigues;RideUp;Zona Sul;302;30;Econômico;45;Toyota Etios 2020;4.32;Feminino
+1370;Matheus;Alves;MoveX;Zona Sul;321;38;Black;52;Toyota Corolla Cross 2024;4.81;Feminino
+1371;Gustavo;Fernandes;RideUp;Zona Oeste;186;25;Econômico;59;Fiat Argo 2021;4.79;Feminino
+1372;Laura;Costa;RideUp;Centro;88;35;Econômico;51;Fiat Mobi 2022;4.85;Masculino
+1373;Camila;Barbosa;RideUp;Zona Norte;140;23;Black;37;Jeep Commander 2023;4.55;Feminino
+1374;Gabriel;Lopes;MoveX;Zona Leste;30;11;Econômico;40;Fiat Mobi 2022;4.47;Feminino
+1375;Bruno;Costa;MoveX;Zona Oeste;43;43;Comfort;59;Chevrolet Onix Plus 2023;4.14;Feminino
+1376;Gael;Alves;RideUp;Zona Sul;343;34;Comfort;42;Honda City 2021;4.63;Masculino
+1377;Camila;Martins;GoDrive;Centro;411;53;Comfort;58;Jeep Renegade 2021;4.23;Masculino
+1378;Valentina;Lopes;RideUp;Zona Oeste;460;44;Comfort;43;Jeep Renegade 2021;4.30;Masculino
+1379;Heloísa;Fernandes;RideUp;Zona Oeste;432;16;Comfort;39;Hyundai HB20S 2022;4.95;Feminino
+1380;Rafael;Vieira;GoDrive;Zona Leste;51;42;Comfort;54;Hyundai HB20S 2022;4.00;Feminino
+1381;Carla;Lopes;GoDrive;Zona Leste;239;2;Black;38;Jeep Compass 2023;4.81;Masculino
+1382;Gael;Alves;MoveX;Zona Oeste;41;34;Comfort;53;VW Virtus 2022;4.42;Feminino
+1383;Heitor;Gomes;MoveX;Zona Leste;492;38;Comfort;43;VW Virtus 2022;4.08;Masculino
+1384;Ana;Almeida;RideUp;Zona Leste;493;40;Black;22;Toyota Corolla 2024;4.26;Masculino
+1385;Gustavo;Fernandes;MoveX;Zona Norte;198;42;Black;48;Honda Civic 2022;4.54;Masculino
+1386;Isadora;Martins;MoveX;Centro;247;47;Comfort;28;Hyundai HB20S 2022;4.48;Masculino
+1387;Carla;Barbosa;MoveX;Zona Sul;67;10;Comfort;43;Hyundai HB20S 2022;4.88;Feminino
+1388;Arthur;Lima;MoveX;Zona Leste;140;32;Black;23;Honda Civic 2022;4.79;Masculino
+1389;Isadora;Rodrigues;RideUp;Centro;223;36;Econômico;29;Chevrolet Onix 2022;4.99;Feminino
+1390;Pedro;Pereira;MoveX;Zona Leste;286;10;Black;22;Honda Civic 2022;4.02;Feminino
+1391;Ana;Alves;RideUp;Zona Norte;212;36;Black;29;Toyota Corolla Cross 2024;4.78;Masculino
+1392;Miguel;Souza;GoDrive;Centro;363;19;Comfort;28;Jeep Renegade 2021;4.68;Feminino
+1393;Alice;Costa;GoDrive;Zona Leste;168;26;Econômico;37;Fiat Mobi 2022;4.56;Masculino
+1394;Arthur;Martins;RideUp;Centro;467;35;Black;41;Toyota Corolla 2024;4.85;Masculino
+1395;Gabriel;Alves;GoDrive;Zona Sul;89;10;Comfort;60;Chevrolet Onix Plus 2023;4.20;Feminino
+1396;Heitor;Ribeiro;RideUp;Zona Norte;60;47;Econômico;52;Fiat Mobi 2022;4.46;Masculino
+1397;Heloísa;Gomes;GoDrive;Centro;60;19;Econômico;26;Hyundai HB20 2023;4.90;Masculino
+1398;Arthur;Carvalho;MoveX;Zona Oeste;247;6;Econômico;24;Fiat Argo 2021;4.56;Masculino
+1399;Heitor;Oliveira;GoDrive;Centro;257;12;Comfort;38;VW Virtus 2022;4.43;Masculino
+1400;Laura;Vieira;GoDrive;Zona Oeste;367;60;Econômico;26;Chevrolet Onix 2022;4.61;Masculino
+1401;Julia;Silva;MoveX;Zona Oeste;187;49;Econômico;42;Toyota Etios 2020;4.25;Masculino
+1402;Julia;Rodrigues;RideUp;Zona Leste;301;34;Black;28;VW Taos 2023;4.96;Feminino
+1403;Camila;Martins;MoveX;Centro;199;42;Econômico;23;Chevrolet Onix 2022;4.55;Masculino
+1404;Lucas;Gomes;RideUp;Zona Leste;447;49;Comfort;50;Nissan Kicks 2022;4.94;Feminino
+1405;Miguel;Ribeiro;MoveX;Centro;346;20;Econômico;40;Hyundai HB20 2023;4.81;Feminino
+1406;Heloísa;Carvalho;RideUp;Zona Oeste;76;51;Comfort;30;Honda City 2021;4.17;Feminino
+1407;Bruno;Ferreira;MoveX;Zona Norte;211;4;Econômico;52;Renault Kwid 2024;4.75;Feminino
+1408;Arthur;Alves;RideUp;Zona Leste;325;10;Black;37;Jeep Compass 2023;4.37;Feminino
+1409;Bernardo;Soares;GoDrive;Zona Sul;462;14;Black;46;Jeep Compass 2023;4.76;Feminino
+1410;Bernardo;Vieira;GoDrive;Centro;46;23;Black;28;VW Taos 2023;4.48;Masculino
+1411;Julia;Ribeiro;MoveX;Centro;54;23;Econômico;59;Chevrolet Onix 2022;4.91;Masculino
+1412;Lucas;Lopes;MoveX;Zona Leste;196;43;Comfort;28;Fiat Cronos 2023;4.04;Masculino
+1413;Carla;Costa;GoDrive;Zona Sul;313;46;Comfort;30;Honda City 2021;4.31;Masculino
+1414;Carla;Carvalho;RideUp;Zona Norte;26;28;Comfort;54;Nissan Kicks 2022;4.92;Masculino
+1415;Heitor;Fernandes;RideUp;Zona Oeste;283;27;Econômico;55;VW Polo Track 2023;4.55;Masculino
+1416;Lucas;Vieira;MoveX;Centro;499;1;Black;30;Toyota Corolla Cross 2024;4.43;Masculino
+1417;Bruno;Vieira;GoDrive;Zona Norte;270;49;Comfort;53;Fiat Cronos 2023;4.25;Masculino
+1418;Bruno;Soares;GoDrive;Zona Norte;404;45;Econômico;30;Chevrolet Onix 2022;4.20;Masculino
+1419;Ana;Carvalho;GoDrive;Centro;161;28;Econômico;54;Toyota Etios 2020;4.26;Masculino
+1420;Miguel;Silva;GoDrive;Zona Oeste;248;3;Black;54;Jeep Compass 2023;4.50;Feminino
+1421;Felipe;Lima;MoveX;Zona Sul;480;9;Black;37;Jeep Compass 2023;4.24;Feminino
+1422;Gael;Lopes;GoDrive;Centro;363;56;Comfort;37;Chevrolet Onix Plus 2023;4.85;Masculino
+1423;Gustavo;Barbosa;MoveX;Zona Leste;191;3;Econômico;25;Chevrolet Onix 2022;4.26;Feminino
+1424;Laura;Ferreira;GoDrive;Zona Sul;253;46;Comfort;47;Nissan Kicks 2022;4.10;Masculino
+1425;Julia;Lopes;GoDrive;Centro;322;35;Comfort;26;Hyundai HB20S 2022;4.70;Masculino
+1426;Matheus;Silva;GoDrive;Centro;335;27;Comfort;30;Fiat Cronos 2023;4.02;Masculino
+1427;Bernardo;Pereira;RideUp;Zona Sul;153;10;Black;30;Toyota Corolla 2024;4.90;Masculino
+1428;Rafael;Ribeiro;MoveX;Centro;324;36;Econômico;21;Chevrolet Onix 2022;4.44;Masculino
+1429;Sofia;Gomes;RideUp;Zona Sul;477;51;Comfort;49;Nissan Kicks 2022;4.18;Feminino
+1430;Alice;Ferreira;GoDrive;Zona Sul;457;47;Comfort;24;Hyundai HB20S 2022;4.44;Feminino
+1431;Lara;Carvalho;RideUp;Zona Oeste;128;21;Black;23;Toyota Corolla Cross 2024;4.69;Masculino
+1432;Lara;Fernandes;GoDrive;Zona Sul;256;22;Econômico;49;Renault Kwid 2024;4.23;Feminino
+1433;Gael;Costa;GoDrive;Zona Leste;499;32;Black;41;Jeep Compass 2023;4.80;Masculino
+1434;Lucas;Almeida;RideUp;Zona Norte;77;31;Econômico;32;Citroën C3 2023;4.19;Feminino
+1435;Heloísa;Carvalho;GoDrive;Zona Norte;52;55;Comfort;29;Honda City 2021;4.57;Feminino
+1436;Heloísa;Pereira;MoveX;Zona Norte;345;20;Comfort;57;Hyundai HB20S 2022;4.32;Masculino
+1437;Heloísa;Carvalho;RideUp;Zona Oeste;240;19;Econômico;25;Citroën C3 2023;4.43;Masculino
+1438;Lucas;Costa;GoDrive;Zona Norte;325;4;Black;55;VW Taos 2023;4.37;Feminino
+1439;Lucas;Pereira;MoveX;Centro;31;4;Econômico;33;Fiat Mobi 2022;4.55;Feminino
+1440;Sofia;Soares;MoveX;Zona Norte;253;2;Econômico;28;Renault Kwid 2024;4.82;Masculino
+1441;Arthur;Barbosa;GoDrive;Zona Leste;276;60;Econômico;37;Renault Kwid 2024;4.22;Masculino
+1442;Gustavo;Silva;RideUp;Zona Norte;128;40;Econômico;55;Chevrolet Onix 2022;4.01;Masculino
+1443;Maria;Santos;MoveX;Zona Leste;222;13;Econômico;37;Citroën C3 2023;4.71;Feminino
+1444;Sofia;Rodrigues;RideUp;Zona Oeste;225;36;Econômico;39;Citroën C3 2023;4.14;Feminino
+1445;Gustavo;Martins;RideUp;Zona Oeste;354;44;Econômico;35;Renault Kwid 2024;4.95;Feminino
+1446;Miguel;Fernandes;RideUp;Zona Oeste;465;20;Econômico;36;Citroën C3 2023;4.07;Masculino
+1447;Heitor;Carvalho;MoveX;Zona Leste;53;3;Econômico;23;Hyundai HB20 2023;4.31;Feminino
+1448;Valentina;Alves;MoveX;Zona Norte;58;38;Comfort;28;Jeep Renegade 2021;4.03;Masculino
+1449;Camila;Vieira;RideUp;Zona Leste;486;35;Comfort;28;Chevrolet Onix Plus 2023;4.57;Feminino
+1450;Lucas;Souza;GoDrive;Zona Norte;216;52;Black;54;Jeep Compass 2023;4.12;Masculino
+1451;Gael;Gomes;RideUp;Zona Norte;94;22;Econômico;29;Hyundai HB20 2023;4.93;Feminino
+1452;Maria;Lima;RideUp;Zona Sul;216;60;Comfort;35;Jeep Renegade 2021;4.62;Masculino
+1453;Felipe;Carvalho;GoDrive;Centro;375;29;Comfort;54;Jeep Renegade 2021;4.33;Masculino
+1454;Heloísa;Ferreira;RideUp;Centro;373;23;Econômico;21;Citroën C3 2023;4.64;Feminino
+1455;Laura;Alves;GoDrive;Zona Leste;317;56;Black;42;Toyota Corolla Cross 2024;4.93;Feminino
+1456;Camila;Ferreira;GoDrive;Zona Norte;402;37;Comfort;35;Hyundai HB20S 2022;4.38;Feminino
+1457;Sofia;Soares;GoDrive;Zona Norte;494;53;Comfort;45;Nissan Versa 2023;4.56;Feminino
+1458;Arthur;Rodrigues;MoveX;Zona Norte;285;53;Econômico;46;Toyota Etios 2020;4.92;Feminino
+1459;Bernardo;Vieira;GoDrive;Zona Leste;117;6;Comfort;44;Chevrolet Onix Plus 2023;4.52;Feminino
+1460;Arthur;Alves;GoDrive;Zona Norte;411;27;Black;26;Honda Civic 2022;4.62;Feminino
+1461;Ana;Ribeiro;GoDrive;Zona Norte;127;10;Comfort;46;Nissan Versa 2023;4.58;Masculino
+1462;Lucas;Lopes;RideUp;Zona Oeste;363;58;Comfort;41;VW Virtus 2022;4.65;Feminino
+1463;Gustavo;Costa;GoDrive;Zona Sul;401;3;Comfort;54;Jeep Renegade 2021;4.84;Feminino
+1464;Lucas;Ferreira;GoDrive;Zona Norte;273;44;Black;41;Jeep Compass 2023;4.84;Feminino
+1465;Isadora;Ribeiro;MoveX;Centro;457;56;Comfort;44;Nissan Versa 2023;4.18;Masculino
+1466;Laura;Lima;MoveX;Zona Leste;361;8;Comfort;57;VW Virtus 2022;4.02;Masculino
+1467;Arthur;Alves;MoveX;Zona Oeste;318;57;Comfort;52;Hyundai HB20S 2022;4.38;Feminino
+1468;Arthur;Silva;MoveX;Zona Norte;388;2;Black;60;Toyota Corolla 2024;4.63;Feminino
+1469;Alice;Martins;MoveX;Zona Leste;156;8;Comfort;31;Nissan Kicks 2022;4.13;Masculino
+1470;Heitor;Lima;GoDrive;Zona Leste;219;49;Black;29;Jeep Commander 2023;4.46;Feminino
+1471;Lucas;Lopes;MoveX;Zona Leste;318;29;Comfort;53;Nissan Versa 2023;4.92;Feminino
+1472;Maria;Alves;RideUp;Zona Oeste;90;46;Black;40;Toyota Corolla Cross 2024;4.26;Masculino
+1473;Bernardo;Carvalho;MoveX;Zona Norte;46;6;Econômico;52;Fiat Mobi 2022;4.33;Feminino
+1474;Bernardo;Lopes;RideUp;Zona Sul;298;2;Black;26;Toyota Corolla Cross 2024;4.35;Masculino
+1475;Maria;Ribeiro;RideUp;Zona Oeste;85;24;Econômico;53;Renault Kwid 2024;4.46;Feminino
+1476;Carla;Rodrigues;RideUp;Zona Oeste;178;40;Econômico;43;Citroën C3 2023;4.49;Masculino
+1477;Arthur;Fernandes;MoveX;Zona Oeste;250;24;Econômico;23;Chevrolet Onix 2022;4.26;Feminino
+1478;Gabriel;Martins;RideUp;Zona Leste;447;39;Comfort;21;Fiat Cronos 2023;4.89;Feminino
+1479;Lucas;Soares;MoveX;Zona Sul;22;55;Comfort;47;Nissan Versa 2023;4.48;Masculino
+1480;Gabriel;Barbosa;MoveX;Zona Oeste;177;56;Econômico;48;Chevrolet Onix 2022;4.39;Masculino
+1481;Alice;Almeida;GoDrive;Centro;354;50;Econômico;35;VW Polo Track 2023;4.38;Feminino
+1482;Bernardo;Ribeiro;RideUp;Zona Oeste;160;5;Black;37;Jeep Compass 2023;4.08;Feminino
+1483;Lara;Pereira;RideUp;Centro;133;23;Econômico;57;Toyota Etios 2020;4.67;Feminino
+1484;Pedro;Costa;MoveX;Zona Leste;146;1;Black;56;Jeep Compass 2023;4.50;Masculino
+1485;Rafael;Vieira;RideUp;Zona Sul;341;12;Comfort;31;Honda City 2021;4.63;Feminino
+1486;Miguel;Ribeiro;MoveX;Zona Leste;393;19;Econômico;51;Fiat Argo 2021;4.30;Feminino
+1487;Ana;Santos;GoDrive;Zona Sul;315;14;Comfort;29;Fiat Cronos 2023;4.76;Feminino
+1488;Heitor;Carvalho;MoveX;Zona Leste;309;40;Black;35;Toyota Corolla Cross 2024;4.72;Masculino
+1489;Heitor;Fernandes;GoDrive;Zona Leste;266;26;Comfort;23;VW Virtus 2022;4.73;Feminino
+1490;Gustavo;Almeida;MoveX;Zona Oeste;67;53;Comfort;39;Fiat Cronos 2023;4.91;Masculino
+1491;Lara;Carvalho;GoDrive;Zona Sul;234;6;Black;24;Toyota Corolla 2024;4.88;Masculino
+1492;Carla;Martins;GoDrive;Zona Norte;118;46;Comfort;40;Nissan Kicks 2022;4.50;Masculino
+1493;Felipe;Vieira;MoveX;Zona Oeste;405;43;Comfort;38;VW Virtus 2022;4.93;Feminino
+1494;Maria;Pereira;RideUp;Zona Oeste;76;35;Black;22;Toyota Corolla Cross 2024;4.90;Feminino
+1495;Gustavo;Ribeiro;RideUp;Zona Leste;326;9;Econômico;45;Renault Kwid 2024;4.67;Masculino
+1496;Pedro;Costa;GoDrive;Zona Leste;165;24;Econômico;32;Renault Kwid 2024;4.24;Masculino
+1497;Gabriel;Santos;MoveX;Centro;461;14;Black;32;Jeep Commander 2023;4.78;Feminino
+1498;Rafael;Silva;MoveX;Zona Sul;318;52;Black;47;Toyota Corolla Cross 2024;4.22;Masculino
+1499;Heitor;Gomes;GoDrive;Zona Leste;491;56;Black;47;Honda Civic 2022;4.45;Feminino
+1500;Valentina;Pereira;GoDrive;Zona Norte;377;7;Econômico;60;Citroën C3 2023;4.73;Masculino
