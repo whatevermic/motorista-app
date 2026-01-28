@@ -1,54 +1,75 @@
 # motorista-app
 
-Projeto de portfólio com um cenário operacional de mobilidade para analisar aceitação de corridas, recusas e padrões por empresa/região, usando SQL Server (SSMS) e Power BI.
+Projeto de portfólio com foco em análise de motoristas e operações de corridas: criação do dataset em CSV, tratamento e consultas no SQL Server (SSMS) e construção de dashboard no Power BI (DAX + visualização).
 
-## Contexto
-A ideia aqui é simular uma rotina bem comum em times de Operações/Produto: entender **por que a taxa de aceitação cai**, onde estão os **pontos críticos** e como isso afeta a experiência (motoristas/usuários).
+## O que foi feito (pipeline)
+1) **Geração dos CSVs (Google Colab / Python)**  
+   Dataset simulado criado no Colab com apoio de IA, para reproduzir um cenário realista de operação (corridas, motoristas, regiões, recusas etc.)
 
-Os dados são simulados e foram gerados para reproduzir situações reais (ex.: empresas com performance diferente, regiões com comportamento distinto e motivos de recusa recorrentes).
+2) **Tratamento e análises no SQL Server (SSMS)**  
+   Consultas para entender comportamento e gargalos: aceitação, recusas, variações por empresa/região e faixas (distância/preço)
 
-## Pipeline (do começo ao fim)
-1. **Geração do CSV** no Python (Google Colab), com apoio de IA para acelerar a criação do dataset.
-2. **Carga, tratamento e análises no SQL Server (SSMS)**: consultas, agregações e criação de visões para consumo no BI.
-3. **Dashboard no Power BI**: modelagem + medidas em DAX e construção das páginas (Visão geral, Regiões, Perfis).
+3) **Dashboard no Power BI**  
+   Modelagem, criação de medidas DAX e construção de páginas com indicadores e diagnósticos
 
-## O que você encontra neste repositório
+---
+
+## Estrutura do repositório
+- `data/` → arquivos CSV usados na análise  
+  - `data/Motoristas_v3.csv`  
+  - `data/corridas_v3.csv`
+- `sql/` → consultas SQL (vou incluir aqui os scripts e prints do SSMS)
+- `images/` → prints do dashboard e imagens para o README
 - `motorista-app.pbix` → arquivo do Power BI
-- `images/` → prints das páginas do dashboard e evidências do SQL (queries/resultados)
-- `sql/` → scripts com as consultas usadas nas análises
+
+---
 
 ## Dashboard (prints)
-As páginas abaixo mostram o fluxo de análise do projeto:
+Abaixo estão algumas telas do Power BI usadas no diagnóstico:
 
 ### Página 1 — Visão geral
 ![Página 1](images/Motorista_BI_01.png)
 
-### Página 2 — Regiões (Diagnósticos)
+### Página 2 — Regiões (diagnóstico)
 ![Página 2](images/Motorista_BI_02.png)
 
-### Página 3 — Perfis
+### Página 3 — Perfis e faixas (distância / preço / categoria)
 ![Página 3](images/Motorista_BI_03.png)
 
-## Consultas SQL (SSMS)
-As consultas estão separadas por arquivos na pasta `sql/`.  
-Sugestão de leitura: comece pelos KPIs e depois vá para os recortes (empresa, região, motivo, distância e preço).
+---
 
-- `sql/01_kpis_gerais.sql`
-- `sql/02_aceitacao_por_empresa.sql`
-- `sql/03_recusas_por_motivo.sql`
-- `sql/04_aceitacao_por_regiao.sql`
-- `sql/05_aceitacao_por_faixa_distancia.sql`
-- `sql/06_aceitacao_por_faixa_preco.sql` (se você usar)
+## Principais perguntas que guiaram a análise
+- Quais **motivos de recusa** mais impactam a operação?
+- Como a **taxa de aceitação** varia por **empresa** e **região**?
+- Existe relação entre **distância / preço** e aceitação?
+- Onde estão os **pontos críticos** que geram perda de eficiência (ex.: baixa aceitação, alto volume de recusa)?
 
-## Tecnologias usadas
-- SQL Server / SSMS (consultas, tratamento e agregações)
-- Power BI (modelagem, DAX e visualização)
-- Python (Google Colab) para gerar o dataset base
+---
 
-## Como abrir
-1. Baixe o arquivo `motorista-app.pbix`
-2. Abra no Power BI Desktop
-3. Caso apareça aviso de fonte de dados, aponte para o arquivo CSV (se você também subir o CSV aqui no repo)
+## SQL (SSMS)
+As consultas e o passo a passo do tratamento vão ficar na pasta `sql/`.
+
+➡️ Acesse: `sql/`
+
+> Observação: aqui eu vou colocar os scripts (.sql) e prints do resultado do SSMS para mostrar o raciocínio e as evidências (consulta + output).
+
+---
+
+## Como reproduzir (bem direto)
+1) Baixe os CSVs em `data/`
+2) Importe no SQL Server (SSMS) e rode as consultas (quando eu subir os scripts, estarão em `sql/`)
+3) Abra o `motorista-app.pbix` no Power BI Desktop
+4) Se precisar apontar novamente os caminhos dos CSVs:  
+   **Transformar dados (Power Query) → Configurações da fonte → Alterar caminho**
+
+---
+
+## Ferramentas
+- **Python (Colab)**: geração do dataset em CSV  
+- **SQL Server / SSMS**: consultas e tratamento  
+- **Power BI**: modelagem, medidas DAX e dashboard
+
+---
 
 ## Autor
 Michael Andrade  
